@@ -1,0 +1,75 @@
+
+{
+    "name": "onSwap",
+    "type": "function",
+    "stateMutability": "nonpayable",
+    "inputs": [
+      {
+        "name": "request",
+        "type": "tuple",
+        "internalType": "struct IPoolSwapStructs.SwapRequest",
+        "components": [
+          { "name": "lastChangeBlock", "type": "uint256", "internalType": "uint256" },
+          { "name": "from", "type": "address", "internalType": "address" },
+          { "name": "to", "type": "address", "internalType": "address" },
+          { "name": "userData", "type": "bytes", "internalType": "bytes" }
+        ]
+      },
+      { "name": "balanceTokenIn", "type": "uint256", "internalType": "uint256" },
+      { "name": "balanceTokenOut", "type": "uint256", "internalType": "uint256" }
+    ],
+    "outputs": [
+      { "name": "", "type": "uint256", "internalType": "uint256" }
+    ]
+  }
+
+
+  {
+    "name": "onSwap",
+    "type": "function",
+    "stateMutability": "nonpayable",
+    "inputs": [
+      {
+        "name": "swapRequest",
+        "type": "tuple",
+        "internalType": "struct IPoolSwapStructs.SwapRequest",
+        "components": [
+          { "name": "lastChangeBlock", "type": "uint256", "internalType": "uint256" },
+          { "name": "from", "type": "address", "internalType": "address" },
+          { "name": "to", "type": "address", "internalType": "address" },
+          { "name": "userData", "type": "bytes", "internalType": "bytes" }
+        ]
+      },
+      { "name": "balances", "type": "uint256[]", "internalType": "uint256[]" },
+      { "name": "indexIn", "type": "uint256", "internalType": "uint256" },
+      { "name": "indexOut", "type": "uint256", "internalType": "uint256" }
+    ],
+    "outputs": [
+      { "name": "", "type": "uint256", "internalType": "uint256" }
+    ]
+  }
+  
+  {
+    "name": "onSwap",
+    "type": "function",
+    "stateMutability": "nonpayable",
+    "inputs": [
+      {
+        "name": "request",
+        "type": "tuple",
+        "internalType": "struct IPoolSwapStructs.SwapRequest",
+        "components": [
+          { "name": "lastChangeBlock", "type": "uint256", "internalType": "uint256" },
+          { "name": "from", "type": "address", "internalType": "address" },
+          { "name": "to", "type": "address", "internalType": "address" },
+          { "name": "userData", "type": "bytes", "internalType": "bytes" }
+        ]
+      },
+      { "name": "balanceTokenIn", "type": "uint256", "internalType": "uint256" },
+      { "name": "balanceTokenOut", "type": "uint256", "internalType": "uint256" }
+    ],
+    "outputs": [
+      { "name": "", "type": "uint256", "internalType": "uint256" }
+    ]
+  }
+  

@@ -1,0 +1,36 @@
+
+        {
+        pools(first:1000, skip: 0, orderDirection: desc, orderBy: volumeUSD,
+        where: { 
+            totalValueLockedUSD_gte: 1000,
+            liquidity_not:0 
+        }) 
+        {
+            token0 {
+                id
+                symbol
+                decimals
+                derivedETH 
+            }
+            token1 {
+                symbol
+                id
+                decimals
+                derivedETH 
+            }
+            id
+            totalValueLockedToken0
+            totalValueLockedToken1
+            totalValueLockedUSD
+            token0Price         # Price of token0 in terms of token1
+            token1Price         # Price of token1 in terms of token0
+            liquidity           # V3 liquidity value
+            sqrtPrice           # V3 sqrtPrice value
+            tick
+            feeTier
+        }
+        bundle(id: "1") {
+            ethPriceUSD
+        }
+        }
+        

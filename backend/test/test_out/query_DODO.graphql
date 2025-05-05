@@ -1,0 +1,31 @@
+
+        {
+        pairs(first: 1000, orderBy: volumeUSD, orderDirection: desc, skip: 0, where:{type_not: "VIRTUAL"}) {
+            baseReserve       # Reserve amount of the base token
+            baseToken {        # Information about the base token (token0 equivalent)
+            decimals
+            id
+            name
+            usdPrice        # Price in USD from the subgraph
+            symbol
+            }
+            i                 # Oracle price parameter 'i' (DODO specific)
+            id                # Pool address
+            feeUSD            # Fees collected in USD (maybe historical)
+            feeBase           # Fee parameter for base token
+            feeQuote          # Fee parameter for quote token
+            k                 # Price curve parameter 'k' (DODO specific)
+            lastTradePrice    # Last traded price in the pool
+            quoteReserve      # Reserve amount of the quote token
+            quoteToken {      # Information about the quote token (token1 equivalent)
+            decimals
+            id
+            name
+            usdPrice
+            symbol
+            }
+            volumeUSD         # Trading volume in USD (used for ordering/filtering)
+            type              # Type of DODO pool (e.g., CLASSICAL, DPP)
+        }
+        }
+        

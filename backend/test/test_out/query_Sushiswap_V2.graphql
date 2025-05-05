@@ -1,0 +1,12 @@
+
+                {
+                pairs(first: 1000, orderBy: reserveUSD, orderDirection: desc, skip: 0) {
+                    id
+                    reserveUSD # Include the ordering metric itself
+                    reserve0
+                    reserve1
+                    token0 { id symbol decimals }
+                    token1 { id symbol decimals }
+                    }
+                }
+                

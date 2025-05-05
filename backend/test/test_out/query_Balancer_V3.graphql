@@ -1,0 +1,47 @@
+
+        {
+        aggregatorPools(
+            first: 260, 
+            orderBy: totalLiquidity, 
+            orderDirection: desc, 
+            skip: 0, 
+            where: { chainIn: [MAINNET], minTvl: 3000}
+        ) {
+            address
+            type
+            amp
+
+            # Gyro-specific fields you want
+            paramsAlpha:alpha
+            paramsBeta:beta
+            paramsC:c
+            paramsS:s
+            paramsLambda:lambda
+            tauAlphaX
+            tauAlphaY
+            tauBetaX
+            tauBetaY
+            u
+            v
+            w
+            z
+            dSq
+
+            poolTokens {
+            address
+            symbol
+            balance
+            weight
+            balanceUSD
+            scalingFactor
+            priceRate
+            decimals
+            # isAllowed The token xxx is currently not supported.
+            }
+            dynamicData {
+            swapFee
+            totalLiquidity
+            }
+        }
+        }
+        

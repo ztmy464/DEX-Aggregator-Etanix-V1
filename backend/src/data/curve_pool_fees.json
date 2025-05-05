@@ -1,0 +1,1578 @@
+{
+  "0x16b54e3ac8e3ba088333985035b869847e36e770": {
+    "fee": 4000000,
+    "offpeg_fee_multiplier": 20000000000
+  },
+  "0xae34574ac03a15cd58a92dc79de7b1a0800f1ce3": {
+    "fee": 1000000,
+    "offpeg_fee_multiplier": 1
+  },
+  "0xf2b25362a03f6eacca8de8d5350a9f37944c1e59": {
+    "fee": 11179059,
+    "offpeg_fee_multiplier": 1
+  },
+  "0x5ba541585d6297b756f08b7c61a7e37752123b4f": {
+    "fee": 4000000,
+    "offpeg_fee_multiplier": 20000000000
+  },
+  "0x7d00230379b18ebdcaf0104da2bb59556dfe3ca4": {
+    "fee": 37893057,
+    "offpeg_fee_multiplier": 1
+  },
+  "0x3ee841f47947fefbe510366e4bbb49e145484195": {
+    "fee": 2000000,
+    "offpeg_fee_multiplier": 50000000000
+  },
+  "0xd29f8980852c2c76fc3f6e96a7aa06e0bedcc1b1": {
+    "fee": 2000000,
+    "offpeg_fee_multiplier": 50000000000
+  },
+  "0x26f3f26f46cbee59d1f8860865e13aa39e36a8c0": {
+    "fee": 10000000,
+    "offpeg_fee_multiplier": 1
+  },
+  "0x880f2fb3704f1875361de6ee59629c6c6497a5e3": {
+    "fee": 9836545,
+    "offpeg_fee_multiplier": 1
+  },
+  "0xb6af437ceea0dbea524115efc905f0f44fd1ebaf": {
+    "fee": 4000000,
+    "offpeg_fee_multiplier": 30000000000
+  },
+  "0xd65ed4bce447195187f37ce7d82f56adf1826f8f": {
+    "fee": 1000000,
+    "offpeg_fee_multiplier": 50000000000
+  },
+  "0x5e25ba10b8ec6b81561a4d416724c455781b300b": {
+    "fee": 402855,
+    "offpeg_fee_multiplier": 1
+  },
+  "0x29a760138fa530d51a100171cb5ce4ddf506af2e": {
+    "fee": 4000000,
+    "offpeg_fee_multiplier": 20000000000
+  },
+  "0x69accb968b19a53790f43e57558f5e443a91af22": {
+    "fee": 4000000,
+    "offpeg_fee_multiplier": 1
+  },
+  "0x4149d1038575ce235e03e03b39487a80fd709d31": {
+    "fee": 43177204,
+    "offpeg_fee_multiplier": 1
+  },
+  "0xe7c6e0a739021cdba7aac21b4b728779eef974d9": {
+    "fee": 9796314,
+    "offpeg_fee_multiplier": 1
+  },
+  "0x5f6c431ac417f0f430b84a666a563fabe681da94": {
+    "fee": 1000000,
+    "offpeg_fee_multiplier": 50000000000
+  },
+  "0x41ea4045de2676727883aa0b4e43d7e32261f559": {
+    "fee": 10691058,
+    "offpeg_fee_multiplier": 1
+  },
+  "0x8efd02a0a40545f32dba5d664cbbc1570d3fedf6": {
+    "fee": 4000000,
+    "offpeg_fee_multiplier": 20000000000
+  },
+  "0x8ac64ba8e440ce5c2d08688f4020698b1826152e": {
+    "fee": 44176988,
+    "offpeg_fee_multiplier": 1
+  },
+  "0x592878b920101946fb5915ab97961bc546f211cc": {
+    "fee": 43563483,
+    "offpeg_fee_multiplier": 1
+  },
+  "0xce6431d21e3fb1036ce9973a3312368ed96f5ce7": {
+    "fee": 1000000,
+    "offpeg_fee_multiplier": 10000000000
+  },
+  "0x8818a9bb44fbf33502be7c15c500d0c783b73067": {
+    "fee": 4000000,
+    "offpeg_fee_multiplier": 1
+  },
+  "0xb310aaa0242b660c509981f36f7c0fc3e387ebc7": {
+    "fee": 426712,
+    "offpeg_fee_multiplier": 1
+  },
+  "0xb73527615c25ac2d226db2581525f69968926caf": {
+    "fee": 2000000,
+    "offpeg_fee_multiplier": 50000000000
+  },
+  "0x635ef0056a597d13863b73825cca297236578595": {
+    "fee": 500000,
+    "offpeg_fee_multiplier": 80000000000
+  },
+  "0x7fb53345f1b21ab5d9510adb38f7d3590be6364b": {
+    "fee": 5401795,
+    "offpeg_fee_multiplier": 1
+  },
+  "0xe080027bd47353b5d1639772b4a75e9ed3658a0d": {
+    "fee": 2000000,
+    "offpeg_fee_multiplier": 10000000000
+  },
+  "0xa4eddfe4ba5143ac17fd6bc1e53de0384df8c660": {
+    "fee": 1000000,
+    "offpeg_fee_multiplier": 20000000000
+  },
+  "0xbebc44782c7db0a1a60cb6fe97d0b483032ff1c7": {
+    "fee": 800000,
+    "offpeg_fee_multiplier": 1
+  },
+  "0x08bfa22bb3e024cdfeb3eca53c0cb93bf59c4147": {
+    "fee": 4000000,
+    "offpeg_fee_multiplier": 20000000000
+  },
+  "0xb92b054b9cc33685e7f8c3f85177c4b6dc061391": {
+    "fee": 1000000,
+    "offpeg_fee_multiplier": 20000000000
+  },
+  "0x7956fad09a1d1c47550331e7f06bf7c7b7c2af08": {
+    "fee": 4000000,
+    "offpeg_fee_multiplier": 20000000000
+  },
+  "0x80466c64868e1ab14a1ddf27a676c3fcbe638fe5": {
+    "fee": 13462791,
+    "offpeg_fee_multiplier": 1
+  },
+  "0x5fc50c99e175dfeb8faa7613e050645583ac1501": {
+    "fee": 5000000,
+    "offpeg_fee_multiplier": 40000000000
+  },
+  "0x9d0464996170c6b9e75eed71c68b99ddedf279e8": {
+    "fee": 15000000,
+    "offpeg_fee_multiplier": 1
+  },
+  "0xdebf20617708857ebe4f679508e7b7863a8a8eee": {
+    "fee": 4000000,
+    "offpeg_fee_multiplier": 20000000000
+  },
+  "0x0e84996ac18fcf6fe18c372520798ce0cdf892d4": {
+    "fee": 4000000,
+    "offpeg_fee_multiplier": 20000000000
+  },
+  "0x0cd6f267b2086bea681e922e19d40512511be538": {
+    "fee": 1000000,
+    "offpeg_fee_multiplier": 1
+  },
+  "0xb576491f1e6e5e62f1d8f26062ee822b40b0e0d4": {
+    "fee": 35779786,
+    "offpeg_fee_multiplier": 1
+  },
+  "0x053d5be7c653325b58d88b942fb2454f8ffd8673": {
+    "fee": 40909907,
+    "offpeg_fee_multiplier": 1
+  },
+  "0x0d89f4583a6b5eceb76551d573ad49cd435f6064": {
+    "fee": 8958644,
+    "offpeg_fee_multiplier": 1
+  },
+  "0xa5588f7cdf560811710a2d82d3c9c99769db1dcb": {
+    "fee": 1000000,
+    "offpeg_fee_multiplier": 10000000000
+  },
+  "0x2cf99a343e4ecf49623e82f2ec6a9b62e16ff3fe": {
+    "fee": 4000000,
+    "offpeg_fee_multiplier": 0
+  },
+  "0x3175f54a354c83e8ade950c14fa3e32fc794c0dc": {
+    "fee": 4000000,
+    "offpeg_fee_multiplier": 1
+  },
+  "0x77146b0a1d08b6844376df6d9da99ba7f1b19e71": {
+    "fee": 44994882,
+    "offpeg_fee_multiplier": 1
+  },
+  "0xe2ed1dac3a9547bc6057e32bf8133b5268d7d987": {
+    "fee": 2000000,
+    "offpeg_fee_multiplier": 10000000000
+  },
+  "0x4e32d84b25e56df669a978db635b9acf1312bb29": {
+    "fee": 1000000,
+    "offpeg_fee_multiplier": 100000000000
+  },
+  "0xc1f6110d42781aaccd16d716ca7b814f2aeee18f": {
+    "fee": 4000000,
+    "offpeg_fee_multiplier": 1
+  },
+  "0x7a4adfbc173e2d4f224f11496b0d0ef86f336091": {
+    "fee": 40957788,
+    "offpeg_fee_multiplier": 1
+  },
+  "0x2482dfb5a65d901d137742ab1095f26374509352": {
+    "fee": 4000000,
+    "offpeg_fee_multiplier": 20000000000
+  },
+  "0x4424b4a37ba0088d8a718b8fc2ab7952c7e695f5": {
+    "fee": 4000000,
+    "offpeg_fee_multiplier": 1
+  },
+  "0x9d8108ddd8ad1ee89d527c0c9e928cb9d2bba2d3": {
+    "fee": 43432047,
+    "offpeg_fee_multiplier": 1
+  },
+  "0xc50e191f703fb3160fc15d8b168a8c740fec3666": {
+    "fee": 10000000,
+    "offpeg_fee_multiplier": 20000000000
+  },
+  "0xbe426b0f37c112dd20d5866769c8034171567b31": {
+    "fee": 1000000,
+    "offpeg_fee_multiplier": 1
+  },
+  "0x8272e1a3dbef607c04aa6e5bd3a1a134c8ac063b": {
+    "fee": 4000000,
+    "offpeg_fee_multiplier": 1
+  },
+  "0xfd1627e3f3469c8392c8c3a261d8f0677586e5e1": {
+    "fee": 1000000,
+    "offpeg_fee_multiplier": 50000000000
+  },
+  "0xae6ee608b297305abf3eb609b81febbb8f6a0bb3": {
+    "fee": 4000000,
+    "offpeg_fee_multiplier": 20000000000
+  },
+  "0x1ab3d612ea7df26117554dddd379764ebce1a5ad": {
+    "fee": 1000000,
+    "offpeg_fee_multiplier": 50000000000
+  },
+  "0xcc68509f9ca0e1ed119eac7c468ec1b1c42f384f": {
+    "fee": 4000000,
+    "offpeg_fee_multiplier": 20000000000
+  },
+  "0x447ddd4960d9fdbf6af9a790560d0af76795cb08": {
+    "fee": 4000000,
+    "offpeg_fee_multiplier": 1
+  },
+  "0x99f5acc8ec2da2bc0771c32814eff52b712de1e5": {
+    "fee": 15000000,
+    "offpeg_fee_multiplier": 1
+  },
+  "0xb9446c4ef5ebe66268da6700d26f96273de3d571": {
+    "fee": 4000000,
+    "offpeg_fee_multiplier": 1
+  },
+  "0x80aa1a80a30055daa084e599836532f3e58c95e2": {
+    "fee": 40553237,
+    "offpeg_fee_multiplier": 1
+  },
+  "0xca978a0528116dda3cba9acd3e68bc6191ca53d0": {
+    "fee": 1000000,
+    "offpeg_fee_multiplier": 1
+  },
+  "0x029626a40ff7be6cd9845c4cbf2cf410ffc40bc8": {
+    "fee": 323946,
+    "offpeg_fee_multiplier": 1
+  },
+  "0x6fbc5ddc181240cb1d9bcec6fdea429036818035": {
+    "fee": 4000000,
+    "offpeg_fee_multiplier": 20000000000
+  },
+  "0x9fee65d5a627e73212989c8bbedc5fa5cae3821f": {
+    "fee": 30310760,
+    "offpeg_fee_multiplier": 1
+  },
+  "0x48bd12e77696d39b30fbc805aaebad2ea100d3e1": {
+    "fee": 2000000,
+    "offpeg_fee_multiplier": 50000000000
+  },
+  "0x76a962ba6770068bcf454d34dde17175611e6637": {
+    "fee": 2000000,
+    "offpeg_fee_multiplier": 50000000000
+  },
+  "0x7e13876b92f1a62c599c231f783f682e96b91761": {
+    "fee": 1000000,
+    "offpeg_fee_multiplier": 50000000000
+  },
+  "0xcc7d5785ad5755b6164e21495e07adb0ff11c2a8": {
+    "fee": 1000000,
+    "offpeg_fee_multiplier": 100000000000
+  },
+  "0x867fe27fc2462cff8890b54dfd64e6d42a9d1ac8": {
+    "fee": 38588937,
+    "offpeg_fee_multiplier": 1
+  },
+  "0xabaf76590478f2fe0b396996f55f0b61101e9502": {
+    "fee": 2000000,
+    "offpeg_fee_multiplier": 50000000000
+  },
+  "0x6951bdc4734b9f7f3e1b74afebc670c736a0edb6": {
+    "fee": 2000000,
+    "offpeg_fee_multiplier": 10000000000
+  },
+  "0x79a8c46dea5ada233abaffd40f3a0a2b1e5a4f27": {
+    "fee": 4000000,
+    "offpeg_fee_multiplier": 1
+  },
+  "0xaea5e50b41edd6e86ebc631cab64ac32bc9d87d7": {
+    "fee": 90452,
+    "offpeg_fee_multiplier": 1
+  },
+  "0xc6628f00f29cc89a87bbee7554c4725611200fd7": {
+    "fee": 10000000,
+    "offpeg_fee_multiplier": 20000000000
+  },
+  "0xb79d010a42db5837b9ad6dfa0716ab416ae12437": {
+    "fee": 60000,
+    "offpeg_fee_multiplier": 1
+  },
+  "0xffa66f6985215fdd2907b21145d1f9c91ac62f80": {
+    "fee": 4000000,
+    "offpeg_fee_multiplier": 1
+  },
+  "0xc48a38499a90e3b883c509ca08ec1b540cdf15ee": {
+    "fee": 2000000,
+    "offpeg_fee_multiplier": 100000000000
+  },
+  "0xa3f152837492340daaf201f4dfec6cd73a8a9760": {
+    "fee": 4000000,
+    "offpeg_fee_multiplier": 20000000000
+  },
+  "0xdb74dfdd3bb46be8ce6c33dc9d82777bcfc3ded5": {
+    "fee": 500000,
+    "offpeg_fee_multiplier": 100000000000
+  },
+  "0xfb8814d005c5f32874391e888da6eb2fe7a27902": {
+    "fee": 37389147,
+    "offpeg_fee_multiplier": 1
+  },
+  "0xbbaf8b2837cbbc7146f5bc978d6f84db0be1cacc": {
+    "fee": 1000000,
+    "offpeg_fee_multiplier": 50000000000
+  },
+  "0xfa0bbb0a5815f6648241c9221027b70914dd8949": {
+    "fee": 4000000,
+    "offpeg_fee_multiplier": 1
+  },
+  "0x6bd88c57523bf138a19b263e8ebc8661c836b171": {
+    "fee": 31766369,
+    "offpeg_fee_multiplier": 1
+  },
+  "0xb478bf40dd622086e0d0889eebbadcb63806adde": {
+    "fee": 1000000,
+    "offpeg_fee_multiplier": 50000000000
+  },
+  "0xc25099792e9349c7dd09759744ea681c7de2cb66": {
+    "fee": 4000000,
+    "offpeg_fee_multiplier": 1
+  },
+  "0xf5f5b97624542d72a9e06f04804bf81baa15e2b4": {
+    "fee": 5590287,
+    "offpeg_fee_multiplier": 1
+  },
+  "0xf7aca11437476649663493aaa863ae047f94139f": {
+    "fee": 4000000,
+    "offpeg_fee_multiplier": 20000000000
+  },
+  "0x17d964da2bd337cfeaed30a27c9ab6580676e730": {
+    "fee": 4000000,
+    "offpeg_fee_multiplier": 20000000000
+  },
+  "0x1d08e7adc263cfc70b1babe6dc5bb339c16eec52": {
+    "fee": 4000000,
+    "offpeg_fee_multiplier": 20000000000
+  },
+  "0x06364f10b501e868329afbc005b3492902d6c763": {
+    "fee": 4000000,
+    "offpeg_fee_multiplier": 1
+  },
+  "0x9804c30875127246ac92d72d5cdf0630aa356861": {
+    "fee": 4000000,
+    "offpeg_fee_multiplier": 125000000000
+  },
+  "0xe7e86c6055b964c7894d33e037ead34f2b62795d": {
+    "fee": 25000000,
+    "offpeg_fee_multiplier": 1
+  },
+  "0x5426178799ee0a0181a89b4f57efddfab49941ec": {
+    "fee": 3617169,
+    "offpeg_fee_multiplier": 1
+  },
+  "0x2dded6da1bf5dbdf597c45fcfaa3194e53ecfeaf": {
+    "fee": 6000000,
+    "offpeg_fee_multiplier": 1
+  },
+  "0x50f3752289e1456bfa505afd37b241bca23e685d": {
+    "fee": 38645884,
+    "offpeg_fee_multiplier": 1
+  },
+  "0xf9078fb962a7d13f55d40d49c8aa6472abd1a5a6": {
+    "fee": 4000000,
+    "offpeg_fee_multiplier": 1
+  },
+  "0xaeda92e6a3b1028edc139a4ae56ec881f3064d4f": {
+    "fee": 4000000,
+    "offpeg_fee_multiplier": 1
+  },
+  "0x42e03280c99579b048bc001531bf7015bc252653": {
+    "fee": 4000000,
+    "offpeg_fee_multiplier": 20000000000
+  },
+  "0xbcb91e689114b9cc865ad7871845c95241df4105": {
+    "fee": 4000000,
+    "offpeg_fee_multiplier": 1
+  },
+  "0xeeda34a377dd0ca676b9511ee1324974fa8d980d": {
+    "fee": 2000000,
+    "offpeg_fee_multiplier": 40000000000
+  },
+  "0x42d7025938bec20b69cbae5a77421082407f053a": {
+    "fee": 4000000,
+    "offpeg_fee_multiplier": 1
+  },
+  "0x82202caec5e6d85014eadc68d4912f3c90093e7c": {
+    "fee": 4000000,
+    "offpeg_fee_multiplier": 50000000000
+  },
+  "0x5a6a4d54456819380173272a5e8e9b9904bdf41b": {
+    "fee": 4000000,
+    "offpeg_fee_multiplier": 1
+  },
+  "0x4ca9b3063ec5866a4b82e437059d2c43d1be596f": {
+    "fee": 4000000,
+    "offpeg_fee_multiplier": 1
+  },
+  "0x69833361991ed76f9e8dbbcdf9ea1520febfb4a7": {
+    "fee": 4000000,
+    "offpeg_fee_multiplier": 1
+  },
+  "0x43b98eea5c689f0036918f590a4b55f22d853734": {
+    "fee": 2078963,
+    "offpeg_fee_multiplier": 1
+  },
+  "0x525e99f743ee495f3b032baa737bc590dc1c85b5": {
+    "fee": 2000000,
+    "offpeg_fee_multiplier": 50000000000
+  },
+  "0x59ab5a5b5d617e478a2479b0cad80da7e2831492": {
+    "fee": 4000000,
+    "offpeg_fee_multiplier": 1
+  },
+  "0xdcef968d416a41cdac0ed8702fac8128a64241a2": {
+    "fee": 1000000,
+    "offpeg_fee_multiplier": 1
+  },
+  "0x4535913573d299a6372ca43b90aa6be1cf68f779": {
+    "fee": 44975726,
+    "offpeg_fee_multiplier": 1
+  },
+  "0xfbdca68601f835b27790d98bbb8ec7f05fdeaa9b": {
+    "fee": 4000000,
+    "offpeg_fee_multiplier": 1
+  },
+  "0xa96a65c051bf88b4095ee1f2451c2a9d43f53ae2": {
+    "fee": 4000000,
+    "offpeg_fee_multiplier": 1
+  },
+  "0x6307e6688819951cf8d6b6066018243d2496952f": {
+    "fee": 1000000,
+    "offpeg_fee_multiplier": 0
+  },
+  "0x9e641187391b7a5fe9ee193359408ca3894f68a2": {
+    "fee": 4000000,
+    "offpeg_fee_multiplier": 20000000000
+  },
+  "0x0ad66fec8db84f8a3365ada04ab23ce607ac6e24": {
+    "fee": 4000000,
+    "offpeg_fee_multiplier": 1
+  },
+  "0xf0909ea2428bbba587797d6874a3f611b31d907c": {
+    "fee": 20000000,
+    "offpeg_fee_multiplier": 20000000000
+  },
+  "0x6a9014fb802dcc5efe3b97fd40aaa632585636d0": {
+    "fee": 15000000,
+    "offpeg_fee_multiplier": 1
+  },
+  "0x3cef1afc0e8324b57293a6e7ce663781bbefbb79": {
+    "fee": 2000000,
+    "offpeg_fee_multiplier": 20000000000
+  },
+  "0xf1dba688f6055d8a9ca2521c8e5324cedfb50e3b": {
+    "fee": 4000000,
+    "offpeg_fee_multiplier": 20000000000
+  },
+  "0x81301848168bae6add206aa50052e247cb366d3a": {
+    "fee": 1000000,
+    "offpeg_fee_multiplier": 50000000000
+  },
+  "0x27cb9629ae3ee05cb266b99ca4124ec999303c9d": {
+    "fee": 4000000,
+    "offpeg_fee_multiplier": 20000000000
+  },
+  "0xf36a4ba50c603204c3fc6d2da8b78a7b69cbc67d": {
+    "fee": 4000000,
+    "offpeg_fee_multiplier": 20000000000
+  },
+  "0xc4d375edda8d3211a52399bb6583d600015696a3": {
+    "fee": 2500000,
+    "offpeg_fee_multiplier": 0
+  },
+  "0x413928a25d6ea1a26f2625d633207755f67bf97c": {
+    "fee": 4000000,
+    "offpeg_fee_multiplier": 1
+  },
+  "0x278cfb6f06b1efc09d34fc7127d6060c61d629db": {
+    "fee": 2000000,
+    "offpeg_fee_multiplier": 50000000000
+  },
+  "0xaa5a67c256e27a5d80712c51971408db3370927d": {
+    "fee": 4000000,
+    "offpeg_fee_multiplier": 1
+  },
+  "0x3e01dd8a5e1fb3481f0f589056b428fc308af0fb": {
+    "fee": 4000000,
+    "offpeg_fee_multiplier": 1
+  },
+  "0xe6b5cc1b4b47305c58392ce3d359b10282fc36ea": {
+    "fee": 4000000,
+    "offpeg_fee_multiplier": 1
+  },
+  "0x4d9f9d15101eec665f77210cb999639f760f831e": {
+    "fee": 4000000,
+    "offpeg_fee_multiplier": 1
+  },
+  "0x85847ef522d78efdbec8afb0045dc7d6982837c3": {
+    "fee": 26612020,
+    "offpeg_fee_multiplier": 1
+  },
+  "0xa4c567c662349bec3d0fb94c4e7f85ba95e208e4": {
+    "fee": 4000000,
+    "offpeg_fee_multiplier": 1
+  },
+  "0xc89570207c5ba1b0e3cd372172ccaefb173db270": {
+    "fee": 38796611,
+    "offpeg_fee_multiplier": 1
+  },
+  "0x4f062658eaaf2c1ccf8c8e36d6824cdf41167956": {
+    "fee": 4000000,
+    "offpeg_fee_multiplier": 1
+  },
+  "0x2d600bbbcc3f1b6cb9910a70bab59ec9d5f81b9a": {
+    "fee": 4000000,
+    "offpeg_fee_multiplier": 1
+  },
+  "0xa1f8a6807c402e4a15ef4eba36528a3fed24e577": {
+    "fee": 2000000,
+    "offpeg_fee_multiplier": 1
+  },
+  "0xb1c189dfde178fe9f90e72727837cc9289fb944f": {
+    "fee": 10000000,
+    "offpeg_fee_multiplier": 20000000000
+  },
+  "0xc522a6606bba746d7960404f22a3db936b6f4f50": {
+    "fee": 2000000,
+    "offpeg_fee_multiplier": 50000000000
+  },
+  "0x87650d7bbfc3a9f10587d7778206671719d9910d": {
+    "fee": 4000000,
+    "offpeg_fee_multiplier": 1
+  },
+  "0xe99810cd5adcd7b13455ae1be678b382d61f2d1e": {
+    "fee": 4000000,
+    "offpeg_fee_multiplier": 20000000000
+  },
+  "0x1977870a4c18a728c19dd4eb6542451df06e0a4b": {
+    "fee": 4000000,
+    "offpeg_fee_multiplier": 1
+  },
+  "0x6691dbb44154a9f23f8357c56fc9ff5548a8bdc4": {
+    "fee": 4000000,
+    "offpeg_fee_multiplier": 20000000000
+  },
+  "0x77a8618e298287c654ede509121448c5331361cf": {
+    "fee": 4000000,
+    "offpeg_fee_multiplier": 0
+  },
+  "0x272bf7e4ce3308b1fb5e54d6a1fc32113619c401": {
+    "fee": 4000000,
+    "offpeg_fee_multiplier": 20000000000
+  },
+  "0x2863a328a0b7fc6040f11614fa0728587db8e353": {
+    "fee": 4000000,
+    "offpeg_fee_multiplier": 1
+  },
+  "0xc95d0ba00cdf61440e6f86cc55ccd477d7287a32": {
+    "fee": 10000000,
+    "offpeg_fee_multiplier": 10000000000
+  },
+  "0x9a81f5a6ea7e60632f659f3f4e772ba977d80bd5": {
+    "fee": 44935959,
+    "offpeg_fee_multiplier": 1
+  },
+  "0x0e9b5b092cad6f1c5e6bc7f89ffe1abb5c95f1c2": {
+    "fee": 27036516,
+    "offpeg_fee_multiplier": 1
+  },
+  "0x2d9bf9c1befd77c094461df615bdbe905895f7c6": {
+    "fee": 1000000,
+    "offpeg_fee_multiplier": 50000000000
+  },
+  "0x839d6bdedff886404a6d7a788ef241e4e28f4802": {
+    "fee": 2000000,
+    "offpeg_fee_multiplier": 50000000000
+  },
+  "0x071c661b4deefb59e2a3ddb20db036821eee8f4b": {
+    "fee": 4000000,
+    "offpeg_fee_multiplier": 1
+  },
+  "0x91553bad9fbc8bd69ff5d5678cbf7d514d00de0b": {
+    "fee": 4000000,
+    "offpeg_fee_multiplier": 20000000000
+  },
+  "0x13947303f63b363876868d070f14dc865c36463b": {
+    "fee": 1000000,
+    "offpeg_fee_multiplier": 50000000000
+  },
+  "0x6a6283ab6e31c2aec3fa08697a8f806b740660b2": {
+    "fee": 35132949,
+    "offpeg_fee_multiplier": 1
+  },
+  "0x6a8a274a670484fc358ab5ae00a1e0aa9ab11ae6": {
+    "fee": 2000000,
+    "offpeg_fee_multiplier": 50000000000
+  },
+  "0x5b03cccab7ba3010fa5cad23746cbf0794938e96": {
+    "fee": 300000,
+    "offpeg_fee_multiplier": 400000000000
+  },
+  "0x1f59cc10c6360da918b0235c98e58008452816eb": {
+    "fee": 1000000,
+    "offpeg_fee_multiplier": 50000000000
+  },
+  "0x9c3b46c0ceb5b9e304fcd6d88fc50f7dd24b31bc": {
+    "fee": 2000000,
+    "offpeg_fee_multiplier": 1
+  },
+  "0x2570f1bd5d2735314fc102eb12fc1afe9e6e7193": {
+    "fee": 7872546,
+    "offpeg_fee_multiplier": 1
+  },
+  "0xd81da8d904b52208541bade1bd6595d8a251f8dd": {
+    "fee": 4000000,
+    "offpeg_fee_multiplier": 1
+  },
+  "0x3211c6cbef1429da3d0d58494938299c92ad5860": {
+    "fee": 40674038,
+    "offpeg_fee_multiplier": 1
+  },
+  "0xbdfae7d2cf2e69e27b75a5287ecd3808f62b5a76": {
+    "fee": 87963041,
+    "offpeg_fee_multiplier": 1
+  },
+  "0x9c2c8910f113181783c249d8f6aa41b51cde0f0c": {
+    "fee": 4000000,
+    "offpeg_fee_multiplier": 1
+  },
+  "0x6ec38b3228251a0c5d491faf66858e2e23d7728b": {
+    "fee": 35424148,
+    "offpeg_fee_multiplier": 1
+  },
+  "0xc8eb2cf2f792f77af0cd9e203305a585e588179d": {
+    "fee": 2000000,
+    "offpeg_fee_multiplier": 10000000000
+  },
+  "0x3772ba91b46f456ae487cb0974040c861c045810": {
+    "fee": 4000000,
+    "offpeg_fee_multiplier": 20000000000
+  },
+  "0x752ebeb79963cf0732e9c0fec72a49fd1defaeac": {
+    "fee": 33299803,
+    "offpeg_fee_multiplier": 1
+  },
+  "0x56be5d27878bf847189f5a6a29ed1350177c7420": {
+    "fee": 22428921,
+    "offpeg_fee_multiplier": 1
+  },
+  "0x2a7f617af3009578021473a88a7c5a2af5aacd79": {
+    "fee": 4000000,
+    "offpeg_fee_multiplier": 50000000000
+  },
+  "0x7704d01908afd31bf647d969c295bb45230cd2d6": {
+    "fee": 2000000,
+    "offpeg_fee_multiplier": 50000000000
+  },
+  "0xca546ae6c3b2bb9fba2b6e5eeb0881097cece5b0": {
+    "fee": 26434571,
+    "offpeg_fee_multiplier": 1
+  },
+  "0xf9440930043eb3997fc70e1339dbb11f341de7a8": {
+    "fee": 4000000,
+    "offpeg_fee_multiplier": 1
+  },
+  "0x3b21c2868b6028cfb38ff86127ef22e68d16d53b": {
+    "fee": 15000000,
+    "offpeg_fee_multiplier": 1
+  },
+  "0xf178c0b5bb7e7abf4e12a4838c7b7c5ba2c623c0": {
+    "fee": 4000000,
+    "offpeg_fee_multiplier": 1
+  },
+  "0x8005516831b4dc21acdc34d5a413f189fc850948": {
+    "fee": 4000000,
+    "offpeg_fee_multiplier": 20000000000
+  },
+  "0x3a70dfa7d2262988064a2d051dd47521e43c9bdd": {
+    "fee": 4000000,
+    "offpeg_fee_multiplier": 1
+  },
+  "0xef484de8c07b6e2d732a92b5f78e81b38f99f95e": {
+    "fee": 4000000,
+    "offpeg_fee_multiplier": 20000000000
+  },
+  "0xf083fba98ded0f9c970e5a418500bad08d8b9732": {
+    "fee": 15000000,
+    "offpeg_fee_multiplier": 1
+  },
+  "0xc5424b857f758e906013f3555dad202e4bdb4567": {
+    "fee": 2000000,
+    "offpeg_fee_multiplier": 1
+  },
+  "0x04c90c198b2eff55716079bc06d7ccc4aa4d7512": {
+    "fee": 4000000,
+    "offpeg_fee_multiplier": 1
+  },
+  "0x342d1c4aa76ea6f5e5871b7f11a019a0eb713a4f": {
+    "fee": 81215981,
+    "offpeg_fee_multiplier": 1
+  },
+  "0x00836fe54625be242bcfa286207795405ca4fd10": {
+    "fee": 250000,
+    "offpeg_fee_multiplier": 100000000000
+  },
+  "0xf8db2accdef8e7a26b0e65c3980adc8ce11671a4": {
+    "fee": 4000000,
+    "offpeg_fee_multiplier": 20000000000
+  },
+  "0xca0253a98d16e9c1e3614cafda19318ee69772d0": {
+    "fee": 25000000,
+    "offpeg_fee_multiplier": 1
+  },
+  "0x017433c8be1ce841d2d1b9bffd577a6b74cf302c": {
+    "fee": 68201454,
+    "offpeg_fee_multiplier": 1
+  },
+  "0x6d18e1a7faeb1f0467a77c0d293872ab685426dc": {
+    "fee": 1000000,
+    "offpeg_fee_multiplier": 100000000000
+  },
+  "0x47d5e1679fe5f0d9f0a657c6715924e33ce05093": {
+    "fee": 30495833,
+    "offpeg_fee_multiplier": 1
+  },
+  "0x8fdb0bb9365a46b145db80d0b1c5c5e979c84190": {
+    "fee": 4000000,
+    "offpeg_fee_multiplier": 1
+  },
+  "0xde6bc4451f6e98351a1573932b7b37e13b6e5139": {
+    "fee": 4000000,
+    "offpeg_fee_multiplier": 20000000000
+  },
+  "0xf861483fa7e511fbc37487d91b6faa803af5d37c": {
+    "fee": 4000000,
+    "offpeg_fee_multiplier": 1
+  },
+  "0xaf4264916b467e2c9c8acf07acc22b9edddadf33": {
+    "fee": 44892051,
+    "offpeg_fee_multiplier": 1
+  },
+  "0xe0e970a99bc4f53804d8145bebbc7ebc9422ba7f": {
+    "fee": 44347757,
+    "offpeg_fee_multiplier": 1
+  },
+  "0x2889302a794da87fbf1d6db415c1492194663d13": {
+    "fee": 3487016,
+    "offpeg_fee_multiplier": 1
+  },
+  "0x59a06b97b2d566b9dee2a368eac8787cfa57f95d": {
+    "fee": 1000000,
+    "offpeg_fee_multiplier": 50000000000
+  },
+  "0xdb6925ea42897ca786a045b252d95aa7370f44b4": {
+    "fee": 4031651,
+    "offpeg_fee_multiplier": 1
+  },
+  "0x326290a1b0004eee78fa6ed4f1d8f4b2523ab669": {
+    "fee": 4000000,
+    "offpeg_fee_multiplier": 1
+  },
+  "0xf01627c39b427654dc984571b3ae32e4136813ec": {
+    "fee": 5000000,
+    "offpeg_fee_multiplier": 50000000000
+  },
+  "0x21e27a5e5513d6e65c4f830167390997aa84843a": {
+    "fee": 4000000,
+    "offpeg_fee_multiplier": 1
+  },
+  "0x9a74faaabb5b24e3340cf4332e9be4c3ad82ebde": {
+    "fee": 29347520,
+    "offpeg_fee_multiplier": 1
+  },
+  "0x4f493b7de8aac7d55f71853688b1f7c8f0243c85": {
+    "fee": 100000,
+    "offpeg_fee_multiplier": 200000000000
+  },
+  "0xdbb1d219d84eacefb850ee04cacf2f1830934580": {
+    "fee": 1000000,
+    "offpeg_fee_multiplier": 50000000000
+  },
+  "0x43b4fdfd4ff969587185cdb6f0bd875c5fc83f8c": {
+    "fee": 4000000,
+    "offpeg_fee_multiplier": 1
+  },
+  "0x73d6d59fea58bbc0b50610f57f8de2c61d2bb938": {
+    "fee": 375856,
+    "offpeg_fee_multiplier": 1
+  },
+  "0x0f9cb53ebe405d49a0bbdbd291a65ff571bc83e1": {
+    "fee": 4000000,
+    "offpeg_fee_multiplier": 1
+  },
+  "0xb9ef9c471f686e9249f5bb3af465560e4b917294": {
+    "fee": 1000000,
+    "offpeg_fee_multiplier": 20000000000
+  },
+  "0x72725c0c879489986d213a9a6d2116de45624c1c": {
+    "fee": 29116846,
+    "offpeg_fee_multiplier": 1
+  },
+  "0x322135dd9cbae8afa84727d9ae1434b5b3eba44b": {
+    "fee": 42990497,
+    "offpeg_fee_multiplier": 1
+  },
+  "0xbec570d92afb7ffc553bdd9d4b4638121000b10d": {
+    "fee": 42228039,
+    "offpeg_fee_multiplier": 1
+  },
+  "0x625e92624bc2d88619accc1788365a69767f6200": {
+    "fee": 1000000,
+    "offpeg_fee_multiplier": 50000000000
+  },
+  "0xf8d390f23b06d420daa629d3b6a9a24bd27c1ef3": {
+    "fee": 1000000,
+    "offpeg_fee_multiplier": 50000000000
+  },
+  "0xb8ac7ce449ed72ff61de8043d67b507f9f523fa2": {
+    "fee": 4032854,
+    "offpeg_fee_multiplier": 1
+  },
+  "0x892d701d94a43bdbcb5ea28891daca2fa22a690b": {
+    "fee": 4000000,
+    "offpeg_fee_multiplier": 1
+  },
+  "0x3f131bb401c5f322bce82e1f06fb25aca08d3f7e": {
+    "fee": 1000000,
+    "offpeg_fee_multiplier": 50000000000
+  },
+  "0x1062fd8ed633c1f080754c19317cb3912810b5e5": {
+    "fee": 15000000,
+    "offpeg_fee_multiplier": 1
+  },
+  "0x84cecb5525c6b1c20070e742da870062e84da178": {
+    "fee": 27237563,
+    "offpeg_fee_multiplier": 1
+  },
+  "0x4807862aa8b2bf68830e4c8dc86d0e9a998e085a": {
+    "fee": 4000000,
+    "offpeg_fee_multiplier": 1
+  },
+  "0x71c91b173984d3955f7756914bbf9a7332538595": {
+    "fee": 4000000,
+    "offpeg_fee_multiplier": 1
+  },
+  "0x28ca243dc0ac075dd012fcf9375c25d18a844d96": {
+    "fee": 20000000,
+    "offpeg_fee_multiplier": 1
+  },
+  "0x94b17476a93b3262d87b9a326965d1e91f9c13e7": {
+    "fee": 4000000,
+    "offpeg_fee_multiplier": 1
+  },
+  "0x6683eafe46cb9ed394f298e14b87ed680c17cedd": {
+    "fee": 1000000,
+    "offpeg_fee_multiplier": 20000000000
+  },
+  "0x9409280dc1e6d33ab7a8c6ec03e5763fb61772b5": {
+    "fee": 34270567,
+    "offpeg_fee_multiplier": 1
+  },
+  "0x21410232b484136404911780bc32756d5d1a9fa9": {
+    "fee": 35396277,
+    "offpeg_fee_multiplier": 1
+  },
+  "0xb7ecb2aa52aa64a717180e030241bc75cd946726": {
+    "fee": 4000000,
+    "offpeg_fee_multiplier": 1
+  },
+  "0x0ce6a5ff5217e38315f87032cf90686c96627caa": {
+    "fee": 4000000,
+    "offpeg_fee_multiplier": 1
+  },
+  "0x1c899ded01954d0959e034b62a728e7febe593b0": {
+    "fee": 4000000,
+    "offpeg_fee_multiplier": 1
+  },
+  "0x52bf165abd26106d810733cc29faff68b96dece8": {
+    "fee": 1000000,
+    "offpeg_fee_multiplier": 20000000000
+  },
+  "0xdc24316b9ae028f1497c275eb9192a3ea0f67022": {
+    "fee": 1000000,
+    "offpeg_fee_multiplier": 1
+  },
+  "0xa5407eae9ba41422680e2e00537571bcc53efbfd": {
+    "fee": 2000000,
+    "offpeg_fee_multiplier": 1
+  },
+  "0x2fd6965730bef5c7e928342ad6e7d4819d08f8c4": {
+    "fee": 1000000,
+    "offpeg_fee_multiplier": 20000000000
+  },
+  "0x7fc77b5c7614e1533320ea6ddc2eb61fa00a9714": {
+    "fee": 4000000,
+    "offpeg_fee_multiplier": 1
+  },
+  "0xcbcd4d46ff017b90c0d1cda1cbd20086b0901738": {
+    "fee": 35093104,
+    "offpeg_fee_multiplier": 1
+  },
+  "0xff17dab22f1e61078aba2623c89ce6110e878b3c": {
+    "fee": 4000000,
+    "offpeg_fee_multiplier": 50000000000
+  },
+  "0x7c4e143b23d72e6938e06291f705b5ae3d5c7c7c": {
+    "fee": 1000000,
+    "offpeg_fee_multiplier": 50000000000
+  },
+  "0x1ee81c56e42ec34039d993d12410d437ddea341e": {
+    "fee": 1000000,
+    "offpeg_fee_multiplier": 50000000000
+  },
+  "0xc2921134073151490193ac7369313c8e0b08e1e7": {
+    "fee": 1000000,
+    "offpeg_fee_multiplier": 50000000000
+  },
+  "0xf244324fbb57f09f0606ff088bc894b051d632eb": {
+    "fee": 4775692,
+    "offpeg_fee_multiplier": 1
+  },
+  "0xfe3c78d947b329160496e192b4cf417bb86272ed": {
+    "fee": 4000000,
+    "offpeg_fee_multiplier": 50000000000
+  },
+  "0x5fae7e604fc3e24fd43a72867cebac94c65b404a": {
+    "fee": 3591699,
+    "offpeg_fee_multiplier": 1
+  },
+  "0x2673099769201c08e9a5e63b25fbaf25541a6557": {
+    "fee": 4000000,
+    "offpeg_fee_multiplier": 1
+  },
+  "0x86ea1191a219989d2da3a85c949a12a92f8ed3db": {
+    "fee": 5425395,
+    "offpeg_fee_multiplier": 1
+  },
+  "0x7c0b6cd399a225618d98c7faf3de1f99848c18b3": {
+    "fee": 396298,
+    "offpeg_fee_multiplier": 1
+  },
+  "0xc83b79c07ece44b8b99ffa0e235c00add9124f9e": {
+    "fee": 1000000,
+    "offpeg_fee_multiplier": 50000000000
+  },
+  "0x37f23e1e871e2ed9a3d96a612e44ec2370b5e461": {
+    "fee": 67075,
+    "offpeg_fee_multiplier": 1
+  },
+  "0xd632f22692fac7611d2aa1c0d552930d43caed3b": {
+    "fee": 4000000,
+    "offpeg_fee_multiplier": 1
+  },
+  "0xfc1e8bf3e81383ef07be24c3fd146745719de48d": {
+    "fee": 42419030,
+    "offpeg_fee_multiplier": 1
+  },
+  "0x52ea46506b9cc5ef470c5bf89f17dc28bb35d85c": {
+    "fee": 4000000,
+    "offpeg_fee_multiplier": 1
+  },
+  "0x8461a004b50d321cb22b7d034969ce6803911899": {
+    "fee": 4000000,
+    "offpeg_fee_multiplier": 1
+  },
+  "0x19b8524665abac613d82ece5d8347ba44c714bdd": {
+    "fee": 1940537,
+    "offpeg_fee_multiplier": 1
+  },
+  "0x72310daaed61321b02b08a547150c07522c6a976": {
+    "fee": 3000000,
+    "offpeg_fee_multiplier": 50000000000
+  },
+  "0x02950460e2b9529d0e00284a5fa2d7bdf3fa4d72": {
+    "fee": 1000000,
+    "offpeg_fee_multiplier": 50000000000
+  },
+  "0x8c65cec3847ad99bdc02621bdbc89f2ace56934b": {
+    "fee": 1235872,
+    "offpeg_fee_multiplier": 1
+  },
+  "0x7f55dde206dbad629c080068923b36fe9d6bdbef": {
+    "fee": 4000000,
+    "offpeg_fee_multiplier": 1
+  },
+  "0x39f5b252de249790faed0c2f05abead56d2088e1": {
+    "fee": 2000000,
+    "offpeg_fee_multiplier": 40000000000
+  },
+  "0xea659b615b48ec6e2d55cd82fcbe5f43d79aeea0": {
+    "fee": 4000000,
+    "offpeg_fee_multiplier": 20000000000
+  },
+  "0x3d0d331390d14df42c16fc20700f7e6ad4849c50": {
+    "fee": 35506171,
+    "offpeg_fee_multiplier": 1
+  },
+  "0x004c167d27ada24305b76d80762997fa6eb8d9b2": {
+    "fee": 38511735,
+    "offpeg_fee_multiplier": 1
+  },
+  "0x6b90dcdb077e82dfe00bca96267d8573470d48ba": {
+    "fee": 68117,
+    "offpeg_fee_multiplier": 1
+  },
+  "0x453d92c7d4263201c69aacfaf589ed14202d83a4": {
+    "fee": 15000000,
+    "offpeg_fee_multiplier": 1
+  },
+  "0xd658a338613198204dca1143ac3f01a722b5d94a": {
+    "fee": 29831463,
+    "offpeg_fee_multiplier": 1
+  },
+  "0xc7de47b9ca2fc753d6a2f167d8b3e19c6d18b19a": {
+    "fee": 5758237,
+    "offpeg_fee_multiplier": 1
+  },
+  "0x30ce6e5a75586f0e83bcac77c9135e980e6bc7a8": {
+    "fee": 1000000,
+    "offpeg_fee_multiplier": 20000000000
+  },
+  "0x8ffc7b89412efd0d17edea2018f6634ea4c2fcb2": {
+    "fee": 1000000,
+    "offpeg_fee_multiplier": 50000000000
+  },
+  "0x48d670d189b4b48757992d36897bca6e3f889040": {
+    "fee": 2000000,
+    "offpeg_fee_multiplier": 125000000000
+  },
+  "0xe57180685e3348589e9521aa53af0bcd497e884d": {
+    "fee": 4000000,
+    "offpeg_fee_multiplier": 1
+  },
+  "0xd54211778da813d0a0d2764eaf18e3d12f8cd81d": {
+    "fee": 352796,
+    "offpeg_fee_multiplier": 1
+  },
+  "0x74ed5d42203806c8cdcf2f04ca5f60dc777b901c": {
+    "fee": 15838505,
+    "offpeg_fee_multiplier": 1
+  },
+  "0x5378c23f4cf85fc28fddea16153cf9213aefe9be": {
+    "fee": 4000000,
+    "offpeg_fee_multiplier": 20000000000
+  },
+  "0x541d4752d992046787d3a21be1daff8e816bb02e": {
+    "fee": 4000000,
+    "offpeg_fee_multiplier": 50000000000
+  },
+  "0xc03fef1c425956a3cd5762022e511e0d4148b3d6": {
+    "fee": 4000000,
+    "offpeg_fee_multiplier": 80000000000
+  },
+  "0x9a22cdb1ca1cdd2371cd5bb5199564c4e89465eb": {
+    "fee": 38937293,
+    "offpeg_fee_multiplier": 1
+  },
+  "0x744793b5110f6ca9cc7cdfe1ce16677c3eb192ef": {
+    "fee": 4000000,
+    "offpeg_fee_multiplier": 20000000000
+  },
+  "0x0f2f4d68308db60d36268a602ef273421a227021": {
+    "fee": 4000000,
+    "offpeg_fee_multiplier": 20000000000
+  },
+  "0xeb593fe90591923fddd97f2e5fcb1a14ce656e5d": {
+    "fee": 5000000,
+    "offpeg_fee_multiplier": 1
+  },
+  "0x9efe1a1cbd6ca51ee8319afc4573d253c3b732af": {
+    "fee": 1000000,
+    "offpeg_fee_multiplier": 50000000000
+  },
+  "0xb30da2376f63de30b42dc055c93fa474f31330a5": {
+    "fee": 4000000,
+    "offpeg_fee_multiplier": 1
+  },
+  "0x167478921b907422f8e88b43c4af2b8bea278d3a": {
+    "fee": 2000000,
+    "offpeg_fee_multiplier": 20000000000
+  },
+  "0x8474ddbe98f5aa3179b3b3f5942d724afcdec9f6": {
+    "fee": 4000000,
+    "offpeg_fee_multiplier": 1
+  },
+  "0x5b3b5df2bf2b6543f78e053bd91c4bdd820929f1": {
+    "fee": 4000000,
+    "offpeg_fee_multiplier": 1
+  },
+  "0xf2dcf6336d8250754b4527f57b275b19c8d5cf88": {
+    "fee": 4000000,
+    "offpeg_fee_multiplier": 1
+  },
+  "0x460638e6f7605b866736e38045c0de8294d7d87f": {
+    "fee": 4000000,
+    "offpeg_fee_multiplier": 20000000000
+  },
+  "0xa7952f6a36caff9b7699d1d5a46fc3b401a255cb": {
+    "fee": 42355610,
+    "offpeg_fee_multiplier": 1
+  },
+  "0x13120b7599ddf33782c748a847cc1d3c96387ecd": {
+    "fee": 4000000,
+    "offpeg_fee_multiplier": 20000000000
+  },
+  "0x84c333e94aea4a51a21f6cf0c7f528c50dc7592c": {
+    "fee": 4000000,
+    "offpeg_fee_multiplier": 1
+  },
+  "0x1e098b32944292969fb58c85bdc85545da397117": {
+    "fee": 31607926,
+    "offpeg_fee_multiplier": 1
+  },
+  "0x5ac4fcee123dcadfae22bc814c4cc72b96c93f38": {
+    "fee": 43481906,
+    "offpeg_fee_multiplier": 1
+  },
+  "0x13ea95ce68185e334d3747539845a3b7643a8cab": {
+    "fee": 4000000,
+    "offpeg_fee_multiplier": 20000000000
+  },
+  "0xa2b47e3d5c44877cca798226b7b8118f9bfb7a56": {
+    "fee": 4000000,
+    "offpeg_fee_multiplier": 1
+  },
+  "0xadb6851875b7496e3d565b754d8a79508480a203": {
+    "fee": 4000000,
+    "offpeg_fee_multiplier": 20000000000
+  },
+  "0x1c5f80b6b68a9e1ef25926eee00b5255791b996b": {
+    "fee": 4000000,
+    "offpeg_fee_multiplier": 1
+  },
+  "0xc57ce1ac61081c51596e55de38d35b19720d421e": {
+    "fee": 1000000,
+    "offpeg_fee_multiplier": 50000000000
+  },
+  "0x618788357d0ebd8a37e763adab3bc575d54c2c7d": {
+    "fee": 4000000,
+    "offpeg_fee_multiplier": 1
+  },
+  "0x852b90239c5034b5bb7a5e54ef1bef3ce3359cc8": {
+    "fee": 4000000,
+    "offpeg_fee_multiplier": 1
+  },
+  "0xd51a44d3fae010294c616388b506acda1bfaae46": {
+    "fee": 4054983,
+    "offpeg_fee_multiplier": 1
+  },
+  "0xb3c8ce1ee157b0dcaa96897c9170aee6281706c9": {
+    "fee": 2000000,
+    "offpeg_fee_multiplier": 50000000000
+  },
+  "0xcec99cff3632cf1f16652cc5b1e80eb08be25983": {
+    "fee": 5000000,
+    "offpeg_fee_multiplier": 50000000000
+  },
+  "0x1220868672d5b10f3e1cb9ab519e4d0b08545ea4": {
+    "fee": 1000000,
+    "offpeg_fee_multiplier": 50000000000
+  },
+  "0x189b4e49b5caf33565095097b4b960f14032c7d0": {
+    "fee": 4000000,
+    "offpeg_fee_multiplier": 20000000000
+  },
+  "0x8d688646ebb400f7de2b713b80b6a58fcf35d2d9": {
+    "fee": 38254233,
+    "offpeg_fee_multiplier": 1
+  },
+  "0x2f3bc4c27a4437aeca13de0e37cdf1028f3706f0": {
+    "fee": 2000000,
+    "offpeg_fee_multiplier": 50000000000
+  },
+  "0x8b83c4aa949254895507d09365229bc3a8c7f710": {
+    "fee": 4000000,
+    "offpeg_fee_multiplier": 20000000000
+  },
+  "0x20955cb69ae1515962177d164dfc9522feef567e": {
+    "fee": 4000000,
+    "offpeg_fee_multiplier": 1
+  },
+  "0xab96aa0ee764924f49fbb372f3b4db9c2cb24ea2": {
+    "fee": 1000000,
+    "offpeg_fee_multiplier": 50000000000
+  },
+  "0xcf908d925b21594f9a92b264167a85b0649051a8": {
+    "fee": 1000000,
+    "offpeg_fee_multiplier": 50000000000
+  },
+  "0x8a4f252812dff2a8636e4f7eb249d8fc2e3bd77f": {
+    "fee": 5391620,
+    "offpeg_fee_multiplier": 1
+  },
+  "0xf2f12b364f614925ab8e2c8bfc606edb9282ba09": {
+    "fee": 74425812,
+    "offpeg_fee_multiplier": 1
+  },
+  "0xb657b895b265c38c53fff00166cf7f6a3c70587d": {
+    "fee": 4000000,
+    "offpeg_fee_multiplier": 1
+  },
+  "0x1507bf3f8712c496fa4679a4ba827f633979dba4": {
+    "fee": 2000000,
+    "offpeg_fee_multiplier": 20000000000
+  },
+  "0x394a1e1b934cb4f4a0dc17bdd592ec078741542f": {
+    "fee": 2000000,
+    "offpeg_fee_multiplier": 40000000000
+  },
+  "0x9353976a6b6e7a9e1e9b1f2aaaba629ad310947f": {
+    "fee": 1000000,
+    "offpeg_fee_multiplier": 50000000000
+  },
+  "0x14100f81e33c33ecc7cdac70181fb45b6e78569f": {
+    "fee": 2000000,
+    "offpeg_fee_multiplier": 50000000000
+  },
+  "0x828b154032950c8ff7cf8085d841723db2696056": {
+    "fee": 4000000,
+    "offpeg_fee_multiplier": 1
+  },
+  "0x30bf3e17cad0baf1d6b64079ec219808d2708feb": {
+    "fee": 4000000,
+    "offpeg_fee_multiplier": 20000000000
+  },
+  "0x15e4ff94b70a8f146b4e4afd069014d126035752": {
+    "fee": 1000000,
+    "offpeg_fee_multiplier": 50000000000
+  },
+  "0x67e0bdbe0a2c5999a60d048f50e794218056b767": {
+    "fee": 4377392,
+    "offpeg_fee_multiplier": 1
+  },
+  "0x3bd1017929b43c1414be2aca39892590fba4d6e2": {
+    "fee": 1000000,
+    "offpeg_fee_multiplier": 50000000000
+  },
+  "0x79ce6be6ae0995b1c8ed3e8ae54de0e437dec8c3": {
+    "fee": 4000000,
+    "offpeg_fee_multiplier": 1
+  },
+  "0xbe9945e0c5258262c18b4d3b9df14091c522708e": {
+    "fee": 4000000,
+    "offpeg_fee_multiplier": 20000000000
+  },
+  "0x8e001d4bac0eae1eea348dfc22f9b8bda67dd211": {
+    "fee": 9338841,
+    "offpeg_fee_multiplier": 1
+  },
+  "0x670a72e6d22b0956c0d2573288f82dcc5d6e3a61": {
+    "fee": 500000,
+    "offpeg_fee_multiplier": 80000000000
+  },
+  "0xa19bf6fbf05624282cb6ed498f4761f22e084edd": {
+    "fee": 37218967,
+    "offpeg_fee_multiplier": 1
+  },
+  "0xa9d2f92b7dedf7da162bfadc321407e28815fd4a": {
+    "fee": 1000000,
+    "offpeg_fee_multiplier": 100000000000
+  },
+  "0xa10d15538e09479186b4d3278ba5c979110dddb1": {
+    "fee": 5000000,
+    "offpeg_fee_multiplier": 40000000000
+  },
+  "0xc6e949f57d365fb73015d21a2d1a9da93e938d52": {
+    "fee": 10939904,
+    "offpeg_fee_multiplier": 1
+  },
+  "0x90455bd11ce8a67c57d467e634dc142b8e4105aa": {
+    "fee": 1000000,
+    "offpeg_fee_multiplier": 50000000000
+  },
+  "0xe72b04e5612a874ce098bc2e57d3272f7ddf820d": {
+    "fee": 37984716,
+    "offpeg_fee_multiplier": 1
+  },
+  "0x4628f13651ead6793f8d838b34b8f8522fb0cc52": {
+    "fee": 500000,
+    "offpeg_fee_multiplier": 80000000000
+  },
+  "0x04b727c7e246ca70d496ecf52e6b6280f3c8077d": {
+    "fee": 4000000,
+    "offpeg_fee_multiplier": 1
+  },
+  "0xeac874aed7761460dd4c89778ba6db7d320911a8": {
+    "fee": 1000000,
+    "offpeg_fee_multiplier": 20000000000
+  },
+  "0x99e09ee2d6bb16c0f5addfea649dbb2c1d524624": {
+    "fee": 44306523,
+    "offpeg_fee_multiplier": 1
+  },
+  "0x5c6a6cf9ae657a73b98454d17986af41fc7b44ee": {
+    "fee": 4000000,
+    "offpeg_fee_multiplier": 1
+  },
+  "0x5dc1bf6f1e983c0b21efb003c105133736fa0743": {
+    "fee": 1000000,
+    "offpeg_fee_multiplier": 50000000000
+  },
+  "0xe7c2ab3f0e43f843612d570004984c60ce969a49": {
+    "fee": 4000000,
+    "offpeg_fee_multiplier": 20000000000
+  },
+  "0xba3436fd341f2c8a928452db3c5a3670d1d5cc73": {
+    "fee": 4000000,
+    "offpeg_fee_multiplier": 1
+  },
+  "0x5018be882dcce5e3f2f3b0913ae2096b9b3fb61f": {
+    "fee": 1000000,
+    "offpeg_fee_multiplier": 50000000000
+  },
+  "0xd652c40fbb3f06d6b58cb9aa9cff063ee63d465d": {
+    "fee": 4000000,
+    "offpeg_fee_multiplier": 1
+  },
+  "0x93054188d876f558f4a66b2ef1d97d16edf0895b": {
+    "fee": 4000000,
+    "offpeg_fee_multiplier": 1
+  },
+  "0x080a4941aad94ddc19c2fed604d55109119b5774": {
+    "fee": 2000000,
+    "offpeg_fee_multiplier": 50000000000
+  },
+  "0x73a0cba58c19ed5f27c6590bd792ec38de4815ea": {
+    "fee": 1000000,
+    "offpeg_fee_multiplier": 50000000000
+  },
+  "0xc15f285679a1ef2d25f53d4cbd0265e1d02f2a92": {
+    "fee": 33184649,
+    "offpeg_fee_multiplier": 1
+  },
+  "0xc907ba505c2e1cbc4658c395d4a2c7e6d2c32656": {
+    "fee": 12078857,
+    "offpeg_fee_multiplier": 1
+  },
+  "0xf253f83aca21aabd2a20553ae0bf7f65c755a07f": {
+    "fee": 4000000,
+    "offpeg_fee_multiplier": 1
+  },
+  "0x94cc50e4521bd271c1a997a3a4dc815c2f920b41": {
+    "fee": 1000000,
+    "offpeg_fee_multiplier": 1
+  },
+  "0x964573b560da1ce5b10dd09a4723c5ccbe9f9688": {
+    "fee": 4000000,
+    "offpeg_fee_multiplier": 20000000000
+  },
+  "0x425bfb93370f14ff525adb6eaeacfe1f4e3b5802": {
+    "fee": 1000000,
+    "offpeg_fee_multiplier": 50000000000
+  },
+  "0x390f3595bca2df7d23783dfd126427cceb997bf4": {
+    "fee": 1000000,
+    "offpeg_fee_multiplier": 1
+  },
+  "0x8c24b3213fd851db80245fccc42c40b94ac9a745": {
+    "fee": 4000000,
+    "offpeg_fee_multiplier": 20000000000
+  },
+  "0x8655521a3b237872707b3ec001c4b8c991a63724": {
+    "fee": 1000000,
+    "offpeg_fee_multiplier": 20000000000
+  },
+  "0xcf3166181848eec4fd3b9046ae7cb582f34d2e6c": {
+    "fee": 4000000,
+    "offpeg_fee_multiplier": 20000000000
+  },
+  "0x7d10a8734d985dbb3ad91fce9c48ccc78b9f8b94": {
+    "fee": 2000000,
+    "offpeg_fee_multiplier": 50000000000
+  },
+  "0xde6bf97b1cdee8a93ddd8b45d504f247e6c9f886": {
+    "fee": 30000000,
+    "offpeg_fee_multiplier": 10000000000
+  },
+  "0x1f7e9321ce32af1f9ea1185fd10d31fea31ffd95": {
+    "fee": 2000000,
+    "offpeg_fee_multiplier": 50000000000
+  },
+  "0x86bf09acb47ab31686be413d614e9ded3666a1d3": {
+    "fee": 32644043,
+    "offpeg_fee_multiplier": 1
+  },
+  "0xf55b0f6f2da5ffddb104b58a60f2862745960442": {
+    "fee": 1000000,
+    "offpeg_fee_multiplier": 50000000000
+  },
+  "0x74345504eaea3d9408fc69ae7eb2d14095643c5b": {
+    "fee": 500000,
+    "offpeg_fee_multiplier": 80000000000
+  },
+  "0xecd5e75afb02efa118af914515d6521aabd189f1": {
+    "fee": 4000000,
+    "offpeg_fee_multiplier": 1
+  },
+  "0x5f5fe47fed55eae627386995198294c39e1d17a5": {
+    "fee": 25000000,
+    "offpeg_fee_multiplier": 1
+  },
+  "0xd3bcd417aee942fd4611b8fe6ffca500019045cf": {
+    "fee": 15000000,
+    "offpeg_fee_multiplier": 0
+  },
+  "0x3c42b0f384d2912661c940d46cffe1cd10f1c66f": {
+    "fee": 44995591,
+    "offpeg_fee_multiplier": 1
+  },
+  "0x57064f49ad7123c92560882a45518374ad982e85": {
+    "fee": 2000000,
+    "offpeg_fee_multiplier": 50000000000
+  },
+  "0xe1fbaec91b8a211db901adf5acc5b31f9a988279": {
+    "fee": 4000000,
+    "offpeg_fee_multiplier": 10000000000
+  },
+  "0x94a5b3a7aaf67415b7f5973ed1adf542897a45f1": {
+    "fee": 43970662,
+    "offpeg_fee_multiplier": 1
+  },
+  "0x31c325a01861c7dbd331a9270296a31296d797a0": {
+    "fee": 35366788,
+    "offpeg_fee_multiplier": 1
+  },
+  "0x06cb22615ba53e60d67bf6c341a0fd5e718e1655": {
+    "fee": 4000000,
+    "offpeg_fee_multiplier": 1
+  },
+  "0xee351f12eae8c2b8b9d1b9bfd3c5dd565234578d": {
+    "fee": 26660496,
+    "offpeg_fee_multiplier": 1
+  },
+  "0x383e6b4437b59fff47b619cba855ca29342a8559": {
+    "fee": 1000000,
+    "offpeg_fee_multiplier": 100000000000
+  },
+  "0xed279fdd11ca84beef15af5d39bb4d4bee23f0ca": {
+    "fee": 4000000,
+    "offpeg_fee_multiplier": 1
+  },
+  "0xc26b89a667578ec7b3f11b2f98d6fd15c07c54ba": {
+    "fee": 43801270,
+    "offpeg_fee_multiplier": 1
+  },
+  "0xed785af60bed688baa8990cd5c4166221599a441": {
+    "fee": 2000000,
+    "offpeg_fee_multiplier": 50000000000
+  },
+  "0x7f86bf177dd4f3494b841a37e810a34dd56c829b": {
+    "fee": 4314748,
+    "offpeg_fee_multiplier": 1
+  },
+  "0xeb16ae0052ed37f479f7fe63849198df1765a733": {
+    "fee": 4000000,
+    "offpeg_fee_multiplier": 20000000000
+  },
+  "0x971add32ea87f10bd192671630be3be8a11b8623": {
+    "fee": 15000000,
+    "offpeg_fee_multiplier": 1
+  },
+  "0x81a2612f6dea269a6dd1f6deab45c5424ee2c4b7": {
+    "fee": 1000000,
+    "offpeg_fee_multiplier": 50000000000
+  },
+  "0x0f3159811670c117c372428d4e69ac32325e4d0f": {
+    "fee": 3316657,
+    "offpeg_fee_multiplier": 1
+  },
+  "0xe035e27a8ed6842b478933820f90093d205f7098": {
+    "fee": 1000000,
+    "offpeg_fee_multiplier": 10000000000
+  },
+  "0xe7a24ef0c5e95ffb0f6684b813a78f2a3ad7d171": {
+    "fee": 4000000,
+    "offpeg_fee_multiplier": 1
+  },
+  "0x5d2a5da4245f24a954bb1fb3ca24726d7ff88056": {
+    "fee": 31365836,
+    "offpeg_fee_multiplier": 1
+  },
+  "0x4b5e827f4c0a1042272a11857a355da1f4ceebae": {
+    "fee": 1000000,
+    "offpeg_fee_multiplier": 50000000000
+  },
+  "0x6e0a5b41e324bacc278277f45891c88a23c1499e": {
+    "fee": 60000,
+    "offpeg_fee_multiplier": 1
+  },
+  "0x4dece678ceceb27446b35c672dc7d61f30bad69e": {
+    "fee": 1000000,
+    "offpeg_fee_multiplier": 1
+  },
+  "0xc8f40791b6c2ff6ae42836d3966b11874432edeb": {
+    "fee": 39423264,
+    "offpeg_fee_multiplier": 1
+  },
+  "0x8f476f43baa2d4b6c215d2408340919bf7de0520": {
+    "fee": 4000000,
+    "offpeg_fee_multiplier": 30000000000
+  },
+  "0x63594b2011a0f2616586bf3eef8096d42272f916": {
+    "fee": 4000000,
+    "offpeg_fee_multiplier": 1
+  },
+  "0x169a5f124a3663a25313ee0f7f3bff028728867f": {
+    "fee": 1000000,
+    "offpeg_fee_multiplier": 50000000000
+  },
+  "0x8999eb39237dd9e3c184fb2f10780a95a34a14ef": {
+    "fee": 4000000,
+    "offpeg_fee_multiplier": 20000000000
+  },
+  "0x38de22a3175708d45e7c7c64cd78479c8b56f76e": {
+    "fee": 4000000,
+    "offpeg_fee_multiplier": 30000000000
+  },
+  "0x19b080fe1ffa0553469d20ca36219f17fcf03859": {
+    "fee": 4000000,
+    "offpeg_fee_multiplier": 1
+  },
+  "0x75a6787c7ee60424358b449b539a8b774c9b4862": {
+    "fee": 40486496,
+    "offpeg_fee_multiplier": 1
+  },
+  "0xc3b19502f8c02be75f3f77fd673503520deb51dd": {
+    "fee": 4000000,
+    "offpeg_fee_multiplier": 1
+  },
+  "0x4ebdf703948ddcea3b11f675b4d1fba9d2414a14": {
+    "fee": 5588048,
+    "offpeg_fee_multiplier": 1
+  },
+  "0x98a7f18d4e56cfe84e3d081b40001b3d5bd3eb8b": {
+    "fee": 44999844,
+    "offpeg_fee_multiplier": 1
+  },
+  "0xd001ae433f254283fece51d4acce8c53263aa186": {
+    "fee": 1000000,
+    "offpeg_fee_multiplier": 50000000000
+  }
+}

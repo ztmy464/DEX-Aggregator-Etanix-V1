@@ -1,0 +1,127 @@
+{
+  "routes": [
+    {
+      "amount_in": "11",
+      "amount_in_usd": "9.590486596506189",
+      "amount_out": "0.00010142",
+      "amount_out_usd": "9.564683361105718",
+      "gas_fee": "1.8045115032e-05",
+      "path": [
+        "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2_0xfaba6f8e4a5e8ab82f62fe7c39859fa577269be3_0x7b1e5d984a43ee732de195628d20d05cfabc3cc7",
+        "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2_0xcbb7c0000ab88b473b1f5afd9ef808440eed33bf_0xf84aad7ab687b1bb1fbb190344240b60b39e5b79"
+      ],
+      "rate_exchange": "108459.86984815619",
+      "rate_receive": "0.9973094967454654",
+      "swap": [
+        {
+          "pool": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2_0xfaba6f8e4a5e8ab82f62fe7c39859fa577269be3_0x7b1e5d984a43ee732de195628d20d05cfabc3cc7",
+          "exchange": "Uniswap_V3",
+          "dangerous": false,
+          "input_token": "ONDO",
+          "input_amount": 11,
+          "input_amount_usd": 9.590486596506189,
+          "output_token": "WETH",
+          "output_amount": 0.005311801123640058,
+          "output_amount_usd": 9.561710561873923,
+          "execute_price": 0.0004828910112400053,
+          "gas_fee": 9.022557516e-06
+        },
+        {
+          "pool": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2_0xcbb7c0000ab88b473b1f5afd9ef808440eed33bf_0xf84aad7ab687b1bb1fbb190344240b60b39e5b79",
+          "exchange": "Pancakeswap_V3",
+          "dangerous": false,
+          "input_token": "WETH",
+          "input_amount": 0.005311801123640058,
+          "input_amount_usd": 9.584223323966778,
+          "output_token": "cbBTC",
+          "output_amount": 0.00010142,
+          "output_amount_usd": 9.564683361105718,
+          "execute_price": 0.019093335318717496,
+          "gas_fee": 9.022557516e-06
+        }
+      ]
+    },
+    {
+      "amount_in": "11",
+      "amount_in_usd": "9.590486596506189",
+      "amount_out": "0.00010128",
+      "amount_out_usd": "9.562191527606092",
+      "gas_fee": "1.8045115032e-05",
+      "path": [
+        "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2_0xfaba6f8e4a5e8ab82f62fe7c39859fa577269be3_0x7b1e5d984a43ee732de195628d20d05cfabc3cc7",
+        "0xcbb7c0000ab88b473b1f5afd9ef808440eed33bf_0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2_0x8a4f252812dff2a8636e4f7eb249d8fc2e3bd77f"
+      ],
+      "rate_exchange": "108609.79462875197",
+      "rate_receive": "0.9970496732761814",
+      "swap": [
+        {
+          "pool": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2_0xfaba6f8e4a5e8ab82f62fe7c39859fa577269be3_0x7b1e5d984a43ee732de195628d20d05cfabc3cc7",
+          "exchange": "Uniswap_V3",
+          "dangerous": false,
+          "input_token": "ONDO",
+          "input_amount": 11,
+          "input_amount_usd": 9.590486596506189,
+          "output_token": "WETH",
+          "output_amount": 0.005311801123640058,
+          "output_amount_usd": 9.561710561873923,
+          "execute_price": 0.0004828910112400053,
+          "gas_fee": 9.022557516e-06
+        },
+        {
+          "pool": "0xcbb7c0000ab88b473b1f5afd9ef808440eed33bf_0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2_0x8a4f252812dff2a8636e4f7eb249d8fc2e3bd77f",
+          "exchange": "Curve",
+          "dangerous": false,
+          "input_token": "WETH",
+          "input_amount": 0.005311801123640058,
+          "input_amount_usd": 9.572054339836816,
+          "output_token": "cbBTC",
+          "output_amount": 0.00010128,
+          "output_amount_usd": 9.562191527606092,
+          "execute_price": 0.019066978910271228,
+          "gas_fee": 9.022557516e-06
+        }
+      ]
+    },
+    {
+      "amount_in": "11",
+      "amount_in_usd": "9.590486596506189",
+      "amount_out": "0.00010099",
+      "amount_out_usd": "9.541401807553097",
+      "gas_fee": "1.8045115032e-05",
+      "path": [
+        "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2_0xfaba6f8e4a5e8ab82f62fe7c39859fa577269be3_0x7b1e5d984a43ee732de195628d20d05cfabc3cc7",
+        "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2_0xcbb7c0000ab88b473b1f5afd9ef808440eed33bf_0x15aa01580ae866f9ff4dbe45e06e307941d90c7b"
+      ],
+      "rate_exchange": "108921.67541340727",
+      "rate_receive": "0.9948819292473675",
+      "swap": [
+        {
+          "pool": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2_0xfaba6f8e4a5e8ab82f62fe7c39859fa577269be3_0x7b1e5d984a43ee732de195628d20d05cfabc3cc7",
+          "exchange": "Uniswap_V3",
+          "dangerous": false,
+          "input_token": "ONDO",
+          "input_amount": 11,
+          "input_amount_usd": 9.590486596506189,
+          "output_token": "WETH",
+          "output_amount": 0.005311801123640058,
+          "output_amount_usd": 9.561710561873923,
+          "execute_price": 0.0004828910112400053,
+          "gas_fee": 9.022557516e-06
+        },
+        {
+          "pool": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2_0xcbb7c0000ab88b473b1f5afd9ef808440eed33bf_0x15aa01580ae866f9ff4dbe45e06e307941d90c7b",
+          "exchange": "Uniswap_V3",
+          "dangerous": false,
+          "input_token": "WETH",
+          "input_amount": 0.005311801123640058,
+          "input_amount_usd": 9.561710561873923,
+          "output_token": "cbBTC",
+          "output_amount": 0.00010099,
+          "output_amount_usd": 9.541401807553097,
+          "execute_price": 0.019012383492775387,
+          "gas_fee": 9.022557516e-06
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+
+        {
+        pools(first:1000, skip: 0, orderDirection: desc, orderBy: totalValueLockedUSD) {
+            token0 {
+                id
+                symbol
+                decimals
+            }
+            token1 {
+                symbol
+                id
+                decimals
+            }
+            id
+            totalValueLockedToken0
+            totalValueLockedToken1
+            totalValueLockedUSD
+            token0Price         # Price of token0 in terms of token1
+            token1Price         # Price of token1 in terms of token0
+            liquidity           # V3 liquidity value
+            sqrtPrice           # V3 sqrtPrice value
+        }
+        }
+        

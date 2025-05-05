@@ -1,0 +1,20 @@
+{
+    "id": "0xceff51756c56ceffca006cd410b03ffc46dd3a58",
+    "reserve0": "118.88899269",
+    "reserve1": "6337.506337702476755419",
+    "reserveUSD": "19818085.77785350228681828998885491",
+    "protocol": "Sushiswap_V2",
+    "dangerous": false,
+    "token0": {
+      "decimals": "8",
+      "id": "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
+      "symbol": "WBTC",
+      "priceUSD": 0.0
+    },
+    "token1": {
+      "decimals": "18",
+      "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+      "symbol": "WETH",
+      "priceUSD": 0.0
+    }
+  }

@@ -1,0 +1,12 @@
+aiohttp
+Flask[async]
+Flask-Cors
+gevent
+gunicorn
+matplotlib
+networkx
+web3
+python-dotenv
+flask_swagger_ui
+whitenoise
+tqdm

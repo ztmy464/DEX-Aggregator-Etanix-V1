@@ -1,0 +1,2476 @@
+[
+  {
+    "feeTier": "500",
+    "id": "0x88e6a0c2ddd26feeb64f039a2c41296fcb3f5640",
+    "liquidity": "9247243777726290438",
+    "sqrtPrice": "1895533623596904060529260750480000",
+    "tick": "201663",
+    "token0": {
+      "decimals": "6",
+      "id": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+      "symbol": "USDC",
+      "priceUSD": 1.0
+    },
+    "token0Price": "1747.01318427105309068434560485543",
+    "token1": {
+      "decimals": "18",
+      "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+      "symbol": "WETH",
+      "priceUSD": 1746.1384015019582
+    },
+    "token1Price": "0.0005724055256155684015473937184690655",
+    "totalValueLockedToken0": "161458911.95945",
+    "totalValueLockedToken1": "108979.752353573649249846",
+    "totalValueLockedUSD": "351752642.530198370490144008665868",
+    "protocol": "Uniswap_V3",
+    "reserve0": 386509700.334663,
+    "reserve1": 221240.28817557887,
+    "dangerous": false
+  },
+  {
+    "feeTier": "3000",
+    "id": "0x8ad599c3a0ff1de082011efddc58f1908eb6e6d8",
+    "liquidity": "4750297892164051698",
+    "sqrtPrice": "1896008377637995532441481941660033",
+    "tick": "201668",
+    "token0": {
+      "decimals": "6",
+      "id": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+      "symbol": "USDC",
+      "priceUSD": 1.0
+    },
+    "token0Price": "1746.138401501958306675205449790308",
+    "token1": {
+      "decimals": "18",
+      "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+      "symbol": "WETH",
+      "priceUSD": 1746.1384015019582
+    },
+    "token1Price": "0.0005726922901070385129293800085438043",
+    "totalValueLockedToken0": "140268418.711351",
+    "totalValueLockedToken1": "69989.698132055778716867",
+    "totalValueLockedUSD": "262480118.329263474650555483699839",
+    "protocol": "Uniswap_V3",
+    "reserve0": 198499847.274091,
+    "reserve1": 113679.33212129706,
+    "dangerous": false
+  },
+  {
+    "feeTier": "3000",
+    "id": "0xcbcdf9626bc03e24f779434178a73a0b4bad62ed",
+    "liquidity": "213860743659523294",
+    "sqrtPrice": "57680677432512317598437131309007710",
+    "tick": "269975",
+    "token0": {
+      "decimals": "8",
+      "id": "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
+      "symbol": "WBTC",
+      "priceUSD": 92550.80503329798
+    },
+    "token0Price": "0.01886680943373460148521029486413222",
+    "token1": {
+      "decimals": "18",
+      "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+      "symbol": "WETH",
+      "priceUSD": 1746.1384015019582
+    },
+    "token1Price": "53.00313248576945119956339006906473",
+    "totalValueLockedToken0": "1399.90023092",
+    "totalValueLockedToken1": "54970.11543003910963045",
+    "totalValueLockedUSD": "225214333.2258609021493635025257953",
+    "protocol": "Uniswap_V3",
+    "reserve0": 2937.51642807,
+    "reserve1": 155697.57241664216,
+    "dangerous": false
+  },
+  {
+    "feeTier": "3000",
+    "id": "0x4e68ccd3e89f51c3074ca5072bbac773960dfa36",
+    "liquidity": "4909405284676742952",
+    "sqrtPrice": "3310524173988023075539758",
+    "tick": "-201670",
+    "token0": {
+      "decimals": "18",
+      "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+      "symbol": "WETH",
+      "priceUSD": 1746.1384015019582
+    },
+    "token0Price": "0.0005727507155668285261059214458097599",
+    "token1": {
+      "decimals": "6",
+      "id": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+      "symbol": "USDT",
+      "priceUSD": 1.0
+    },
+    "token1Price": "1745.960280486668458497272269286887",
+    "totalValueLockedToken0": "47596.934607085536392081",
+    "totalValueLockedToken1": "85609743.649744",
+    "totalValueLockedUSD": "168720578.9609535784841987674869684",
+    "protocol": "Uniswap_V3",
+    "reserve0": 117492.92235923855,
+    "reserve1": 205137975.677534,
+    "dangerous": false
+  },
+  {
+    "id": "0x21b8065d10f73ee2e260e5b47d3344d3ced7596e",
+    "reserve0": "501190562.752799230185720508",
+    "reserve1": "29650.858946117584858605",
+    "reserveUSD": "105744213.7513141296245420671885835",
+    "token0": {
+      "decimals": "18",
+      "id": "0x66a0f676479cee1d7373f3dc2e2952778bff5bd6",
+      "symbol": "WISE",
+      "priceUSD": 0.10549302162685578
+    },
+    "token1": {
+      "decimals": "18",
+      "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+      "symbol": "WETH",
+      "priceUSD": 1783.155994628615
+    },
+    "protocol": "Uniswap_V2",
+    "dangerous": false
+  },
+  {
+    "id": "0xbebc44782c7db0a1a60cb6fe97d0b483032ff1c7",
+    "reserve0": 73626923.936585,
+    "reserve1": 30414768.021501,
+    "token0": {
+      "id": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+      "symbol": "USDC",
+      "decimals": 6,
+      "priceUSD": 1
+    },
+    "token1": {
+      "id": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+      "symbol": "USDT",
+      "decimals": 6,
+      "priceUSD": 0.999855255689231
+    },
+    "reserveUSD": 104037289.59345153,
+    "protocol": "Curve",
+    "dangerous": false,
+    "pool_data": {
+      "id": "0",
+      "address": "0xbEbc44782C7dB0a1A60Cb6fe97d0b483032FF1C7",
+      "coinsAddresses": [
+        "0x6B175474E89094C44Da98b954EedeAC495271d0F",
+        "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+        "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+        "0x0000000000000000000000000000000000000000"
+      ],
+      "decimals": [
+        "18",
+        "6",
+        "6",
+        "0"
+      ],
+      "virtualPrice": "1039838639731997143",
+      "amplificationCoefficient": "8000",
+      "totalSupply": "170280357412308799860696160",
+      "name": "Curve.fi DAI/USDC/USDT",
+      "assetType": "0",
+      "lpTokenAddress": "0x6c3F90f043a72FA612cbac8115EE7e52BDe6E490",
+      "priceOracle": null,
+      "priceOracles": null,
+      "symbol": "3Crv",
+      "implementation": "",
+      "assetTypeName": "usd",
+      "coins": [
+        {
+          "address": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
+          "usdPrice": 0.9994847470134773,
+          "decimals": "18",
+          "isBasePoolLpToken": false,
+          "symbol": "DAI",
+          "name": "Dai Stablecoin",
+          "poolBalance": "73024301546759637160669716"
+        },
+        {
+          "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+          "usdPrice": 1,
+          "decimals": "6",
+          "isBasePoolLpToken": false,
+          "symbol": "USDC",
+          "name": "USD Coin",
+          "poolBalance": "73626923936585"
+        },
+        {
+          "address": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+          "usdPrice": 0.999855255689231,
+          "decimals": "6",
+          "isBasePoolLpToken": false,
+          "symbol": "USDT",
+          "name": "Tether USD",
+          "poolBalance": "30414768021501"
+        }
+      ],
+      "poolUrls": {
+        "swap": [
+          "https://curve.fi/dex/#/ethereum/pools/3pool/swap",
+          "https://classic.curve.fi/3pool"
+        ],
+        "deposit": [
+          "https://curve.fi/dex/#/ethereum/pools/3pool/deposit",
+          "https://classic.curve.fi/3pool/deposit"
+        ],
+        "withdraw": [
+          "https://curve.fi/dex/#/ethereum/pools/3pool/withdraw",
+          "https://classic.curve.fi/3pool/withdraw"
+        ]
+      },
+      "usdTotal": 177023965.15075043,
+      "isMetaPool": false,
+      "usdTotalExcludingBasePool": 177023965.15075043,
+      "gaugeAddress": "0xbfcf63294ad7105dea65aa58f8ae5be2d9d0952a",
+      "gaugeRewards": [],
+      "gaugeCrvApy": [
+        0.0006285486042519396,
+        0.0015713715106298492
+      ],
+      "gaugeFutureCrvApy": [
+        0.0006009261512934658,
+        0.0015023153782336646
+      ],
+      "usesRateOracle": false,
+      "isBroken": false,
+      "hasMethods": {
+        "exchange_received": false,
+        "exchange_extended": false
+      },
+      "creationTs": 1599422178,
+      "creationBlockNumber": 10809473,
+      "blockchainId": "ethereum",
+      "registryId": "main"
+    }
+  },
+  {
+    "id": "0xbebc44782c7db0a1a60cb6fe97d0b483032ff1c7",
+    "reserve0": 73024301.54675964,
+    "reserve1": 30414768.021501,
+    "token0": {
+      "id": "0x6b175474e89094c44da98b954eedeac495271d0f",
+      "symbol": "DAI",
+      "decimals": 18,
+      "priceUSD": 0.9994847470134773
+    },
+    "token1": {
+      "id": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+      "symbol": "USDT",
+      "decimals": 6,
+      "priceUSD": 0.999855255689231
+    },
+    "reserveUSD": 103397041.21416545,
+    "protocol": "Curve",
+    "dangerous": false,
+    "pool_data": {
+      "id": "0",
+      "address": "0xbEbc44782C7dB0a1A60Cb6fe97d0b483032FF1C7",
+      "coinsAddresses": [
+        "0x6B175474E89094C44Da98b954EedeAC495271d0F",
+        "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+        "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+        "0x0000000000000000000000000000000000000000"
+      ],
+      "decimals": [
+        "18",
+        "6",
+        "6",
+        "0"
+      ],
+      "virtualPrice": "1039838639731997143",
+      "amplificationCoefficient": "8000",
+      "totalSupply": "170280357412308799860696160",
+      "name": "Curve.fi DAI/USDC/USDT",
+      "assetType": "0",
+      "lpTokenAddress": "0x6c3F90f043a72FA612cbac8115EE7e52BDe6E490",
+      "priceOracle": null,
+      "priceOracles": null,
+      "symbol": "3Crv",
+      "implementation": "",
+      "assetTypeName": "usd",
+      "coins": [
+        {
+          "address": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
+          "usdPrice": 0.9994847470134773,
+          "decimals": "18",
+          "isBasePoolLpToken": false,
+          "symbol": "DAI",
+          "name": "Dai Stablecoin",
+          "poolBalance": "73024301546759637160669716"
+        },
+        {
+          "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+          "usdPrice": 1,
+          "decimals": "6",
+          "isBasePoolLpToken": false,
+          "symbol": "USDC",
+          "name": "USD Coin",
+          "poolBalance": "73626923936585"
+        },
+        {
+          "address": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+          "usdPrice": 0.999855255689231,
+          "decimals": "6",
+          "isBasePoolLpToken": false,
+          "symbol": "USDT",
+          "name": "Tether USD",
+          "poolBalance": "30414768021501"
+        }
+      ],
+      "poolUrls": {
+        "swap": [
+          "https://curve.fi/dex/#/ethereum/pools/3pool/swap",
+          "https://classic.curve.fi/3pool"
+        ],
+        "deposit": [
+          "https://curve.fi/dex/#/ethereum/pools/3pool/deposit",
+          "https://classic.curve.fi/3pool/deposit"
+        ],
+        "withdraw": [
+          "https://curve.fi/dex/#/ethereum/pools/3pool/withdraw",
+          "https://classic.curve.fi/3pool/withdraw"
+        ]
+      },
+      "usdTotal": 177023965.15075043,
+      "isMetaPool": false,
+      "usdTotalExcludingBasePool": 177023965.15075043,
+      "gaugeAddress": "0xbfcf63294ad7105dea65aa58f8ae5be2d9d0952a",
+      "gaugeRewards": [],
+      "gaugeCrvApy": [
+        0.0006285486042519396,
+        0.0015713715106298492
+      ],
+      "gaugeFutureCrvApy": [
+        0.0006009261512934658,
+        0.0015023153782336646
+      ],
+      "usesRateOracle": false,
+      "isBroken": false,
+      "hasMethods": {
+        "exchange_received": false,
+        "exchange_extended": false
+      },
+      "creationTs": 1599422178,
+      "creationBlockNumber": 10809473,
+      "blockchainId": "ethereum",
+      "registryId": "main"
+    }
+  },
+  {
+    "feeTier": "500",
+    "id": "0x4585fe77225b41b697c938b018e2ac67ac5a20c0",
+    "liquidity": "130888163455617771",
+    "sqrtPrice": "57612008555695714179864790626517140",
+    "tick": "269951",
+    "token0": {
+      "decimals": "8",
+      "id": "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
+      "symbol": "WBTC",
+      "priceUSD": 92550.80503329798
+    },
+    "token0Price": "0.01891181167367037716940501730394157",
+    "token1": {
+      "decimals": "18",
+      "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+      "symbol": "WETH",
+      "priceUSD": 1746.1384015019582
+    },
+    "token1Price": "52.87700709246336527109437365114048",
+    "totalValueLockedToken0": "629.18534618",
+    "totalValueLockedToken1": "20583.303280098592624715",
+    "totalValueLockedUSD": "94172906.59125465233976801209172494",
+    "protocol": "Uniswap_V3",
+    "reserve0": 1799.97693977,
+    "reserve1": 95177.39341091884,
+    "dangerous": false
+  },
+  {
+    "feeTier": "500",
+    "id": "0x11b815efb8f581194ae79006d24e0d814b7697f6",
+    "liquidity": "1304695631780750735",
+    "sqrtPrice": "3311361778902031525050236",
+    "tick": "-201665",
+    "token0": {
+      "decimals": "18",
+      "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+      "symbol": "WETH",
+      "priceUSD": 1746.1384015019582
+    },
+    "token0Price": "0.0005724609990264954273774760927455045",
+    "token1": {
+      "decimals": "6",
+      "id": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+      "symbol": "USDT",
+      "priceUSD": 1.0
+    },
+    "token1Price": "1746.843892772713804559553805549658",
+    "totalValueLockedToken0": "18148.734080728520996952",
+    "totalValueLockedToken1": "43819465.414363",
+    "totalValueLockedUSD": "75509666.93137041239617377095737044",
+    "protocol": "Uniswap_V3",
+    "reserve0": 31216.352802335805,
+    "reserve1": 54530095.247398,
+    "dangerous": false
+  },
+  {
+    "feeTier": "3000",
+    "id": "0x9db9e0e53058c89e5b94e29621a205198648425b",
+    "liquidity": "1364837034339",
+    "sqrtPrice": "2407016832346560937328687142454",
+    "tick": "68279",
+    "token0": {
+      "decimals": "8",
+      "id": "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
+      "symbol": "WBTC",
+      "priceUSD": 92550.80503329798
+    },
+    "token0Price": "0.00001083430139406568051343656199771545",
+    "token1": {
+      "decimals": "6",
+      "id": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+      "symbol": "USDT",
+      "priceUSD": 1.0
+    },
+    "token1Price": "92299.44447989368211373676825951719",
+    "totalValueLockedToken0": "381.84329285",
+    "totalValueLockedToken1": "24231504.677171",
+    "totalValueLockedUSD": "59571404.83596350980818592366236962",
+    "protocol": "Uniswap_V3",
+    "reserve0": 449.24293386,
+    "reserve1": 41464873.232071,
+    "dangerous": false
+  },
+  {
+    "feeTier": "3000",
+    "id": "0xa6cc3c2531fdaa6ae1a3ca84c2855806728693e8",
+    "liquidity": "484756338834806609559560",
+    "sqrtPrice": "7193796063952544847262485321",
+    "tick": "-47985",
+    "token0": {
+      "decimals": "18",
+      "id": "0x514910771af9ca656af840dff83e8264ecf986ca",
+      "symbol": "LINK",
+      "priceUSD": 14.395797860857163
+    },
+    "token0Price": "121.2950069443381600947518114924117",
+    "token1": {
+      "decimals": "18",
+      "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+      "symbol": "WETH",
+      "priceUSD": 1746.1384015019582
+    },
+    "token1Price": "0.008244362444852296208088837975972783",
+    "totalValueLockedToken0": "1852204.938359359394765802",
+    "totalValueLockedToken1": "16959.048023642963459609",
+    "totalValueLockedUSD": "56276812.89650161330168311246452868",
+    "protocol": "Uniswap_V3",
+    "reserve0": 5338816.064785959,
+    "reserve1": 44015.13466449548,
+    "dangerous": false
+  },
+  {
+    "feeTier": "3000",
+    "id": "0x11950d141ecb863f01007add7d1a342041227b58",
+    "liquidity": "55891039266449552689654404",
+    "sqrtPrice": "5521486073745327983099567",
+    "tick": "-191439",
+    "token0": {
+      "decimals": "18",
+      "id": "0x6982508145454ce325ddbe47a25d4ec3d2311933",
+      "symbol": "PEPE",
+      "priceUSD": 8.48069526985894e-06
+    },
+    "token0Price": "205895666.0909479519769899041144888",
+    "token1": {
+      "decimals": "18",
+      "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+      "symbol": "WETH",
+      "priceUSD": 1746.1384015019582
+    },
+    "token1Price": "0.000000004856828795795446067910599271612852",
+    "totalValueLockedToken0": "4892291001783.040535539623431846",
+    "totalValueLockedToken1": "4852.090129280587794252",
+    "totalValueLockedUSD": "49962450.05988032891736291156002574",
+    "protocol": "Uniswap_V3",
+    "reserve0": 801984154800.1406,
+    "reserve1": 3895.099736804996,
+    "dangerous": false
+  },
+  {
+    "feeTier": "500",
+    "id": "0x6dcba3657ee750a51a13a235b4ed081317da3066",
+    "liquidity": "263812670953147528440464",
+    "sqrtPrice": "78840920462222000478846592093",
+    "tick": "-98",
+    "token0": {
+      "decimals": "18",
+      "id": "0x97ad75064b20fb2b2447fed4fa953bf7f007a706",
+      "symbol": "beraSTONE",
+      "priceUSD": 1729.1109778096695
+    },
+    "token0Price": "1.009847501930649887600433616839309",
+    "token1": {
+      "decimals": "18",
+      "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+      "symbol": "WETH",
+      "priceUSD": 1746.1384015019582
+    },
+    "token1Price": "0.9902485257310403750079807136462908",
+    "totalValueLockedToken0": "23767.014730866144986386",
+    "totalValueLockedToken1": "4761.069092069616101764",
+    "totalValueLockedUSD": "49360953.49157479840949017154691963",
+    "protocol": "Uniswap_V3",
+    "reserve0": 265108.4366476084,
+    "reserve1": 262523.2385491551,
+    "dangerous": false
+  },
+  {
+    "feeTier": "3000",
+    "id": "0xc2e9f25be6257c210d7adf0d4cd6e3e881ba25f8",
+    "liquidity": "820980702801435743709154",
+    "sqrtPrice": "1896081456911382055646179812",
+    "tick": "-74655",
+    "token0": {
+      "decimals": "18",
+      "id": "0x6b175474e89094c44da98b954eedeac495271d0f",
+      "symbol": "DAI",
+      "priceUSD": 1.0
+    },
+    "token0Price": "1746.003803838944729820474260242033",
+    "token1": {
+      "decimals": "18",
+      "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+      "symbol": "WETH",
+      "priceUSD": 1746.1384015019582
+    },
+    "token1Price": "0.0005727364383750461873702494852955139",
+    "totalValueLockedToken0": "26251165.442763211898517718",
+    "totalValueLockedToken1": "10577.329160773770522446",
+    "totalValueLockedUSD": "44719411.96659265601790744833230539",
+    "protocol": "Uniswap_V3",
+    "reserve0": 34304851.358328074,
+    "reserve1": 19647.638385954186,
+    "dangerous": false
+  },
+  {
+    "feeTier": "100",
+    "id": "0x3416cf6c708da44db2624d63ea0aaef7113527c6",
+    "liquidity": "72851845294368331",
+    "sqrtPrice": "79221449386593619554409506237",
+    "tick": "-2",
+    "token0": {
+      "decimals": "6",
+      "id": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+      "symbol": "USDC",
+      "priceUSD": 1.0
+    },
+    "token0Price": "1.000169484707835285880442142547126",
+    "token1": {
+      "decimals": "6",
+      "id": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+      "symbol": "USDT",
+      "priceUSD": 1.0
+    },
+    "token1Price": "0.9998305440123632696706140007915553",
+    "totalValueLockedToken0": "27720481.346829",
+    "totalValueLockedToken1": "16765364.395438",
+    "totalValueLockedUSD": "44485845.74226699999999999999999999",
+    "protocol": "Uniswap_V3",
+    "reserve0": 72858018669.66373,
+    "reserve1": 72845672442.15282,
+    "dangerous": false
+  },
+  {
+    "feeTier": "3000",
+    "id": "0xe8c6c9227491c0a8156a0106a0204d881bb7e531",
+    "liquidity": "20109935815998378241440",
+    "sqrtPrice": "72420559071572227245078339903",
+    "tick": "-1797",
+    "token0": {
+      "decimals": "18",
+      "id": "0x9f8f72aa9304c8b593d555f12ef6589cc3a579a2",
+      "symbol": "MKR",
+      "priceUSD": 1458.9595205723608
+    },
+    "token0Price": "1.196838141757994062825484066646125",
+    "token1": {
+      "decimals": "18",
+      "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+      "symbol": "WETH",
+      "priceUSD": 1746.1384015019582
+    },
+    "token1Price": "0.8355348690100523208565691933328404",
+    "totalValueLockedToken0": "21259.205030913124401628",
+    "totalValueLockedToken1": "5455.077157909670222192",
+    "totalValueLockedUSD": "40481783.79919161718779322714080812",
+    "protocol": "Uniswap_V3",
+    "reserve0": 22000.28946761837,
+    "reserve1": 18382.008978509748,
+    "dangerous": false
+  },
+  {
+    "feeTier": "3000",
+    "id": "0x1d42064fc4beb5f8aaf85f4617ae8b3b5b8bd801",
+    "liquidity": "1329621875082143408279032",
+    "sqrtPrice": "4537930002225257249773642201",
+    "tick": "-57201",
+    "token0": {
+      "decimals": "18",
+      "id": "0x1f9840a85d5af5bf1d1762f925bdaddc4201f984",
+      "symbol": "UNI",
+      "priceUSD": 5.728423019184519
+    },
+    "token0Price": "304.8200867244146267119732748124089",
+    "token1": {
+      "decimals": "18",
+      "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+      "symbol": "WETH",
+      "priceUSD": 1746.1384015019582
+    },
+    "token1Price": "0.003280623697558658285893243424204051",
+    "totalValueLockedToken0": "3927308.450122149386146978",
+    "totalValueLockedToken1": "8953.52402715010904683",
+    "totalValueLockedUSD": "38131376.26169486665084069858175242",
+    "protocol": "Uniswap_V3",
+    "reserve0": 23213998.001263093,
+    "reserve1": 76156.39195802303,
+    "dangerous": false
+  },
+  {
+    "id": "0xdacf5fa19b1f720111609043ac67a9818262850c",
+    "reserve0": "9504.371317596495",
+    "reserve1": "9470.115112271444",
+    "protocol": "Balancer_V3",
+    "token0": {
+      "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+      "symbol": "WETH",
+      "priceUSD": 1748.4699999999996,
+      "decimals": 18
+    },
+    "token1": {
+      "id": "0xf1c9acdc66974dfb6decb12aa385b9cd01190e38",
+      "symbol": "osETH",
+      "priceUSD": 1828.9200000000003,
+      "decimals": 18
+    },
+    "pool_data": {
+      "address": "0xdacf5fa19b1f720111609043ac67a9818262850c",
+      "type": "COMPOSABLE_STABLE",
+      "amp": "200.0",
+      "alpha": null,
+      "beta": null,
+      "c": null,
+      "s": null,
+      "lambda": null,
+      "tauAlphaX": null,
+      "tauAlphaY": null,
+      "tauBetaX": null,
+      "tauBetaY": null,
+      "u": null,
+      "v": null,
+      "w": null,
+      "z": null,
+      "dSq": null,
+      "poolTokens": [
+        {
+          "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+          "symbol": "WETH",
+          "balance": "9504.371317596495",
+          "weight": null,
+          "balanceUSD": "16618108.11767794",
+          "scalingFactor": null,
+          "priceRate": "1.0",
+          "decimals": 18
+        },
+        {
+          "address": "0xdacf5fa19b1f720111609043ac67a9818262850c",
+          "symbol": "osETH/wETH-BPT",
+          "balance": "2596148429267421",
+          "weight": null,
+          "balanceUSD": "0",
+          "scalingFactor": null,
+          "priceRate": "1.0201318142115972",
+          "decimals": 18
+        },
+        {
+          "address": "0xf1c9acdc66974dfb6decb12aa385b9cd01190e38",
+          "symbol": "osETH",
+          "balance": "9470.115112271444",
+          "weight": null,
+          "balanceUSD": "17320082.93113549",
+          "scalingFactor": null,
+          "priceRate": "1.044628455879777049",
+          "decimals": 18
+        }
+      ],
+      "dynamicData": {
+        "swapFee": "0.0001",
+        "totalLiquidity": "33938191.05"
+      },
+      "protocol": "Balancer_V3",
+      "dangerous": false
+    },
+    "dangerous": false,
+    "reserveUSD": 33938191.04881343
+  },
+  {
+    "id": "0xa43fe16908251ee70ef74718545e4fe6c5ccec9f",
+    "reserve0": "1965485843041.719010047194253742",
+    "reserve1": "9549.259733763214972706",
+    "reserveUSD": "33393153.36854572317976645945048515",
+    "token0": {
+      "decimals": "18",
+      "id": "0x6982508145454ce325ddbe47a25d4ec3d2311933",
+      "symbol": "PEPE",
+      "priceUSD": 8.49488524345401e-06
+    },
+    "token1": {
+      "decimals": "18",
+      "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+      "symbol": "WETH",
+      "priceUSD": 1748.4681692381826
+    },
+    "protocol": "Uniswap_V2",
+    "dangerous": false
+  },
+  {
+    "feeTier": "10000",
+    "id": "0xf239009a101b6b930a527deaab6961b6e7dec8a6",
+    "liquidity": "941778471540019005895884",
+    "sqrtPrice": "5512377547996336709114034",
+    "tick": "-191472",
+    "token0": {
+      "decimals": "18",
+      "id": "0x6982508145454ce325ddbe47a25d4ec3d2311933",
+      "symbol": "PEPE",
+      "priceUSD": 8.48069526985894e-06
+    },
+    "token0Price": "206576662.7747495450180906987554888",
+    "token1": {
+      "decimals": "18",
+      "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+      "symbol": "WETH",
+      "priceUSD": 1746.1384015019582
+    },
+    "token1Price": "0.000000004840817866684178294404759187921554",
+    "totalValueLockedToken0": "3685267060280.37856597732149873",
+    "totalValueLockedToken1": "908.401574827341238622",
+    "totalValueLockedUSD": "33054672.87344037990615436878439853",
+    "protocol": "Uniswap_V3",
+    "reserve0": 13535970122.860983,
+    "reserve1": 65.52516601364867,
+    "dangerous": false
+  },
+  {
+    "id": "0x390f3595bca2df7d23783dfd126427cceb997bf4",
+    "reserve0": 15926179.652192,
+    "reserve1": 16232623.75112204,
+    "token0": {
+      "id": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+      "symbol": "USDT",
+      "decimals": 6,
+      "priceUSD": 0.999855255689231
+    },
+    "token1": {
+      "id": "0xf939e0a03fb07f59a73314e73794be0e57ac1b4e",
+      "symbol": "crvUSD",
+      "decimals": 18,
+      "priceUSD": 1.0000547755990803
+    },
+    "reserveUSD": 32157387.331107713,
+    "protocol": "Curve",
+    "dangerous": false,
+    "pool_data": {
+      "id": "factory-crvusd-1",
+      "address": "0x390f3595bCa2Df7d23783dFd126427CCeb997BF4",
+      "coinsAddresses": [
+        "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+        "0xf939E0A03FB07F59A73314E73794Be0E57ac1b4E",
+        "0x0000000000000000000000000000000000000000",
+        "0x0000000000000000000000000000000000000000"
+      ],
+      "decimals": [
+        "6",
+        "18",
+        "0",
+        "0"
+      ],
+      "virtualPrice": "1017292102122761937",
+      "amplificationCoefficient": "500",
+      "totalSupply": "31612159793279249689821786",
+      "name": "Curve.fi Factory Plain Pool: crvUSD/USDT",
+      "assetType": "0",
+      "implementationAddress": "0x67fe41A94e779CcFa22cff02cc2957DC9C0e4286",
+      "symbol": "crvUSDUSDT-f",
+      "priceOracle": 0.9999611778936472,
+      "implementation": "",
+      "assetTypeName": "usd",
+      "coins": [
+        {
+          "address": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+          "usdPrice": 0.999855255689231,
+          "decimals": "6",
+          "isBasePoolLpToken": false,
+          "symbol": "USDT",
+          "name": "Tether USD",
+          "poolBalance": "15926179652192"
+        },
+        {
+          "address": "0xf939E0A03FB07F59A73314E73794Be0E57ac1b4E",
+          "usdPrice": 1.0000547755990803,
+          "decimals": "18",
+          "isBasePoolLpToken": false,
+          "symbol": "crvUSD",
+          "name": "Curve.Fi USD Stablecoin",
+          "poolBalance": "16232623751122040229600498"
+        }
+      ],
+      "poolUrls": {
+        "swap": [
+          "https://curve.fi/dex/#/ethereum/pools/factory-crvusd-1/swap",
+          "https://classic.curve.fi/factory-crvusd-1"
+        ],
+        "deposit": [
+          "https://curve.fi/dex/#/ethereum/pools/factory-crvusd-1/deposit",
+          "https://classic.curve.fi/factory-crvusd-1/deposit"
+        ],
+        "withdraw": [
+          "https://curve.fi/dex/#/ethereum/pools/factory-crvusd-1/withdraw",
+          "https://classic.curve.fi/factory-crvusd-1/withdraw"
+        ]
+      },
+      "lpTokenAddress": "0x390f3595bCa2Df7d23783dFd126427CCeb997BF4",
+      "usdTotal": 32157387.331107713,
+      "isMetaPool": false,
+      "usdTotalExcludingBasePool": 32157387.331107713,
+      "gaugeAddress": "0x4e6bb6b7447b7b2aa268c16ab87f4bb48bf57939",
+      "gaugeRewards": [
+        {
+          "gaugeAddress": "0x4e6bb6b7447b7b2aa268c16ab87f4bb48bf57939",
+          "tokenPrice": 0.6798483577396144,
+          "name": "Curve DAO Token",
+          "symbol": "CRV",
+          "decimals": "18",
+          "tokenAddress": "0xD533a949740bb3306d119CC777fa900bA034cd52",
+          "apy": 0
+        }
+      ],
+      "gaugeCrvApy": [
+        4.442599971266742,
+        11.106499928166855
+      ],
+      "gaugeFutureCrvApy": [
+        4.442875796568821,
+        11.107189491422051
+      ],
+      "usesRateOracle": false,
+      "isBroken": false,
+      "hasMethods": {
+        "exchange_received": false,
+        "exchange_extended": false
+      },
+      "creationTs": 1684066103,
+      "creationBlockNumber": 17258004,
+      "blockchainId": "ethereum",
+      "registryId": "factory-crvusd",
+      "factory": true
+    }
+  },
+  {
+    "id": "0x1e19cf2d73a72ef1332c882f20534b6519be0276",
+    "reserve0": "7642.884406244774",
+    "reserve1": "6348.2424428547665",
+    "protocol": "Balancer_V3",
+    "token0": {
+      "id": "0xae78736cd615f374d3085123a210448e74fc6393",
+      "symbol": "rETH",
+      "priceUSD": 1971.0400000000002,
+      "decimals": 18
+    },
+    "token1": {
+      "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+      "symbol": "WETH",
+      "priceUSD": 1748.4699999999996,
+      "decimals": 18
+    },
+    "pool_data": {
+      "address": "0x1e19cf2d73a72ef1332c882f20534b6519be0276",
+      "type": "META_STABLE",
+      "amp": "50.0",
+      "alpha": null,
+      "beta": null,
+      "c": null,
+      "s": null,
+      "lambda": null,
+      "tauAlphaX": null,
+      "tauAlphaY": null,
+      "tauBetaX": null,
+      "tauBetaY": null,
+      "u": null,
+      "v": null,
+      "w": null,
+      "z": null,
+      "dSq": null,
+      "poolTokens": [
+        {
+          "address": "0xae78736cd615f374d3085123a210448e74fc6393",
+          "symbol": "rETH",
+          "balance": "7642.884406244774",
+          "weight": null,
+          "balanceUSD": "15064430.8800847",
+          "scalingFactor": null,
+          "priceRate": "1.134603690422882153",
+          "decimals": 18
+        },
+        {
+          "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+          "symbol": "WETH",
+          "balance": "6348.2424428547665",
+          "weight": null,
+          "balanceUSD": "11099711.46405827",
+          "scalingFactor": null,
+          "priceRate": "1.0",
+          "decimals": 18
+        }
+      ],
+      "dynamicData": {
+        "swapFee": "0.0004",
+        "totalLiquidity": "26164142.34"
+      },
+      "protocol": "Balancer_V3",
+      "dangerous": false
+    },
+    "dangerous": false,
+    "reserveUSD": 26164142.344142973
+  },
+  {
+    "id": "0x5c6ee304399dbdb9c8ef030ab642b10820db8f56",
+    "reserve0": "20142846.91883406",
+    "reserve1": "2676.923345027547",
+    "protocol": "Balancer_V3",
+    "token0": {
+      "id": "0xba100000625a3754423978a60c9317c58a424e3d",
+      "symbol": "BAL",
+      "priceUSD": 0.9390789999999999,
+      "decimals": 18
+    },
+    "token1": {
+      "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+      "symbol": "WETH",
+      "priceUSD": 1748.47,
+      "decimals": 18
+    },
+    "pool_data": {
+      "address": "0x5c6ee304399dbdb9c8ef030ab642b10820db8f56",
+      "type": "WEIGHTED",
+      "amp": null,
+      "alpha": null,
+      "beta": null,
+      "c": null,
+      "s": null,
+      "lambda": null,
+      "tauAlphaX": null,
+      "tauAlphaY": null,
+      "tauBetaX": null,
+      "tauBetaY": null,
+      "u": null,
+      "v": null,
+      "w": null,
+      "z": null,
+      "dSq": null,
+      "poolTokens": [
+        {
+          "address": "0xba100000625a3754423978a60c9317c58a424e3d",
+          "symbol": "BAL",
+          "balance": "20142846.91883406",
+          "weight": "0.8",
+          "balanceUSD": "18915724.54169177",
+          "scalingFactor": null,
+          "priceRate": "1.0",
+          "decimals": 18
+        },
+        {
+          "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+          "symbol": "WETH",
+          "balance": "2676.923345027547",
+          "weight": "0.2",
+          "balanceUSD": "4680520.161080315",
+          "scalingFactor": null,
+          "priceRate": "1.0",
+          "decimals": 18
+        }
+      ],
+      "dynamicData": {
+        "swapFee": "0.01",
+        "totalLiquidity": "23596244.70"
+      },
+      "protocol": "Balancer_V3",
+      "dangerous": false
+    },
+    "dangerous": false,
+    "reserveUSD": 23596244.702772085
+  },
+  {
+    "id": "0xceff51756c56ceffca006cd410b03ffc46dd3a58",
+    "reserve0": "119.36432085",
+    "reserve1": "6322.415405730449994091",
+    "reserveUSD": "22044860.4063331311345437740312193",
+    "token0": {
+      "decimals": "8",
+      "id": "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
+      "symbol": "WBTC",
+      "priceUSD": 92342.75472499004
+    },
+    "token1": {
+      "decimals": "18",
+      "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+      "symbol": "WETH",
+      "priceUSD": 1743.3891156813518
+    },
+    "protocol": "Sushiswap_V2",
+    "dangerous": false
+  },
+  {
+    "id": "0x93d199263632a4ef4bb438f1feb99e57b4b5f0bd",
+    "reserve0": "8472.929019402802",
+    "reserve1": "1985.2334487072876",
+    "protocol": "Balancer_V3",
+    "token0": {
+      "id": "0x7f39c581f595b53c5cb19bd0b3f8da6c935e2ca0",
+      "symbol": "wstETH",
+      "priceUSD": 2096.42,
+      "decimals": 18
+    },
+    "token1": {
+      "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+      "symbol": "WETH",
+      "priceUSD": 1748.47,
+      "decimals": 18
+    },
+    "pool_data": {
+      "address": "0x93d199263632a4ef4bb438f1feb99e57b4b5f0bd",
+      "type": "COMPOSABLE_STABLE",
+      "amp": "5000.0",
+      "alpha": null,
+      "beta": null,
+      "c": null,
+      "s": null,
+      "lambda": null,
+      "tauAlphaX": null,
+      "tauAlphaY": null,
+      "tauBetaX": null,
+      "tauBetaY": null,
+      "u": null,
+      "v": null,
+      "w": null,
+      "z": null,
+      "dSq": null,
+      "poolTokens": [
+        {
+          "address": "0x7f39c581f595b53c5cb19bd0b3f8da6c935e2ca0",
+          "symbol": "wstETH",
+          "balance": "8472.929019402802",
+          "weight": null,
+          "balanceUSD": "17762817.85485642",
+          "scalingFactor": null,
+          "priceRate": "1.200653514723163099",
+          "decimals": 18
+        },
+        {
+          "address": "0x93d199263632a4ef4bb438f1feb99e57b4b5f0bd",
+          "symbol": "wstETH-WETH-BPT",
+          "balance": "2596148429267765.5",
+          "weight": null,
+          "balanceUSD": "0",
+          "scalingFactor": null,
+          "priceRate": "1.044243637897526189",
+          "decimals": 18
+        },
+        {
+          "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+          "symbol": "WETH",
+          "balance": "1985.2334487072876",
+          "weight": null,
+          "balanceUSD": "3471121.128061231",
+          "scalingFactor": null,
+          "priceRate": "1.0",
+          "decimals": 18
+        }
+      ],
+      "dynamicData": {
+        "swapFee": "0.0001",
+        "totalLiquidity": "21233938.98"
+      },
+      "protocol": "Balancer_V3",
+      "dangerous": false
+    },
+    "dangerous": false,
+    "reserveUSD": 21233938.98291765
+  },
+  {
+    "id": "0x5a6a4d54456819380173272a5e8e9b9904bdf41b",
+    "reserve0": 15182998.466650281,
+    "reserve1": 3492499.17245,
+    "token0": {
+      "id": "0x99d8a9c45b2eca8864373a26d1459e3dff1e17f3",
+      "symbol": "MIM",
+      "decimals": 18,
+      "priceUSD": 1.000424429831354
+    },
+    "token1": {
+      "id": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+      "symbol": "USDT",
+      "decimals": 6,
+      "priceUSD": 0.999855255689231
+    },
+    "reserveUSD": 18681436.237193353,
+    "protocol": "Curve",
+    "dangerous": false,
+    "pool_data": {
+      "id": "40",
+      "address": "0x5a6A4D54456819380173272A5E8E9B9904BdF41B",
+      "coinsAddresses": [
+        "0x99D8a9C45b2ecA8864373A26D1459e3Dff1e17F3",
+        "0x6c3F90f043a72FA612cbac8115EE7e52BDe6E490",
+        "0x0000000000000000000000000000000000000000",
+        "0x0000000000000000000000000000000000000000"
+      ],
+      "decimals": [
+        "18",
+        "18",
+        "0",
+        "0"
+      ],
+      "virtualPrice": "1017234623938800024",
+      "amplificationCoefficient": "2000",
+      "underlyingDecimals": [
+        "18",
+        "18",
+        "6",
+        "6",
+        "0",
+        "0",
+        "0",
+        "0"
+      ],
+      "totalSupply": "34913195455423346867519826",
+      "name": "Curve.fi Factory USD Metapool: Magic Internet Money 3Pool",
+      "assetType": "0",
+      "priceOracle": null,
+      "implementation": "",
+      "zapAddress": "0xa79828df1850e8a3a3064576f380d90aecdd3359",
+      "assetTypeName": "usd",
+      "coins": [
+        {
+          "address": "0x99D8a9C45b2ecA8864373A26D1459e3Dff1e17F3",
+          "usdPrice": 1.000424429831354,
+          "decimals": "18",
+          "isBasePoolLpToken": false,
+          "symbol": "MIM",
+          "name": "Magic Internet Money",
+          "poolBalance": "15182998466650279989892813"
+        },
+        {
+          "address": "0x6c3F90f043a72FA612cbac8115EE7e52BDe6E490",
+          "usdPrice": 1.0399090621254419,
+          "decimals": "18",
+          "isBasePoolLpToken": true,
+          "symbol": "3Crv",
+          "name": "Curve.fi DAI/USDC/USDT",
+          "poolBalance": "19553133100556253472302041"
+        }
+      ],
+      "poolUrls": {
+        "swap": [
+          "https://curve.fi/dex/#/ethereum/pools/mim/swap",
+          "https://classic.curve.fi/mim"
+        ],
+        "deposit": [
+          "https://curve.fi/dex/#/ethereum/pools/mim/deposit",
+          "https://classic.curve.fi/mim/deposit"
+        ],
+        "withdraw": [
+          "https://curve.fi/dex/#/ethereum/pools/mim/withdraw",
+          "https://classic.curve.fi/mim/withdraw"
+        ]
+      },
+      "lpTokenAddress": "0x5a6A4D54456819380173272A5E8E9B9904BdF41B",
+      "usdTotal": 35522922.88834231,
+      "isMetaPool": true,
+      "basePoolAddress": "0xbEbc44782C7dB0a1A60Cb6fe97d0b483032FF1C7",
+      "underlyingCoins": [
+        {
+          "address": "0x99D8a9C45b2ecA8864373A26D1459e3Dff1e17F3",
+          "usdPrice": 1.000424429831354,
+          "decimals": "18",
+          "isBasePoolLpToken": false,
+          "symbol": "MIM",
+          "name": "Magic Internet Money",
+          "poolBalance": "15182998466650279989892813"
+        },
+        {
+          "address": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
+          "usdPrice": 0.9994847470134773,
+          "decimals": "18",
+          "isBasePoolLpToken": false,
+          "symbol": "DAI",
+          "name": "Dai Stablecoin",
+          "poolBalance": "8385311784738677542633092"
+        },
+        {
+          "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+          "usdPrice": 1,
+          "decimals": "6",
+          "isBasePoolLpToken": false,
+          "symbol": "USDC",
+          "name": "USD Coin",
+          "poolBalance": "8454510346315"
+        },
+        {
+          "address": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+          "usdPrice": 0.999855255689231,
+          "decimals": "6",
+          "isBasePoolLpToken": false,
+          "symbol": "USDT",
+          "name": "Tether USD",
+          "poolBalance": "3492499172450"
+        }
+      ],
+      "usdTotalExcludingBasePool": 15189442.58412893,
+      "gaugeAddress": "0xd8b712d29381748db89c36bca0138d7c75866ddf",
+      "gaugeRewards": [
+        {
+          "gaugeAddress": "0xd8b712d29381748db89c36bca0138d7c75866ddf",
+          "tokenPrice": 0.0006068973321831993,
+          "name": "Spell Token",
+          "symbol": "SPELL",
+          "decimals": "18",
+          "apy": 0,
+          "tokenAddress": "0x090185f2135308BaD17527004364eBcC2D37e5F6"
+        }
+      ],
+      "gaugeCrvApy": [
+        6.583832999771581,
+        16.459582499428954
+      ],
+      "gaugeFutureCrvApy": [
+        6.574176308008769,
+        16.435440770021923
+      ],
+      "usesRateOracle": false,
+      "isBroken": false,
+      "hasMethods": {
+        "exchange_received": false,
+        "exchange_extended": false
+      },
+      "creationTs": 1622671203,
+      "creationBlockNumber": 12557139,
+      "blockchainId": "ethereum",
+      "registryId": "main",
+      "basepool": {
+        "id": "0",
+        "address": "0xbEbc44782C7dB0a1A60Cb6fe97d0b483032FF1C7",
+        "coinsAddresses": [
+          "0x6B175474E89094C44Da98b954EedeAC495271d0F",
+          "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+          "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+          "0x0000000000000000000000000000000000000000"
+        ],
+        "decimals": [
+          "18",
+          "6",
+          "6",
+          "0"
+        ],
+        "virtualPrice": "1039838639731997143",
+        "amplificationCoefficient": "8000",
+        "totalSupply": "170280357412308799860696160",
+        "name": "Curve.fi DAI/USDC/USDT",
+        "assetType": "0",
+        "lpTokenAddress": "0x6c3F90f043a72FA612cbac8115EE7e52BDe6E490",
+        "priceOracle": null,
+        "priceOracles": null,
+        "symbol": "3Crv",
+        "implementation": "",
+        "assetTypeName": "usd",
+        "coins": [
+          {
+            "address": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
+            "usdPrice": 0.9994847470134773,
+            "decimals": "18",
+            "isBasePoolLpToken": false,
+            "symbol": "DAI",
+            "name": "Dai Stablecoin",
+            "poolBalance": "73024301546759637160669716"
+          },
+          {
+            "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+            "usdPrice": 1,
+            "decimals": "6",
+            "isBasePoolLpToken": false,
+            "symbol": "USDC",
+            "name": "USD Coin",
+            "poolBalance": "73626923936585"
+          },
+          {
+            "address": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+            "usdPrice": 0.999855255689231,
+            "decimals": "6",
+            "isBasePoolLpToken": false,
+            "symbol": "USDT",
+            "name": "Tether USD",
+            "poolBalance": "30414768021501"
+          }
+        ],
+        "poolUrls": {
+          "swap": [
+            "https://curve.fi/dex/#/ethereum/pools/3pool/swap",
+            "https://classic.curve.fi/3pool"
+          ],
+          "deposit": [
+            "https://curve.fi/dex/#/ethereum/pools/3pool/deposit",
+            "https://classic.curve.fi/3pool/deposit"
+          ],
+          "withdraw": [
+            "https://curve.fi/dex/#/ethereum/pools/3pool/withdraw",
+            "https://classic.curve.fi/3pool/withdraw"
+          ]
+        },
+        "usdTotal": 177023965.15075043,
+        "isMetaPool": false,
+        "usdTotalExcludingBasePool": 177023965.15075043,
+        "gaugeAddress": "0xbfcf63294ad7105dea65aa58f8ae5be2d9d0952a",
+        "gaugeRewards": [],
+        "gaugeCrvApy": [
+          0.0006285486042519396,
+          0.0015713715106298492
+        ],
+        "gaugeFutureCrvApy": [
+          0.0006009261512934658,
+          0.0015023153782336646
+        ],
+        "usesRateOracle": false,
+        "isBroken": false,
+        "hasMethods": {
+          "exchange_received": false,
+          "exchange_extended": false
+        },
+        "creationTs": 1599422178,
+        "creationBlockNumber": 10809473,
+        "blockchainId": "ethereum",
+        "registryId": "main"
+      }
+    }
+  },
+  {
+    "id": "0x5a6a4d54456819380173272a5e8e9b9904bdf41b",
+    "reserve0": 15182998.466650281,
+    "reserve1": 3492499.17245,
+    "token0": {
+      "id": "0x99d8a9c45b2eca8864373a26d1459e3dff1e17f3",
+      "symbol": "MIM",
+      "decimals": 18,
+      "priceUSD": 1.000424429831354
+    },
+    "token1": {
+      "id": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+      "symbol": "USDT",
+      "decimals": 6,
+      "priceUSD": 0.999855255689231
+    },
+    "reserveUSD": 18681436.237193353,
+    "protocol": "Curve",
+    "dangerous": false,
+    "pool_data": {
+      "id": "factory-v2-20",
+      "address": "0x5a6A4D54456819380173272A5E8E9B9904BdF41B",
+      "coinsAddresses": [
+        "0x99D8a9C45b2ecA8864373A26D1459e3Dff1e17F3",
+        "0x6c3F90f043a72FA612cbac8115EE7e52BDe6E490",
+        "0x0000000000000000000000000000000000000000",
+        "0x0000000000000000000000000000000000000000"
+      ],
+      "decimals": [
+        "18",
+        "18",
+        "0",
+        "0"
+      ],
+      "virtualPrice": "1017234623938800024",
+      "amplificationCoefficient": "2000",
+      "underlyingDecimals": [
+        "18",
+        "18",
+        "6",
+        "6",
+        "0",
+        "0",
+        "0",
+        "0"
+      ],
+      "totalSupply": "34913195455423346867519826",
+      "name": "Curve.fi Factory USD Metapool: Magic Internet Money 3Pool",
+      "assetType": "0",
+      "implementationAddress": "0x5F890841f657d90E081bAbdB532A05996Af79Fe6",
+      "symbol": "MIM-3LP3CRV-f",
+      "priceOracle": null,
+      "implementation": "v1metausd",
+      "zapAddress": "0xa79828df1850e8a3a3064576f380d90aecdd3359",
+      "assetTypeName": "usd",
+      "coins": [
+        {
+          "address": "0x99D8a9C45b2ecA8864373A26D1459e3Dff1e17F3",
+          "usdPrice": 1.000424429831354,
+          "decimals": "18",
+          "isBasePoolLpToken": false,
+          "symbol": "MIM",
+          "name": "Magic Internet Money",
+          "poolBalance": "15182998466650279989892813"
+        },
+        {
+          "address": "0x6c3F90f043a72FA612cbac8115EE7e52BDe6E490",
+          "usdPrice": 1.0399090621254419,
+          "decimals": "18",
+          "isBasePoolLpToken": true,
+          "symbol": "3Crv",
+          "name": "Curve.fi DAI/USDC/USDT",
+          "poolBalance": "19553133100556253472302041"
+        }
+      ],
+      "poolUrls": {
+        "swap": [
+          "https://curve.fi/dex/#/ethereum/pools/factory-v2-20/swap",
+          "https://classic.curve.fi/factory/20"
+        ],
+        "deposit": [
+          "https://curve.fi/dex/#/ethereum/pools/factory-v2-20/deposit",
+          "https://classic.curve.fi/factory/20/deposit"
+        ],
+        "withdraw": [
+          "https://curve.fi/dex/#/ethereum/pools/factory-v2-20/withdraw",
+          "https://classic.curve.fi/factory/20/withdraw"
+        ]
+      },
+      "lpTokenAddress": "0x5a6A4D54456819380173272A5E8E9B9904BdF41B",
+      "usdTotal": 35522922.88834231,
+      "isMetaPool": true,
+      "basePoolAddress": "0xbEbc44782C7dB0a1A60Cb6fe97d0b483032FF1C7",
+      "underlyingCoins": [
+        {
+          "address": "0x99D8a9C45b2ecA8864373A26D1459e3Dff1e17F3",
+          "usdPrice": 1.000424429831354,
+          "decimals": "18",
+          "isBasePoolLpToken": false,
+          "symbol": "MIM",
+          "name": "Magic Internet Money",
+          "poolBalance": "15182998466650279989892813"
+        },
+        {
+          "address": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
+          "usdPrice": 0.9994847475324791,
+          "decimals": "18",
+          "isBasePoolLpToken": false,
+          "symbol": "DAI",
+          "name": "Dai Stablecoin",
+          "poolBalance": "8386896370466191023514807"
+        },
+        {
+          "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+          "usdPrice": 1,
+          "decimals": "6",
+          "isBasePoolLpToken": false,
+          "symbol": "USDC",
+          "name": "USD Coin",
+          "poolBalance": "8452925758978"
+        },
+        {
+          "address": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+          "usdPrice": 0.999855255689231,
+          "decimals": "6",
+          "isBasePoolLpToken": false,
+          "symbol": "USDT",
+          "name": "Tether USD",
+          "poolBalance": "3492499172450"
+        }
+      ],
+      "usdTotalExcludingBasePool": 15189442.58412893,
+      "gaugeAddress": "0xd8b712d29381748db89c36bca0138d7c75866ddf",
+      "gaugeRewards": [
+        {
+          "gaugeAddress": "0xd8b712d29381748db89c36bca0138d7c75866ddf",
+          "tokenPrice": 0.0006068973321831993,
+          "name": "Spell Token",
+          "symbol": "SPELL",
+          "decimals": "18",
+          "apy": 0,
+          "tokenAddress": "0x090185f2135308BaD17527004364eBcC2D37e5F6"
+        }
+      ],
+      "gaugeCrvApy": [
+        6.583832999771581,
+        16.459582499428954
+      ],
+      "gaugeFutureCrvApy": [
+        6.574176308008769,
+        16.435440770021923
+      ],
+      "usesRateOracle": false,
+      "isBroken": false,
+      "hasMethods": {
+        "exchange_received": false,
+        "exchange_extended": false
+      },
+      "creationTs": 1622671203,
+      "creationBlockNumber": 12557139,
+      "blockchainId": "ethereum",
+      "registryId": "factory",
+      "factory": true,
+      "basepool": {
+        "id": "0",
+        "address": "0xbEbc44782C7dB0a1A60Cb6fe97d0b483032FF1C7",
+        "coinsAddresses": [
+          "0x6B175474E89094C44Da98b954EedeAC495271d0F",
+          "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+          "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+          "0x0000000000000000000000000000000000000000"
+        ],
+        "decimals": [
+          "18",
+          "6",
+          "6",
+          "0"
+        ],
+        "virtualPrice": "1039838639731997143",
+        "amplificationCoefficient": "8000",
+        "totalSupply": "170280357412308799860696160",
+        "name": "Curve.fi DAI/USDC/USDT",
+        "assetType": "0",
+        "lpTokenAddress": "0x6c3F90f043a72FA612cbac8115EE7e52BDe6E490",
+        "priceOracle": null,
+        "priceOracles": null,
+        "symbol": "3Crv",
+        "implementation": "",
+        "assetTypeName": "usd",
+        "coins": [
+          {
+            "address": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
+            "usdPrice": 0.9994847470134773,
+            "decimals": "18",
+            "isBasePoolLpToken": false,
+            "symbol": "DAI",
+            "name": "Dai Stablecoin",
+            "poolBalance": "73024301546759637160669716"
+          },
+          {
+            "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+            "usdPrice": 1,
+            "decimals": "6",
+            "isBasePoolLpToken": false,
+            "symbol": "USDC",
+            "name": "USD Coin",
+            "poolBalance": "73626923936585"
+          },
+          {
+            "address": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+            "usdPrice": 0.999855255689231,
+            "decimals": "6",
+            "isBasePoolLpToken": false,
+            "symbol": "USDT",
+            "name": "Tether USD",
+            "poolBalance": "30414768021501"
+          }
+        ],
+        "poolUrls": {
+          "swap": [
+            "https://curve.fi/dex/#/ethereum/pools/3pool/swap",
+            "https://classic.curve.fi/3pool"
+          ],
+          "deposit": [
+            "https://curve.fi/dex/#/ethereum/pools/3pool/deposit",
+            "https://classic.curve.fi/3pool/deposit"
+          ],
+          "withdraw": [
+            "https://curve.fi/dex/#/ethereum/pools/3pool/withdraw",
+            "https://classic.curve.fi/3pool/withdraw"
+          ]
+        },
+        "usdTotal": 177023965.15075043,
+        "isMetaPool": false,
+        "usdTotalExcludingBasePool": 177023965.15075043,
+        "gaugeAddress": "0xbfcf63294ad7105dea65aa58f8ae5be2d9d0952a",
+        "gaugeRewards": [],
+        "gaugeCrvApy": [
+          0.0006285486042519396,
+          0.0015713715106298492
+        ],
+        "gaugeFutureCrvApy": [
+          0.0006009261512934658,
+          0.0015023153782336646
+        ],
+        "usesRateOracle": false,
+        "isBroken": false,
+        "hasMethods": {
+          "exchange_received": false,
+          "exchange_extended": false
+        },
+        "creationTs": 1599422178,
+        "creationBlockNumber": 10809473,
+        "blockchainId": "ethereum",
+        "registryId": "main"
+      }
+    }
+  },
+  {
+    "feeTier": "500",
+    "id": "0x56534741cd8b152df6d48adf7ac51f75169a83b2",
+    "liquidity": "3520365048327",
+    "sqrtPrice": "2408073715201046093778363482370",
+    "tick": "68288",
+    "token0": {
+      "decimals": "8",
+      "id": "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
+      "symbol": "WBTC",
+      "priceUSD": 92550.80503329798
+    },
+    "token0Price": "0.00001082479331752362290827312382903254",
+    "token1": {
+      "decimals": "6",
+      "id": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+      "symbol": "USDT",
+      "priceUSD": 1.0
+    },
+    "token1Price": "92380.51671445390657246889948684157",
+    "totalValueLockedToken0": "87.99723598",
+    "totalValueLockedToken1": "8755889.919041",
+    "totalValueLockedUSD": "16900104.94969509475518651453261616",
+    "protocol": "Uniswap_V3",
+    "reserve0": 1158.23719347,
+    "reserve1": 106998550.411445,
+    "dangerous": false
+  },
+  {
+    "feeTier": "500",
+    "id": "0x7858e59e0c01ea06df3af3d20ac7b0003275d4bf",
+    "liquidity": "2978819402738320",
+    "sqrtPrice": "79215359481617001406639176194",
+    "tick": "-4",
+    "token0": {
+      "decimals": "6",
+      "id": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+      "symbol": "USDC",
+      "priceUSD": 1.0
+    },
+    "token0Price": "1.00032327233920526365988108375475",
+    "token1": {
+      "decimals": "6",
+      "id": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+      "symbol": "USDT",
+      "priceUSD": 1.0
+    },
+    "token1Price": "0.9996768321320273718294349281355124",
+    "totalValueLockedToken0": "6220579.467239",
+    "totalValueLockedToken1": "5551516.582169",
+    "totalValueLockedUSD": "11772096.049408",
+    "protocol": "Uniswap_V3",
+    "reserve0": 2979300848.790112,
+    "reserve1": 2978338034.48676,
+    "dangerous": false
+  },
+  {
+    "id": "0x4f493b7de8aac7d55f71853688b1f7c8f0243c85",
+    "reserve0": 9320107.319248,
+    "reserve1": 2323154.452248,
+    "token0": {
+      "id": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+      "symbol": "USDC",
+      "decimals": 6,
+      "priceUSD": 1
+    },
+    "token1": {
+      "id": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+      "symbol": "USDT",
+      "decimals": 6,
+      "priceUSD": 0.999855255689231
+    },
+    "reserveUSD": 11642925.508105999,
+    "protocol": "Curve",
+    "dangerous": false,
+    "pool_data": {
+      "id": "factory-stable-ng-355",
+      "address": "0x4f493B7dE8aAC7d55F71853688b1F7C8F0243C85",
+      "coinsAddresses": [
+        "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+        "0xdAC17F958D2ee523a2206206994597C13D831ec7"
+      ],
+      "decimals": [
+        "6",
+        "6"
+      ],
+      "virtualPrice": "1007130488362623114",
+      "amplificationCoefficient": "20000",
+      "totalSupply": "11560664065325089407177298",
+      "name": "Curve.fi Strategic USD Reserves",
+      "implementationAddress": "0xDCc91f930b42619377C200BA05b7513f2958b202",
+      "symbol": "crv2pool",
+      "implementation": "plainstableng",
+      "assetTypeName": "unknown",
+      "coins": [
+        {
+          "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+          "usdPrice": 1,
+          "decimals": "6",
+          "isBasePoolLpToken": false,
+          "symbol": "USDC",
+          "name": "USD Coin",
+          "poolBalance": "9320107319248"
+        },
+        {
+          "address": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+          "usdPrice": 0.999855255689231,
+          "decimals": "6",
+          "isBasePoolLpToken": false,
+          "symbol": "USDT",
+          "name": "Tether USD",
+          "poolBalance": "2323154452248"
+        }
+      ],
+      "poolUrls": {
+        "swap": [
+          "https://curve.fi/dex/#/ethereum/pools/factory-stable-ng-355/swap",
+          "https://classic.curve.fi/factory-stable-ng-355"
+        ],
+        "deposit": [
+          "https://curve.fi/dex/#/ethereum/pools/factory-stable-ng-355/deposit",
+          "https://classic.curve.fi/factory-stable-ng-355/deposit"
+        ],
+        "withdraw": [
+          "https://curve.fi/dex/#/ethereum/pools/factory-stable-ng-355/withdraw",
+          "https://classic.curve.fi/factory-stable-ng-355/withdraw"
+        ]
+      },
+      "lpTokenAddress": "0x4f493B7dE8aAC7d55F71853688b1F7C8F0243C85",
+      "usdTotal": 11642925.508105999,
+      "isMetaPool": false,
+      "usdTotalExcludingBasePool": 11642925.508105999,
+      "gaugeAddress": "0x479dfb03cddea20dc4e8788b81fd7c7a08fd3555",
+      "gaugeRewards": [],
+      "gaugeCrvApy": [
+        2.853668846008889,
+        7.134172115022222
+      ],
+      "gaugeFutureCrvApy": [
+        2.854163655755525,
+        7.135409139388813
+      ],
+      "usesRateOracle": false,
+      "isBroken": false,
+      "hasMethods": {
+        "exchange_received": true,
+        "exchange_extended": false
+      },
+      "creationTs": 1737825647,
+      "creationBlockNumber": 21702976,
+      "blockchainId": "ethereum",
+      "registryId": "factory-stable-ng",
+      "factory": true
+    }
+  },
+  {
+    "id": "0xf5f5b97624542d72a9e06f04804bf81baa15e2b4",
+    "reserve0": 5605596.776157,
+    "reserve1": 3247.9353557437407,
+    "token0": {
+      "id": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+      "symbol": "USDT",
+      "decimals": 6,
+      "priceUSD": 0.999855255689231
+    },
+    "token1": {
+      "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+      "symbol": "WETH",
+      "decimals": 18,
+      "priceUSD": 1741.861286815546
+    },
+    "reserveUSD": 11262238.256164687,
+    "protocol": "Curve",
+    "dangerous": false,
+    "pool_data": {
+      "id": "factory-tricrypto-1",
+      "address": "0xf5f5B97624542D72A9E06f04804Bf81baA15e2B4",
+      "coinsAddresses": [
+        "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+        "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599",
+        "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2"
+      ],
+      "decimals": [
+        "6",
+        "8",
+        "18"
+      ],
+      "virtualPrice": "1027952352957545958",
+      "amplificationCoefficient": "540000",
+      "name": "TricryptoUSDT",
+      "symbol": "crvUSDTWBTCWETH",
+      "totalSupply": "10043867600187202440549",
+      "implementationAddress": "0x66442B0C5260B92cAa9c234ECf2408CBf6b19a6f",
+      "priceOracle": 92636.38601056792,
+      "priceOracles": [
+        92636.38601056792,
+        1746.6143437590085
+      ],
+      "implementation": "tricrypto-1",
+      "assetTypeName": "unknown",
+      "coins": [
+        {
+          "address": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+          "usdPrice": 0.999855255689231,
+          "decimals": "6",
+          "isBasePoolLpToken": false,
+          "symbol": "USDT",
+          "name": "Tether USD",
+          "poolBalance": "5605596776157"
+        },
+        {
+          "address": "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599",
+          "usdPrice": 92214.87516443289,
+          "decimals": "8",
+          "isBasePoolLpToken": false,
+          "symbol": "WBTC",
+          "name": "Wrapped BTC",
+          "poolBalance": "6044108139"
+        },
+        {
+          "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+          "usdPrice": 1741.861286815546,
+          "decimals": "18",
+          "isBasePoolLpToken": false,
+          "symbol": "WETH",
+          "name": "Wrapped Ether",
+          "poolBalance": "3247935355743740600282"
+        }
+      ],
+      "poolUrls": {
+        "swap": [
+          "https://curve.fi/dex/#/ethereum/pools/factory-tricrypto-1/swap",
+          "https://classic.curve.fi/factory-tricrypto-1"
+        ],
+        "deposit": [
+          "https://curve.fi/dex/#/ethereum/pools/factory-tricrypto-1/deposit",
+          "https://classic.curve.fi/factory-tricrypto-1/deposit"
+        ],
+        "withdraw": [
+          "https://curve.fi/dex/#/ethereum/pools/factory-tricrypto-1/withdraw",
+          "https://classic.curve.fi/factory-tricrypto-1/withdraw"
+        ]
+      },
+      "lpTokenAddress": "0xf5f5B97624542D72A9E06f04804Bf81baA15e2B4",
+      "usdTotal": 16835805.031346865,
+      "isMetaPool": false,
+      "usdTotalExcludingBasePool": 16835805.031346865,
+      "gaugeAddress": "0xf29fff074f5cf755b55fbb3eb10a29203ac91ea2",
+      "gaugeRewards": [
+        {
+          "gaugeAddress": "0xf29fff074f5cf755b55fbb3eb10a29203ac91ea2",
+          "tokenPrice": 0.6798483577396144,
+          "name": "Curve DAO Token",
+          "symbol": "CRV",
+          "decimals": "18",
+          "tokenAddress": "0xD533a949740bb3306d119CC777fa900bA034cd52",
+          "apy": 0
+        }
+      ],
+      "gaugeCrvApy": [
+        5.955008579163698,
+        14.887521447909243
+      ],
+      "gaugeFutureCrvApy": [
+        5.953384674915404,
+        14.883461687288511
+      ],
+      "usesRateOracle": false,
+      "isBroken": false,
+      "hasMethods": {
+        "exchange_received": false,
+        "exchange_extended": true
+      },
+      "creationTs": 1685482703,
+      "creationBlockNumber": 17374463,
+      "blockchainId": "ethereum",
+      "registryId": "factory-tricrypto",
+      "factory": true
+    }
+  },
+  {
+    "id": "0xf5f5b97624542d72a9e06f04804bf81baa15e2b4",
+    "reserve0": 5605596.776157,
+    "reserve1": 60.44108139,
+    "token0": {
+      "id": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+      "symbol": "USDT",
+      "decimals": 6,
+      "priceUSD": 0.999855255689231
+    },
+    "token1": {
+      "id": "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
+      "symbol": "WBTC",
+      "decimals": 8,
+      "priceUSD": 92214.87516443289
+    },
+    "reserveUSD": 11178352.173097365,
+    "protocol": "Curve",
+    "dangerous": false,
+    "pool_data": {
+      "id": "factory-tricrypto-1",
+      "address": "0xf5f5B97624542D72A9E06f04804Bf81baA15e2B4",
+      "coinsAddresses": [
+        "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+        "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599",
+        "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2"
+      ],
+      "decimals": [
+        "6",
+        "8",
+        "18"
+      ],
+      "virtualPrice": "1027952352957545958",
+      "amplificationCoefficient": "540000",
+      "name": "TricryptoUSDT",
+      "symbol": "crvUSDTWBTCWETH",
+      "totalSupply": "10043867600187202440549",
+      "implementationAddress": "0x66442B0C5260B92cAa9c234ECf2408CBf6b19a6f",
+      "priceOracle": 92636.38601056792,
+      "priceOracles": [
+        92636.38601056792,
+        1746.6143437590085
+      ],
+      "implementation": "tricrypto-1",
+      "assetTypeName": "unknown",
+      "coins": [
+        {
+          "address": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+          "usdPrice": 0.999855255689231,
+          "decimals": "6",
+          "isBasePoolLpToken": false,
+          "symbol": "USDT",
+          "name": "Tether USD",
+          "poolBalance": "5605596776157"
+        },
+        {
+          "address": "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599",
+          "usdPrice": 92214.87516443289,
+          "decimals": "8",
+          "isBasePoolLpToken": false,
+          "symbol": "WBTC",
+          "name": "Wrapped BTC",
+          "poolBalance": "6044108139"
+        },
+        {
+          "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+          "usdPrice": 1741.861286815546,
+          "decimals": "18",
+          "isBasePoolLpToken": false,
+          "symbol": "WETH",
+          "name": "Wrapped Ether",
+          "poolBalance": "3247935355743740600282"
+        }
+      ],
+      "poolUrls": {
+        "swap": [
+          "https://curve.fi/dex/#/ethereum/pools/factory-tricrypto-1/swap",
+          "https://classic.curve.fi/factory-tricrypto-1"
+        ],
+        "deposit": [
+          "https://curve.fi/dex/#/ethereum/pools/factory-tricrypto-1/deposit",
+          "https://classic.curve.fi/factory-tricrypto-1/deposit"
+        ],
+        "withdraw": [
+          "https://curve.fi/dex/#/ethereum/pools/factory-tricrypto-1/withdraw",
+          "https://classic.curve.fi/factory-tricrypto-1/withdraw"
+        ]
+      },
+      "lpTokenAddress": "0xf5f5B97624542D72A9E06f04804Bf81baA15e2B4",
+      "usdTotal": 16835805.031346865,
+      "isMetaPool": false,
+      "usdTotalExcludingBasePool": 16835805.031346865,
+      "gaugeAddress": "0xf29fff074f5cf755b55fbb3eb10a29203ac91ea2",
+      "gaugeRewards": [
+        {
+          "gaugeAddress": "0xf29fff074f5cf755b55fbb3eb10a29203ac91ea2",
+          "tokenPrice": 0.6798483577396144,
+          "name": "Curve DAO Token",
+          "symbol": "CRV",
+          "decimals": "18",
+          "tokenAddress": "0xD533a949740bb3306d119CC777fa900bA034cd52",
+          "apy": 0
+        }
+      ],
+      "gaugeCrvApy": [
+        5.955008579163698,
+        14.887521447909243
+      ],
+      "gaugeFutureCrvApy": [
+        5.953384674915404,
+        14.883461687288511
+      ],
+      "usesRateOracle": false,
+      "isBroken": false,
+      "hasMethods": {
+        "exchange_received": false,
+        "exchange_extended": true
+      },
+      "creationTs": 1685482703,
+      "creationBlockNumber": 17374463,
+      "blockchainId": "ethereum",
+      "registryId": "factory-tricrypto",
+      "factory": true
+    }
+  },
+  {
+    "id": "0x0d4a11d5eeaac28ec3f61d100daf4d40471f1852",
+    "reserve0": "3079.96074927877869962",
+    "reserve1": "5382342.108223",
+    "reserveUSD": "10770426.66523385342967884433899318",
+    "token0": {
+      "decimals": "18",
+      "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+      "symbol": "WETH",
+      "priceUSD": 1748.4681692381826
+    },
+    "token1": {
+      "decimals": "6",
+      "id": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+      "symbol": "USDT",
+      "priceUSD": 1.00053345260041
+    },
+    "protocol": "Uniswap_V2",
+    "dangerous": false
+  },
+  {
+    "id": "0xa5407eae9ba41422680e2e00537571bcc53efbfd",
+    "reserve0": 1013251.806792,
+    "reserve1": 10944747.418231407,
+    "token0": {
+      "id": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+      "symbol": "USDT",
+      "decimals": 6,
+      "priceUSD": 0.999855255689231
+    },
+    "token1": {
+      "id": "0x57ab1ec28d129707052df4df418d58a2d46d5f51",
+      "symbol": "sUSD",
+      "decimals": 18,
+      "priceUSD": 0.8676147444680373
+    },
+    "reserveUSD": 10508929.378893644,
+    "protocol": "Curve",
+    "dangerous": false,
+    "pool_data": {
+      "id": "15",
+      "address": "0xA5407eAE9Ba41422680e2e00537571bcC53efBfD",
+      "coinsAddresses": [
+        "0x6B175474E89094C44Da98b954EedeAC495271d0F",
+        "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+        "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+        "0x57Ab1ec28D129707052df4dF418D58a2D46d5f51"
+      ],
+      "decimals": [
+        "18",
+        "6",
+        "6",
+        "18"
+      ],
+      "virtualPrice": "1074384839017284163",
+      "amplificationCoefficient": "256",
+      "totalSupply": "12875409955596868512365630",
+      "name": "Curve.fi DAI/USDC/USDT/sUSD",
+      "assetType": "0",
+      "lpTokenAddress": "0xC25a3A3b969415c80451098fa907EC722572917F",
+      "priceOracle": null,
+      "priceOracles": null,
+      "symbol": "crvPlain3andSUSD",
+      "implementation": "",
+      "zapAddress": "0xfcba3e75865d2d561be8d220616520c171f12851",
+      "assetTypeName": "usd",
+      "coins": [
+        {
+          "address": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
+          "usdPrice": 0.9994847470134773,
+          "decimals": "18",
+          "isBasePoolLpToken": false,
+          "symbol": "DAI",
+          "name": "Dai Stablecoin",
+          "poolBalance": "1015313262483387557088649"
+        },
+        {
+          "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+          "usdPrice": 1,
+          "decimals": "6",
+          "isBasePoolLpToken": false,
+          "symbol": "USDC",
+          "name": "USD Coin",
+          "poolBalance": "1015340611530"
+        },
+        {
+          "address": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+          "usdPrice": 0.999855255689231,
+          "decimals": "6",
+          "isBasePoolLpToken": false,
+          "symbol": "USDT",
+          "name": "Tether USD",
+          "poolBalance": "1013251806792"
+        },
+        {
+          "address": "0x57Ab1ec28D129707052df4dF418D58a2D46d5f51",
+          "usdPrice": 0.8676147444680373,
+          "decimals": "18",
+          "isBasePoolLpToken": false,
+          "symbol": "sUSD",
+          "name": "Synth sUSD",
+          "poolBalance": "10944747418231407178618562"
+        }
+      ],
+      "poolUrls": {
+        "swap": [
+          "https://curve.fi/dex/#/ethereum/pools/susd/swap",
+          "https://classic.curve.fi/susd"
+        ],
+        "deposit": [
+          "https://curve.fi/dex/#/ethereum/pools/susd/deposit",
+          "https://classic.curve.fi/susd/deposit"
+        ],
+        "withdraw": [
+          "https://curve.fi/dex/#/ethereum/pools/susd/withdraw",
+          "https://classic.curve.fi/susd/withdraw"
+        ]
+      },
+      "usdTotal": 12539060.109716281,
+      "isMetaPool": false,
+      "usdTotalExcludingBasePool": 12539060.109716281,
+      "gaugeAddress": "0xa90996896660decc6e997655e065b23788857849",
+      "gaugeRewards": [],
+      "gaugeCrvApy": [
+        0.007318315737153549,
+        0.018295789342883874
+      ],
+      "gaugeFutureCrvApy": [
+        0.007153590582253473,
+        0.017883976455633683
+      ],
+      "usesRateOracle": false,
+      "isBroken": false,
+      "hasMethods": {
+        "exchange_received": false,
+        "exchange_extended": false
+      },
+      "creationTs": 1587356044,
+      "creationBlockNumber": 9906598,
+      "blockchainId": "ethereum",
+      "registryId": "main"
+    }
+  },
+  {
+    "id": "0xd51a44d3fae010294c616388b506acda1bfaae46",
+    "reserve0": 4863690.648923,
+    "reserve1": 2801.0015180573173,
+    "token0": {
+      "id": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+      "symbol": "USDT",
+      "decimals": 6,
+      "priceUSD": 0.999855255689231
+    },
+    "token1": {
+      "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+      "symbol": "WETH",
+      "decimals": 18,
+      "priceUSD": 1741.861286815546
+    },
+    "reserveUSD": 9741942.765987843,
+    "protocol": "Curve",
+    "dangerous": false,
+    "pool_data": {
+      "id": "crypto-0",
+      "address": "0xD51a44d3FaE010294C616388b506AcdA1bfAAE46",
+      "coinsAddresses": [
+        "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+        "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599",
+        "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "0x0000000000000000000000000000000000000000",
+        "0x0000000000000000000000000000000000000000",
+        "0x0000000000000000000000000000000000000000",
+        "0x0000000000000000000000000000000000000000",
+        "0x0000000000000000000000000000000000000000"
+      ],
+      "decimals": [
+        "6",
+        "8",
+        "18",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0"
+      ],
+      "virtualPrice": "1056151519747164669",
+      "amplificationCoefficient": "1707629",
+      "lpTokenAddress": "0xc4AD29ba4B3c580e6D59105FFf484999997675Ff",
+      "priceOracle": 92563.25956168334,
+      "priceOracles": [
+        92563.25956168334,
+        1749.098503441285
+      ],
+      "name": "Curve.fi USD-BTC-ETH",
+      "symbol": "crv3crypto",
+      "totalSupply": "8479133766668058010353",
+      "implementation": "",
+      "zapAddress": "0x3993d34e7e99abf6b6f367309975d1360222d446",
+      "assetTypeName": "unknown",
+      "coins": [
+        {
+          "address": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+          "usdPrice": 0.999855255689231,
+          "decimals": "6",
+          "isBasePoolLpToken": false,
+          "symbol": "USDT",
+          "name": "Tether USD",
+          "poolBalance": "4863690648923"
+        },
+        {
+          "address": "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599",
+          "usdPrice": 92214.87516443289,
+          "decimals": "8",
+          "isBasePoolLpToken": false,
+          "symbol": "WBTC",
+          "name": "Wrapped BTC",
+          "poolBalance": "5271378826"
+        },
+        {
+          "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+          "usdPrice": 1741.861286815546,
+          "decimals": "18",
+          "isBasePoolLpToken": false,
+          "symbol": "WETH",
+          "name": "Wrapped Ether",
+          "poolBalance": "2801001518057317118445"
+        }
+      ],
+      "poolUrls": {
+        "swap": [
+          "https://curve.fi/dex/#/ethereum/pools/tricrypto2/swap",
+          "https://classic.curve.fi/tricrypto2"
+        ],
+        "deposit": [
+          "https://curve.fi/dex/#/ethereum/pools/tricrypto2/deposit",
+          "https://classic.curve.fi/tricrypto2/deposit"
+        ],
+        "withdraw": [
+          "https://curve.fi/dex/#/ethereum/pools/tricrypto2/withdraw",
+          "https://classic.curve.fi/tricrypto2/withdraw"
+        ]
+      },
+      "usdTotal": 14602938.169828093,
+      "isMetaPool": false,
+      "usdTotalExcludingBasePool": 14602938.169828093,
+      "gaugeAddress": "0xdefd8fdd20e0f34115c7018ccfb655796f6b2168",
+      "gaugeRewards": [],
+      "gaugeCrvApy": [
+        0.10836991482035274,
+        0.27092478705088185
+      ],
+      "gaugeFutureCrvApy": [
+        0.10573379180991523,
+        0.26433447952478806
+      ],
+      "usesRateOracle": false,
+      "isBroken": false,
+      "hasMethods": {
+        "exchange_received": false,
+        "exchange_extended": false
+      },
+      "creationTs": 1626218283,
+      "creationBlockNumber": 12821148,
+      "blockchainId": "ethereum",
+      "registryId": "crypto"
+    }
+  },
+  {
+    "id": "0xd51a44d3fae010294c616388b506acda1bfaae46",
+    "reserve0": 4863690.648923,
+    "reserve1": 52.71378826,
+    "token0": {
+      "id": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+      "symbol": "USDT",
+      "decimals": 6,
+      "priceUSD": 0.999855255689231
+    },
+    "token1": {
+      "id": "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
+      "symbol": "WBTC",
+      "decimals": 8,
+      "priceUSD": 92214.87516443289
+    },
+    "reserveUSD": 9723982.061212476,
+    "protocol": "Curve",
+    "dangerous": false,
+    "pool_data": {
+      "id": "crypto-0",
+      "address": "0xD51a44d3FaE010294C616388b506AcdA1bfAAE46",
+      "coinsAddresses": [
+        "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+        "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599",
+        "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "0x0000000000000000000000000000000000000000",
+        "0x0000000000000000000000000000000000000000",
+        "0x0000000000000000000000000000000000000000",
+        "0x0000000000000000000000000000000000000000",
+        "0x0000000000000000000000000000000000000000"
+      ],
+      "decimals": [
+        "6",
+        "8",
+        "18",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0"
+      ],
+      "virtualPrice": "1056151519747164669",
+      "amplificationCoefficient": "1707629",
+      "lpTokenAddress": "0xc4AD29ba4B3c580e6D59105FFf484999997675Ff",
+      "priceOracle": 92563.25956168334,
+      "priceOracles": [
+        92563.25956168334,
+        1749.098503441285
+      ],
+      "name": "Curve.fi USD-BTC-ETH",
+      "symbol": "crv3crypto",
+      "totalSupply": "8479133766668058010353",
+      "implementation": "",
+      "zapAddress": "0x3993d34e7e99abf6b6f367309975d1360222d446",
+      "assetTypeName": "unknown",
+      "coins": [
+        {
+          "address": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+          "usdPrice": 0.999855255689231,
+          "decimals": "6",
+          "isBasePoolLpToken": false,
+          "symbol": "USDT",
+          "name": "Tether USD",
+          "poolBalance": "4863690648923"
+        },
+        {
+          "address": "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599",
+          "usdPrice": 92214.87516443289,
+          "decimals": "8",
+          "isBasePoolLpToken": false,
+          "symbol": "WBTC",
+          "name": "Wrapped BTC",
+          "poolBalance": "5271378826"
+        },
+        {
+          "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+          "usdPrice": 1741.861286815546,
+          "decimals": "18",
+          "isBasePoolLpToken": false,
+          "symbol": "WETH",
+          "name": "Wrapped Ether",
+          "poolBalance": "2801001518057317118445"
+        }
+      ],
+      "poolUrls": {
+        "swap": [
+          "https://curve.fi/dex/#/ethereum/pools/tricrypto2/swap",
+          "https://classic.curve.fi/tricrypto2"
+        ],
+        "deposit": [
+          "https://curve.fi/dex/#/ethereum/pools/tricrypto2/deposit",
+          "https://classic.curve.fi/tricrypto2/deposit"
+        ],
+        "withdraw": [
+          "https://curve.fi/dex/#/ethereum/pools/tricrypto2/withdraw",
+          "https://classic.curve.fi/tricrypto2/withdraw"
+        ]
+      },
+      "usdTotal": 14602938.169828093,
+      "isMetaPool": false,
+      "usdTotalExcludingBasePool": 14602938.169828093,
+      "gaugeAddress": "0xdefd8fdd20e0f34115c7018ccfb655796f6b2168",
+      "gaugeRewards": [],
+      "gaugeCrvApy": [
+        0.10836991482035274,
+        0.27092478705088185
+      ],
+      "gaugeFutureCrvApy": [
+        0.10573379180991523,
+        0.26433447952478806
+      ],
+      "usesRateOracle": false,
+      "isBroken": false,
+      "hasMethods": {
+        "exchange_received": false,
+        "exchange_extended": false
+      },
+      "creationTs": 1626218283,
+      "creationBlockNumber": 12821148,
+      "blockchainId": "ethereum",
+      "registryId": "crypto"
+    }
+  },
+  {
+    "feeTier": "100",
+    "id": "0x435664008f38b0650fbc1c9fc971d0a3bc2f1e47",
+    "liquidity": "37658331841448277125165",
+    "sqrtPrice": "79195623653452393121896",
+    "tick": "-276333",
+    "token0": {
+      "decimals": "18",
+      "id": "0x4c9edd5852cd905f086c759e8383e09bff1e68b3",
+      "symbol": "USDe",
+      "priceUSD": 0.999178772346742
+    },
+    "token0Price": "1.000821902622419699206969739127538",
+    "token1": {
+      "decimals": "6",
+      "id": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+      "symbol": "USDT",
+      "priceUSD": 1.0
+    },
+    "token1Price": "0.9991787723467421170224864623694676",
+    "totalValueLockedToken0": "4549276.005909282123049372",
+    "totalValueLockedToken1": "4251549.611501",
+    "totalValueLockedUSD": "8797090.139493320530091567615499153",
+    "protocol": "Uniswap_V3",
+    "reserve0": 37673804403.714615,
+    "reserve1": 37642865633.73485,
+    "dangerous": false
+  },
+  {
+    "feeTier": "100",
+    "id": "0x48da0965ab2d2cbf1c17c09cfb5cbe67ad5b1406",
+    "liquidity": "25701701373772407785754",
+    "sqrtPrice": "79220754059579322450443",
+    "tick": "-276326",
+    "token0": {
+      "decimals": "18",
+      "id": "0x6b175474e89094c44da98b954eedeac495271d0f",
+      "symbol": "DAI",
+      "priceUSD": 1.0
+    },
+    "token0Price": "1.000187041923033163460698934290418",
+    "token1": {
+      "decimals": "6",
+      "id": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+      "symbol": "USDT",
+      "priceUSD": 1.0
+    },
+    "token1Price": "0.9998129930551054301764705838610601",
+    "totalValueLockedToken0": "5367351.431181840141327782",
+    "totalValueLockedToken1": "3303492.032975",
+    "totalValueLockedUSD": "8670843.464156840141327781999999998",
+    "protocol": "Uniswap_V3",
+    "reserve0": 25704104909.212276,
+    "reserve1": 25699298063.08195,
+    "dangerous": false
+  }
+]
