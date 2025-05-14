@@ -211,9 +211,9 @@ async def collect_curve_pools():
             
             # add fee field to the pool data
             data = add_fee_field(data, fee_data_file)
-            write_processed_pools_path = os.path.join(test_out_path, f'data_curve.json')
-            with open(write_processed_pools_path, "w", encoding="utf-8") as f:
-                json.dump(data, f, ensure_ascii=False, indent=2)
+            # write_processed_pools_path = os.path.join(test_out_path, f'data_curve.json')
+            # with open(write_processed_pools_path, "w", encoding="utf-8") as f:
+            #     json.dump(data, f, ensure_ascii=False, indent=2)
             
             for pool in data:
                 try:
@@ -355,9 +355,9 @@ async def get_latest_pool_data(protocol: str, X: int = 1000, skip: int = 0, max_
     elif protocol == CURVE:
         # Curve is handled differently, call its dedicated async function
         processed_pools_curve = await collect_curve_pools()
-        write_processed_pools_path = os.path.join(test_out_path, f'processed_pools_curve.json')
-        with open(write_processed_pools_path, "w", encoding="utf-8") as f:
-            json.dump(processed_pools_curve, f, ensure_ascii=False, indent=2)
+        # write_processed_pools_path = os.path.join(test_out_path, f'processed_pools_curve.json')
+        # with open(write_processed_pools_path, "w", encoding="utf-8") as f:
+        #     json.dump(processed_pools_curve, f, ensure_ascii=False, indent=2)
         return processed_pools_curve
     else:
         logging.error(f"Unknown protocol specified: {protocol}")
@@ -399,9 +399,9 @@ async def get_latest_pool_data(protocol: str, X: int = 1000, skip: int = 0, max_
             elif protocol == BALANCER_V3:
                 query = balancer_v3_query(X, skip, orderBy)
 
-            write_query_path = os.path.join(test_out_path, f'query_{protocol}.graphql')
-            with open(write_query_path, "w", encoding="utf-8") as f:
-                f.write(query)
+            # write_query_path = os.path.join(test_out_path, f'query_{protocol}.graphql')
+            # with open(write_query_path, "w", encoding="utf-8") as f:
+            #     f.write(query)
 
             # -------------------- Perform Asynchronous HTTP POST Request --------------------
             async with aiohttp.ClientSession() as session:
@@ -488,9 +488,9 @@ async def get_latest_pool_data(protocol: str, X: int = 1000, skip: int = 0, max_
                     
                     if protocol == UNISWAP_V3:
                         processed_pools = sorted(processed_pools, key=lambda p: float(p["totalValueLockedUSD"]), reverse=True)
-                    write_processed_pools_path = os.path.join(test_out_path, f'processed_pools_{protocol}.json')
-                    with open(write_processed_pools_path, "w", encoding="utf-8") as f:
-                        json.dump(processed_pools, f, ensure_ascii=False, indent=2)
+                    # write_processed_pools_path = os.path.join(test_out_path, f'processed_pools_{protocol}.json')
+                    # with open(write_processed_pools_path, "w", encoding="utf-8") as f:
+                    #     json.dump(processed_pools, f, ensure_ascii=False, indent=2)
 
                     return processed_pools # Return the processed list for other protocols
 

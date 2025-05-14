@@ -8,7 +8,7 @@ import {
     OSETH,
     WETH
 } from "../../src/Constants.sol";
-// forge test --match-path test/aggregator/Balancer_ECLP_swap.t.sol --fork-url $FORK_URL -vvv
+// forge test --match-path test/aggregator/Balancer_stable_swap.t.sol --fork-url $FORK_URL -vvv
 
 // Balancer StablePool interface with onSwap function
 interface IBalancerStablePool {

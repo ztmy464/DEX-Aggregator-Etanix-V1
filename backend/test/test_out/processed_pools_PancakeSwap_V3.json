@@ -1,1 +1,2186 @@
-[]
+[
+  {
+    "feeTier": "100",
+    "id": "0x04c8577958ccc170eb3d2cca76f9d51bc6e42d8f",
+    "liquidity": "2667592973100894",
+    "sqrtPrice": "79229777844460852380105385555",
+    "tick": "0",
+    "token0": {
+      "decimals": "6",
+      "id": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+      "symbol": "USDC",
+      "priceUSD": 1.0001967171366302
+    },
+    "token0Price": "0.9999592245801048498405456085502822",
+    "token1": {
+      "decimals": "6",
+      "id": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+      "symbol": "USDT",
+      "priceUSD": 0.9999999999999999
+    },
+    "token1Price": "1.000040777082597815184589017148388",
+    "totalValueLockedToken0": "9303675.191229",
+    "totalValueLockedToken1": "9825488.185796",
+    "totalValueLockedUSD": "19129163.37702500000000000000000001",
+    "protocol": "Pancakeswap_V3",
+    "reserve0": 2667538586.434684,
+    "reserve1": 2667647360.875956,
+    "dangerous": false
+  },
+  {
+    "feeTier": "500",
+    "id": "0x6ca298d2983ab03aa1da7679389d955a4efee15c",
+    "liquidity": "413422010037170387",
+    "sqrtPrice": "3363327125585522134793045",
+    "tick": "-201354",
+    "token0": {
+      "decimals": "18",
+      "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+      "symbol": "WETH",
+      "priceUSD": 1802.100687635666
+    },
+    "token0Price": "0.0005549079509602694291777696734700343",
+    "token1": {
+      "decimals": "6",
+      "id": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+      "symbol": "USDT",
+      "priceUSD": 0.9999999999999999
+    },
+    "token1Price": "1802.100687635666062025661625108854",
+    "totalValueLockedToken0": "3980.025909137455676252",
+    "totalValueLockedToken1": "6208519.770525",
+    "totalValueLockedUSD": "13380927.19818937584802728898435047",
+    "protocol": "Pancakeswap_V3",
+    "reserve0": 9738.769074535528,
+    "reserve1": 17550242.445945,
+    "dangerous": false
+  },
+  {
+    "feeTier": "500",
+    "id": "0x2201d2400d30bfd8172104b4ad046d019ca4e7bd",
+    "liquidity": "4051558046973443537127961",
+    "sqrtPrice": "84370979603913573351851839935",
+    "tick": "1257",
+    "token0": {
+      "decimals": "18",
+      "id": "0xae78736cd615f374d3085123a210448e74fc6393",
+      "symbol": "rETH",
+      "priceUSD": 2043.6478752594305
+    },
+    "token0Price": "0.8818058675626291300143826925471353",
+    "token1": {
+      "decimals": "18",
+      "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+      "symbol": "WETH",
+      "priceUSD": 1802.100687635666
+    },
+    "token1Price": "1.134036454944519047920975731193545",
+    "totalValueLockedToken0": "651.069855364227366272",
+    "totalValueLockedToken1": "1890.311420967948172041",
+    "totalValueLockedUSD": "4773068.019314412602592939951599857",
+    "protocol": "Pancakeswap_V3",
+    "reserve0": 3804596.093212812,
+    "reserve1": 4314550.666042824,
+    "dangerous": false
+  },
+  {
+    "feeTier": "500",
+    "id": "0x402b2bceb1415f48b413752cc0e27d76ff34ddeb",
+    "liquidity": "10665630524764082752",
+    "sqrtPrice": "81800497088890461717000553399",
+    "tick": "639",
+    "token0": {
+      "decimals": "18",
+      "id": "0xa2e3356610840701bdf5611a53974510ae27e2e1",
+      "symbol": "wBETH",
+      "priceUSD": 1921.0194875724744
+    },
+    "token0Price": "0.9380959950140422918005489515990042",
+    "token1": {
+      "decimals": "18",
+      "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+      "symbol": "WETH",
+      "priceUSD": 1802.100687635666
+    },
+    "token1Price": "1.065988987603588555539988901047063",
+    "totalValueLockedToken0": "3.678761441386311006",
+    "totalValueLockedToken1": "830.322319691357017629",
+    "totalValueLockedUSD": "3013498.909354333444824006004897086",
+    "protocol": "Pancakeswap_V3",
+    "reserve0": 10.33023439472315,
+    "reserve1": 11.011916104138699,
+    "dangerous": false
+  },
+  {
+    "feeTier": "100",
+    "id": "0x3733493ec5d2c181dcd7c54ed100641c0f07bb0e",
+    "liquidity": "7192445163935128643828920",
+    "sqrtPrice": "79172700553587807595040523651",
+    "tick": "-15",
+    "token0": {
+      "decimals": "18",
+      "id": "0x04c154b66cb340f3ae24111cc767e0184ed00cc6",
+      "symbol": "pxETH",
+      "priceUSD": 1799.5785275584478
+    },
+    "token0Price": "1.001401528212631056674835654498109",
+    "token1": {
+      "decimals": "18",
+      "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+      "symbol": "WETH",
+      "priceUSD": 1802.100687635666
+    },
+    "token1Price": "0.9986004333195570425246183802452263",
+    "totalValueLockedToken0": "346.701534967100261554",
+    "totalValueLockedToken1": "459.276483593313485151",
+    "totalValueLockedUSD": "1673748.811332452147417511885539775",
+    "protocol": "Pancakeswap_V3",
+    "reserve0": 7197483.606580902,
+    "reserve1": 7187410.248342098,
+    "dangerous": false
+  },
+  {
+    "feeTier": "500",
+    "id": "0x1ac1a8feaaea1900c4166deeed0c11cc10669d36",
+    "liquidity": "46072340237450911",
+    "sqrtPrice": "1866661461169934393336650130565981",
+    "tick": "201356",
+    "token0": {
+      "decimals": "6",
+      "id": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+      "symbol": "USDC",
+      "priceUSD": 1.0001967171366302
+    },
+    "token0Price": "1801.474193377758253561052154646127",
+    "token1": {
+      "decimals": "18",
+      "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+      "symbol": "WETH",
+      "priceUSD": 1802.100687635666
+    },
+    "token1Price": "0.0005551009299361670301525088616057874",
+    "totalValueLockedToken0": "506081.86636",
+    "totalValueLockedToken1": "547.042234707889086428",
+    "totalValueLockedUSD": "1491713.163126365513012503688545213",
+    "protocol": "Pancakeswap_V3",
+    "reserve0": 1955484.128041,
+    "reserve1": 1085.4910579514535,
+    "dangerous": false
+  },
+  {
+    "feeTier": "2500",
+    "id": "0x7524fe020edcd072ee98126b49fa65eb85f8c44c",
+    "liquidity": "7075616910480549643",
+    "sqrtPrice": "179183028826398149851611316053082112",
+    "tick": "292646",
+    "token0": {
+      "decimals": "6",
+      "id": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+      "symbol": "USDC",
+      "priceUSD": 1.0001967171366302
+    },
+    "token0Price": "0.1955083995828870886625128887329579",
+    "token1": {
+      "decimals": "18",
+      "id": "0xaf5191b0de278c7286d6c7cc6ab6bb8a73ba2cd6",
+      "symbol": "STG",
+      "priceUSD": 0.1958356302526134
+    },
+    "token1Price": "5.114869755639543952520052658024086",
+    "totalValueLockedToken0": "627050.117038",
+    "totalValueLockedToken1": "13108125.224362475879106141",
+    "totalValueLockedUSD": "1254100.234076",
+    "protocol": "Pancakeswap_V3",
+    "reserve0": 3128578.248419,
+    "reserve1": 16002270.26099368,
+    "dangerous": false
+  },
+  {
+    "feeTier": "100",
+    "id": "0xbabe4490da9bcf0bbf062c40112aea2109d6ba7f",
+    "liquidity": "1676529213243631204894",
+    "sqrtPrice": "869642061715004865090756575333",
+    "tick": "47917",
+    "token0": {
+      "decimals": "18",
+      "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+      "symbol": "WETH",
+      "priceUSD": 1802.100687635666
+    },
+    "token0Price": "0.008300000022087280306145484888908658",
+    "token1": {
+      "decimals": "18",
+      "id": "0xde4ee8057785a7e8e800db58f9784845a5c2cbd6",
+      "symbol": "DEXE",
+      "priceUSD": 14.95743574717953
+    },
+    "token1Price": "120.4819273902267346876379236430337",
+    "totalValueLockedToken0": "152.912934449157687795",
+    "totalValueLockedToken1": "18433.015630164804551352",
+    "totalValueLockedUSD": "551427.8932722771410039781122507383",
+    "protocol": "Pancakeswap_V3",
+    "reserve0": 152.73908061073988,
+    "reserve1": 18402.298819793148,
+    "dangerous": false
+  },
+  {
+    "feeTier": "2500",
+    "id": "0x135cd19cb3c15f7eb10fc21ff79e1259a65fc958",
+    "liquidity": "9305393725871730500438",
+    "sqrtPrice": "1185549391074355636025992665",
+    "tick": "-84047",
+    "token0": {
+      "decimals": "18",
+      "id": "0x626e8036deb333b408be468f951bdb42433cbf18",
+      "symbol": "AIOZ",
+      "priceUSD": 0.40351454004371445
+    },
+    "token0Price": "4466.01177603274650709418883443161",
+    "token1": {
+      "decimals": "18",
+      "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+      "symbol": "WETH",
+      "priceUSD": 1802.100687635666
+    },
+    "token1Price": "0.0002239134265983331830308665875691284",
+    "totalValueLockedToken0": "269496.472538210688925668",
+    "totalValueLockedToken1": "128.697780471071288094",
+    "totalValueLockedUSD": "463309.3694562080011252031172783919",
+    "protocol": "Pancakeswap_V3",
+    "reserve0": 621862.9539377345,
+    "reserve1": 139.24346489075955,
+    "dangerous": false
+  },
+  {
+    "feeTier": "2500",
+    "id": "0x517f451b0a9e1b87dc0ae98a05ee033c3310f046",
+    "liquidity": "16915466435166979122029",
+    "sqrtPrice": "2615591259131740417796608370",
+    "tick": "-68221",
+    "token0": {
+      "decimals": "18",
+      "id": "0x152649ea73beab28c5b49b26eb48f7ead6d4c898",
+      "symbol": "Cake",
+      "priceUSD": 1.964082108879691
+    },
+    "token0Price": "917.528182497207944154713652922907",
+    "token1": {
+      "decimals": "18",
+      "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+      "symbol": "WETH",
+      "priceUSD": 1802.100687635666
+    },
+    "token1Price": "0.001089884778556154071231110468866725",
+    "totalValueLockedToken0": "103234.632687602544511076",
+    "totalValueLockedToken1": "114.293583313637510088",
+    "totalValueLockedUSD": "408043.9071369796298019600355420966",
+    "protocol": "Pancakeswap_V3",
+    "reserve0": 512381.7871202374,
+    "reserve1": 558.4371105917464,
+    "dangerous": false
+  },
+  {
+    "feeTier": "2500",
+    "id": "0xb2dc4d7627501338b578985c214208eb32283086",
+    "liquidity": "31444345457972983711972",
+    "sqrtPrice": "575155475272511147263331861",
+    "tick": "-98514",
+    "token0": {
+      "decimals": "18",
+      "id": "0xabd4c63d2616a5201454168269031355f4764337",
+      "symbol": "ORDER",
+      "priceUSD": 0.09497086680307473
+    },
+    "token0Price": "18975.29998723062954922617997417307",
+    "token1": {
+      "decimals": "18",
+      "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+      "symbol": "WETH",
+      "priceUSD": 1802.100687635666
+    },
+    "token1Price": "0.0000527000890986148814769200164302544",
+    "totalValueLockedToken0": "3115149.681770108838874208",
+    "totalValueLockedToken1": "90.911601396703865842",
+    "totalValueLockedUSD": "326972.6975943078827002964509731978",
+    "protocol": "Pancakeswap_V3",
+    "reserve0": 4331485.692487888,
+    "reserve1": 228.26968192348727,
+    "dangerous": false
+  },
+  {
+    "feeTier": "100",
+    "id": "0x6c2348deec1508724c0207a84d21cc5ee88231c8",
+    "liquidity": "2248343791543659960",
+    "sqrtPrice": "79106613078440374455444",
+    "tick": "-276355",
+    "token0": {
+      "decimals": "18",
+      "id": "0x0000000000085d4780b73119b644ae5ecd22b376",
+      "symbol": "TUSD",
+      "priceUSD": 0.9994579805673696
+    },
+    "token0Price": "1.003075414635432474456657653580494",
+    "token1": {
+      "decimals": "6",
+      "id": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+      "symbol": "USDT",
+      "priceUSD": 0.9999999999999999
+    },
+    "token1Price": "0.996934014541119788895679911417638",
+    "totalValueLockedToken0": "114737.755685468541499851",
+    "totalValueLockedToken1": "118289.178892",
+    "totalValueLockedUSD": "233026.9345774685414998510000000001",
+    "protocol": "Pancakeswap_V3",
+    "reserve0": 2251798.4321706,
+    "reserve1": 2244894.450921,
+    "dangerous": false
+  },
+  {
+    "feeTier": "100",
+    "id": "0x0d9ea0d5e3f400b1df8f695be04292308c041e77",
+    "liquidity": "101095261932149915453",
+    "sqrtPrice": "79228472106254445875679068171663517",
+    "tick": "276324",
+    "token0": {
+      "decimals": "6",
+      "id": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+      "symbol": "USDT",
+      "priceUSD": 0.9999999999999999
+    },
+    "token0Price": "0.9999921848452457070203282583155987",
+    "token1": {
+      "decimals": "18",
+      "id": "0xfa2b947eec368f42195f24f36d2af29f7c24cec2",
+      "symbol": "USDf",
+      "priceUSD": 0.9994062518088355
+    },
+    "token1Price": "1.000007815215831414140373722737802",
+    "totalValueLockedToken0": "100722.005389",
+    "totalValueLockedToken1": "101774.726641404019880925",
+    "totalValueLockedUSD": "201444.010778",
+    "protocol": "Pancakeswap_V3",
+    "reserve0": 101094866.893819,
+    "reserve1": 101095656.97202386,
+    "dangerous": false
+  },
+  {
+    "feeTier": "2500",
+    "id": "0xa06fc67e6fe3c34736d295fff71a358c3bb83476",
+    "liquidity": "1923707251206949777",
+    "sqrtPrice": "8127112088767778086443102307982",
+    "tick": "92617",
+    "token0": {
+      "decimals": "8",
+      "id": "0x2b591e99afe9f32eaa6214f7b7629768c40eeb39",
+      "symbol": "HEX",
+      "priceUSD": 0.0018962359853162132
+    },
+    "token0Price": "950356.7602294767131552477325111102",
+    "token1": {
+      "decimals": "18",
+      "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+      "symbol": "WETH",
+      "priceUSD": 1802.100687635666
+    },
+    "token1Price": "0.000001052236425148947479149400355720297",
+    "totalValueLockedToken0": "130038863.85625991",
+    "totalValueLockedToken1": "55.813007497050239515",
+    "totalValueLockedUSD": "200737.0824162327760464752757493839",
+    "protocol": "Pancakeswap_V3",
+    "reserve0": 187534992.82867825,
+    "reserve1": 197.3311504443819,
+    "dangerous": false
+  },
+  {
+    "feeTier": "100",
+    "id": "0x3e253ae716ebf5047d6deee8f2607121cea08482",
+    "liquidity": "250262915853",
+    "sqrtPrice": "79219806371320008466394153078",
+    "tick": "-3",
+    "token0": {
+      "decimals": "8",
+      "id": "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
+      "symbol": "WBTC",
+      "priceUSD": 93893.96318323538
+    },
+    "token0Price": "1.00021097207963706279824916484347",
+    "token1": {
+      "decimals": "8",
+      "id": "0xcbb7c0000ab88b473b1f5afd9ef808440eed33bf",
+      "symbol": "cbBTC",
+      "priceUSD": 93913.7721879135
+    },
+    "token1Price": "0.9997890724201931018755809047602762",
+    "totalValueLockedToken0": "0.96032098",
+    "totalValueLockedToken1": "2.48597856",
+    "totalValueLockedUSD": "181569.4965066077265696905277481979",
+    "protocol": "Pancakeswap_V3",
+    "reserve0": 2502.89313704,
+    "reserve1": 2502.36520785,
+    "dangerous": false
+  },
+  {
+    "feeTier": "2500",
+    "id": "0xea9b2d7ff9ae446ec067e50df7c09f1dd055bb71",
+    "liquidity": "29361422553950299304",
+    "sqrtPrice": "505536910588101330183200969",
+    "tick": "-101095",
+    "token0": {
+      "decimals": "18",
+      "id": "0x4691937a7508860f876c9c0a2a617e7d9e945d4b",
+      "symbol": "WOO",
+      "priceUSD": 0.07337120049755984
+    },
+    "token0Price": "24561.41749644126254371426681798617",
+    "token1": {
+      "decimals": "18",
+      "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+      "symbol": "WETH",
+      "priceUSD": 1802.100687635666
+    },
+    "token1Price": "0.00004071426252759603028050016422633109",
+    "totalValueLockedToken0": "4847534.710865181959916655",
+    "totalValueLockedToken1": "47.081835793150915855",
+    "totalValueLockedUSD": "172025.8991611825700769440234190521",
+    "protocol": "Pancakeswap_V3",
+    "reserve0": 4601.546413392813,
+    "reserve1": 0.1873485687077929,
+    "dangerous": false
+  },
+  {
+    "feeTier": "2500",
+    "id": "0x7df7c84f2f9dcef3c0813e539878b76b89a916f8",
+    "liquidity": "587319315909114568",
+    "sqrtPrice": "34943107346396405039104",
+    "tick": "-292698",
+    "token0": {
+      "decimals": "18",
+      "id": "0x2dff88a56767223a5529ea5960da7a3f5f766406",
+      "symbol": "ID",
+      "priceUSD": 0.1947479520825485
+    },
+    "token0Price": "5.14086409271409719347466042481739",
+    "token1": {
+      "decimals": "6",
+      "id": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+      "symbol": "USDC",
+      "priceUSD": 1.0001967171366302
+    },
+    "token1Price": "0.1945198281777673449965778962383463",
+    "totalValueLockedToken0": "531962.888315233811335496",
+    "totalValueLockedToken1": "82687.241673",
+    "totalValueLockedUSD": "165374.483346",
+    "protocol": "Pancakeswap_V3",
+    "reserve0": 1331656.9058192999,
+    "reserve1": 259033.672511,
+    "dangerous": false
+  },
+  {
+    "feeTier": "2500",
+    "id": "0x6e229c972d9f69c15bdc7b07f385d2025225e72b",
+    "liquidity": "16079426398903582",
+    "sqrtPrice": "83728410789027482959872",
+    "tick": "-275220",
+    "token0": {
+      "decimals": "18",
+      "id": "0x69af81e73a73b40adf4f3d4223cd9b1ece623074",
+      "symbol": "MASK",
+      "priceUSD": 1.1167659882737466
+    },
+    "token0Price": "0.895392538936739274220036141241833",
+    "token1": {
+      "decimals": "6",
+      "id": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+      "symbol": "USDC",
+      "priceUSD": 1.0001967171366302
+    },
+    "token1Price": "1.116828604789894712436098554921955",
+    "totalValueLockedToken0": "27028.699932048448579229",
+    "totalValueLockedToken1": "76939.514549",
+    "totalValueLockedUSD": "153879.029098",
+    "protocol": "Pancakeswap_V3",
+    "reserve0": 15215.186767111483,
+    "reserve1": 16992.755808,
+    "dangerous": false
+  },
+  {
+    "feeTier": "2500",
+    "id": "0x9b5699d18dff51fc65fb8ad6f70d93287c36349f",
+    "liquidity": "2900184800993",
+    "sqrtPrice": "57188524664893877166896940395676085",
+    "tick": "269804",
+    "token0": {
+      "decimals": "8",
+      "id": "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
+      "symbol": "WBTC",
+      "priceUSD": 93893.96318323538
+    },
+    "token0Price": "0.0191929345246492718513126989526086",
+    "token1": {
+      "decimals": "18",
+      "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+      "symbol": "WETH",
+      "priceUSD": 1802.100687635666
+    },
+    "token1Price": "52.10250671754812416956407660800653",
+    "totalValueLockedToken0": "0.8219051",
+    "totalValueLockedToken1": "39.976254842870154192",
+    "totalValueLockedUSD": "149791.2265991138988591964448819639",
+    "protocol": "Pancakeswap_V3",
+    "reserve0": 0.04017874,
+    "reserve1": 2.0934133111376574,
+    "dangerous": false
+  },
+  {
+    "feeTier": "500",
+    "id": "0x7b94a5622035207d3f527d236d47b7714ee0acba",
+    "liquidity": "131065770791596758914",
+    "sqrtPrice": "77791937807275264502538793316",
+    "tick": "-366",
+    "token0": {
+      "decimals": "18",
+      "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+      "symbol": "WETH",
+      "priceUSD": 1802.100687635666
+    },
+    "token0Price": "1.037265629693799542078797938265844",
+    "token1": {
+      "decimals": "18",
+      "id": "0xfae103dc9cf190ed75350761e95403b7b8afa6c0",
+      "symbol": "rswETH",
+      "priceUSD": 1869.2571045320385
+    },
+    "token1Price": "0.9640732049467402644241212867397908",
+    "totalValueLockedToken0": "40.151286105180569902",
+    "totalValueLockedToken1": "38.150043861489903857",
+    "totalValueLockedUSD": "144408.1297435789203341254622532704",
+    "protocol": "Pancakeswap_V3",
+    "reserve0": 133.48555751445497,
+    "reserve1": 128.68984924706305,
+    "dangerous": false
+  },
+  {
+    "feeTier": "100",
+    "id": "0xd9e497bd8f491fe163b42a62c296fb54caea74b7",
+    "liquidity": "18599185697925151715",
+    "sqrtPrice": "79229214933981379867097",
+    "tick": "-276324",
+    "token0": {
+      "decimals": "18",
+      "id": "0x6b175474e89094c44da98b954eedeac495271d0f",
+      "symbol": "DAI",
+      "priceUSD": 0.9941072078736167
+    },
+    "token0Price": "0.9999734337206760851499065023373325",
+    "token1": {
+      "decimals": "6",
+      "id": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+      "symbol": "USDC",
+      "priceUSD": 1.0001967171366302
+    },
+    "token1Price": "1.000026566985109862072975979158048",
+    "totalValueLockedToken0": "5665.163746662332521228",
+    "totalValueLockedToken1": "130045.294843",
+    "totalValueLockedUSD": "135710.458589662332521228",
+    "protocol": "Pancakeswap_V3",
+    "reserve0": 18598938.64070307,
+    "reserve1": 18599432.758428,
+    "dangerous": false
+  },
+  {
+    "feeTier": "10000",
+    "id": "0x719eba3fb0799e215b6f82872f947418298e395e",
+    "liquidity": "3816111545391",
+    "sqrtPrice": "1027737676212782442254473283",
+    "tick": "-86904",
+    "token0": {
+      "decimals": "5",
+      "id": "0x1151cb3d861920e07a38e03eead12c32178567f6",
+      "symbol": "Bonk",
+      "priceUSD": 1.68898223937386e-05
+    },
+    "token0Price": "59428.4785572985766800948864692057",
+    "token1": {
+      "decimals": "6",
+      "id": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+      "symbol": "USDT",
+      "priceUSD": 0.9999999999999999
+    },
+    "token1Price": "0.00001682694937303232070895493307852537",
+    "totalValueLockedToken0": "3661910283.84277",
+    "totalValueLockedToken1": "64773.353696",
+    "totalValueLockedUSD": "129546.707392",
+    "protocol": "Pancakeswap_V3",
+    "reserve0": 2941835379.67524,
+    "reserve1": 49502.114997,
+    "dangerous": false
+  },
+  {
+    "feeTier": "10000",
+    "id": "0xed4d5317823ff7bc8bb868c1612bb270a8311179",
+    "liquidity": "576715986760445707",
+    "sqrtPrice": "5957746150271690201426",
+    "tick": "-328080",
+    "token0": {
+      "decimals": "18",
+      "id": "0x186ef81fd8e77eec8bffc3039e7ec41d5fc0b457",
+      "symbol": "INSP",
+      "priceUSD": 0.005564192116371161
+    },
+    "token0Price": "176.8459743173617116085287921133895",
+    "token1": {
+      "decimals": "6",
+      "id": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+      "symbol": "USDT",
+      "priceUSD": 0.9999999999999999
+    },
+    "token1Price": "0.005654638189306103998244612485192687",
+    "totalValueLockedToken0": "2964200.076892490191059235",
+    "totalValueLockedToken1": "54876.410637",
+    "totalValueLockedUSD": "109752.821274",
+    "protocol": "Pancakeswap_V3",
+    "reserve0": 7669368.041393844,
+    "reserve1": 43367.501414,
+    "dangerous": false
+  },
+  {
+    "feeTier": "2500",
+    "id": "0x11a6713b702817db0aa0964d1afee4e641319732",
+    "liquidity": "140579644063292056",
+    "sqrtPrice": "111142444022108153649956",
+    "tick": "-269555",
+    "token0": {
+      "decimals": "18",
+      "id": "0x152649ea73beab28c5b49b26eb48f7ead6d4c898",
+      "symbol": "Cake",
+      "priceUSD": 1.964082108879691
+    },
+    "token0Price": "0.5081586025678063282222286223588176",
+    "token1": {
+      "decimals": "6",
+      "id": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+      "symbol": "USDC",
+      "priceUSD": 1.0001967171366302
+    },
+    "token1Price": "1.967889542648379421592282528079391",
+    "totalValueLockedToken0": "25393.203356707777856717",
+    "totalValueLockedToken1": "46202.112365",
+    "totalValueLockedUSD": "96055.43464161725572220436910535201",
+    "protocol": "Pancakeswap_V3",
+    "reserve0": 100212.54241834402,
+    "reserve1": 197207.214267,
+    "dangerous": false
+  },
+  {
+    "feeTier": "500",
+    "id": "0xbfab494d6311432ed86ee88779acd7b4838920b7",
+    "liquidity": "10556541915822027008",
+    "sqrtPrice": "79163564743476172125432",
+    "tick": "-276341",
+    "token0": {
+      "decimals": "18",
+      "id": "0x73a15fed60bf67631dc6cd7bc5b6e8da8190acf5",
+      "symbol": "USD0",
+      "priceUSD": 0.9898722345638695
+    },
+    "token0Price": "1.001632673490923699289868704306594",
+    "token1": {
+      "decimals": "6",
+      "id": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+      "symbol": "USDT",
+      "priceUSD": 0.9999999999999999
+    },
+    "token1Price": "0.9983699877868066633402640956549533",
+    "totalValueLockedToken0": "65823.92146259473031098",
+    "totalValueLockedToken1": "44737.968546",
+    "totalValueLockedUSD": "89475.93709200000000000000000000002",
+    "protocol": "Pancakeswap_V3",
+    "reserve0": 10565156.094291676,
+    "reserve1": 10547934.760823,
+    "dangerous": false
+  },
+  {
+    "feeTier": "500",
+    "id": "0x6db0f81db2c3b2a85a802d511577d8522d0d8c14",
+    "liquidity": "12458253869533195524",
+    "sqrtPrice": "76027276709909045597140961407",
+    "tick": "-825",
+    "token0": {
+      "decimals": "18",
+      "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+      "symbol": "WETH",
+      "priceUSD": 1802.100687635666
+    },
+    "token0Price": "1.085976178169755025557862295054931",
+    "token1": {
+      "decimals": "18",
+      "id": "0xf951e335afb289353dc249e82926178eac7ded78",
+      "symbol": "swETH",
+      "priceUSD": 1957.038417435668
+    },
+    "token1Price": "0.9208305118491138697211774898812572",
+    "totalValueLockedToken0": "22.375920737854594807",
+    "totalValueLockedToken1": "6.360187919992736028",
+    "totalValueLockedUSD": "81887.92335628002038412677980743198",
+    "protocol": "Pancakeswap_V3",
+    "reserve0": 12.982768881562368,
+    "reserve1": 11.954929714427823,
+    "dangerous": false
+  },
+  {
+    "feeTier": "10000",
+    "id": "0x3202acfd55232f3706aa81a4f18a98686b5e1d1b",
+    "liquidity": "16397977700620282451289",
+    "sqrtPrice": "5248159154524940271385112",
+    "tick": "-192454",
+    "token0": {
+      "decimals": "18",
+      "id": "0x6982508145454ce325ddbe47a25d4ec3d2311933",
+      "symbol": "PEPE",
+      "priceUSD": 7.907403100785995e-06
+    },
+    "token0Price": "227900445.2746992185393494187124809",
+    "token1": {
+      "decimals": "18",
+      "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+      "symbol": "WETH",
+      "priceUSD": 1802.100687635666
+    },
+    "token1Price": "0.000000004387880852074038551752222093230463",
+    "totalValueLockedToken0": "25642475589.573987038281699843",
+    "totalValueLockedToken1": "21.035150405355357671",
+    "totalValueLockedUSD": "75959.02396295024133152410763720606",
+    "protocol": "Pancakeswap_V3",
+    "reserve0": 247549970.17380422,
+    "reserve1": 1.0862197740571349,
+    "dangerous": false
+  },
+  {
+    "feeTier": "10000",
+    "id": "0x9d6371979d2368dbe9480f4822ed105f03898765",
+    "liquidity": "553257697449853134533",
+    "sqrtPrice": "175811614224539580573417120",
+    "tick": "-122220",
+    "token0": {
+      "decimals": "18",
+      "id": "0x56c03b8c4fa80ba37f5a7b60caaaef749bb5b220",
+      "symbol": "CANTO",
+      "priceUSD": 0.008873909755771731
+    },
+    "token0Price": "203078.5456730108474378335340093217",
+    "token1": {
+      "decimals": "18",
+      "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+      "symbol": "WETH",
+      "priceUSD": 1802.100687635666
+    },
+    "token1Price": "0.00000492420307958163631935994665782536",
+    "totalValueLockedToken0": "3887743.830651760875957134",
+    "totalValueLockedToken1": "17.109596200438409476",
+    "totalValueLockedUSD": "62119.09640055738876853036822394339",
+    "protocol": "Pancakeswap_V3",
+    "reserve0": 249321.36002028934,
+    "reserve1": 1.2277090088173905,
+    "dangerous": false
+  },
+  {
+    "feeTier": "2500",
+    "id": "0x021e6270091a926d08d43681978d65f9a9b024ca",
+    "liquidity": "18723013907561261367748",
+    "sqrtPrice": "290438229776287528876124952",
+    "tick": "-112180",
+    "token0": {
+      "decimals": "18",
+      "id": "0x944824290cc12f31ae18ef51216a223ba4063092",
+      "symbol": "MASA",
+      "priceUSD": 0.02421739620425619
+    },
+    "token0Price": "74413.47832922467299801075062940928",
+    "token1": {
+      "decimals": "18",
+      "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+      "symbol": "WETH",
+      "priceUSD": 1802.100687635666
+    },
+    "token1Price": "0.00001343842570529681049937748609567036",
+    "totalValueLockedToken0": "4165500.399017482553614852",
+    "totalValueLockedToken1": "15.273634356887089927",
+    "totalValueLockedUSD": "55179.48885480150234591495416229358",
+    "protocol": "Pancakeswap_V3",
+    "reserve0": 5107419.879840503,
+    "reserve1": 68.63568260099258,
+    "dangerous": false
+  },
+  {
+    "feeTier": "10000",
+    "id": "0xbc7766ae74f38f251683633d50cc2c1cd14af948",
+    "liquidity": "57665270591131962559212",
+    "sqrtPrice": "139183819842753240467042523",
+    "tick": "-126893",
+    "token0": {
+      "decimals": "18",
+      "id": "0x186ef81fd8e77eec8bffc3039e7ec41d5fc0b457",
+      "symbol": "INSP",
+      "priceUSD": 0.005564192116371161
+    },
+    "token0Price": "324027.3468369333895027585107084307",
+    "token1": {
+      "decimals": "18",
+      "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+      "symbol": "WETH",
+      "priceUSD": 1802.100687635666
+    },
+    "token1Price": "0.000003086159269462060347412038453057482",
+    "totalValueLockedToken0": "4125073.182825672576167991",
+    "totalValueLockedToken1": "13.930053151775409189",
+    "totalValueLockedUSD": "51022.82808139835977722206643019506",
+    "protocol": "Pancakeswap_V3",
+    "reserve0": 32825032.64377182,
+    "reserve1": 101.30327876397114,
+    "dangerous": false
+  },
+  {
+    "feeTier": "2500",
+    "id": "0x3fc47be8264e473dd2b3e80d144f9efffc18f438",
+    "liquidity": "32234824810764841",
+    "sqrtPrice": "1955339468521109084075455422",
+    "tick": "-74040",
+    "token0": {
+      "decimals": "18",
+      "id": "0x14778860e937f509e651192a90589de711fb88a9",
+      "symbol": "CYBER",
+      "priceUSD": 1.0976508501098288
+    },
+    "token0Price": "1641.779521653312019009902920649752",
+    "token1": {
+      "decimals": "18",
+      "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+      "symbol": "WETH",
+      "priceUSD": 1802.100687635666
+    },
+    "token1Price": "0.0006090951841042429445090200477534014",
+    "totalValueLockedToken0": "2452.929593678518784132",
+    "totalValueLockedToken1": "10.547230891691917697",
+    "totalValueLockedUSD": "38589.86206152398078886006494065575",
+    "protocol": "Pancakeswap_V3",
+    "reserve0": 1.3061189526633574,
+    "reserve1": 0.000795550763934528,
+    "dangerous": false
+  },
+  {
+    "feeTier": "2500",
+    "id": "0x3e59fa7add927fd394da1362f7ce59119924a6d6",
+    "liquidity": "2123431979474766143923",
+    "sqrtPrice": "572339884487670794667035952742",
+    "tick": "39550",
+    "token0": {
+      "decimals": "18",
+      "id": "0x18084fba666a33d37592fa2633fd49a74dd93a88",
+      "symbol": "tBTC",
+      "priceUSD": 94043.31033535673
+    },
+    "token0Price": "0.01916245484351207625513382180655043",
+    "token1": {
+      "decimals": "18",
+      "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+      "symbol": "WETH",
+      "priceUSD": 1802.100687635666
+    },
+    "token1Price": "52.18538063971353702562160009231482",
+    "totalValueLockedToken0": "30.776194619287937447",
+    "totalValueLockedToken1": "8.285550080794496976",
+    "totalValueLockedUSD": "30156.95237127127866956468227659119",
+    "protocol": "Pancakeswap_V3",
+    "reserve0": 293.9435438933435,
+    "reserve1": 15339.555724660473,
+    "dangerous": false
+  },
+  {
+    "feeTier": "10000",
+    "id": "0x6fd5029ba47ba8dbee130da71e2546b5c96b4b12",
+    "liquidity": "8182423338925671671838",
+    "sqrtPrice": "68891941162191442478471152",
+    "tick": "-140959",
+    "token0": {
+      "decimals": "18",
+      "id": "0x904f36d74bed2ef2729eaa1c7a5b70dea2966a02",
+      "symbol": "BLB",
+      "priceUSD": 0.0013625634307010443
+    },
+    "token0Price": "1322581.134229089108851588794469472",
+    "token1": {
+      "decimals": "18",
+      "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+      "symbol": "WETH",
+      "priceUSD": 1802.100687635666
+    },
+    "token1Price": "0.0000007560972813837115777297157004308416",
+    "totalValueLockedToken0": "17865370.128796335074679566",
+    "totalValueLockedToken1": "7.875626764497719851",
+    "totalValueLockedUSD": "28883.5029793240771899908093866641",
+    "protocol": "Pancakeswap_V3",
+    "reserve0": 9410075.476472333,
+    "reserve1": 7.114932485376265,
+    "dangerous": false
+  },
+  {
+    "feeTier": "2500",
+    "id": "0x858da22cdc4185306f789bd599ff0bf3d48c5fb2",
+    "liquidity": "10048716421474902",
+    "sqrtPrice": "169703617091691016373493",
+    "tick": "-261089",
+    "token0": {
+      "decimals": "18",
+      "id": "0x79bbf4508b1391af3a0f4b30bb5fc4aa9ab0e07c",
+      "symbol": "Anon",
+      "priceUSD": 4.5291519575495105
+    },
+    "token0Price": "0.2179600854020277469703969560927246",
+    "token1": {
+      "decimals": "6",
+      "id": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+      "symbol": "USDC",
+      "priceUSD": 1.0001967171366302
+    },
+    "token1Price": "4.587996000072666080037511760906831",
+    "totalValueLockedToken0": "3152.379435108558430254",
+    "totalValueLockedToken1": "13292.119066",
+    "totalValueLockedUSD": "26584.238132",
+    "protocol": "Pancakeswap_V3",
+    "reserve0": 4691.363397812637,
+    "reserve1": 21523.956504,
+    "dangerous": false
+  },
+  {
+    "feeTier": "100",
+    "id": "0x689d028f13033d2e2a7c87806bee05f45d859b52",
+    "liquidity": "43012423790997647357",
+    "sqrtPrice": "79209401442173647775546",
+    "tick": "-276329",
+    "token0": {
+      "decimals": "18",
+      "id": "0x15700b564ca08d9439c58ca5053166e8317aa138",
+      "symbol": "deUSD",
+      "priceUSD": 0.9937482720768227
+    },
+    "token0Price": "1.000473764315032300823864281058062",
+    "token1": {
+      "decimals": "6",
+      "id": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+      "symbol": "USDC",
+      "priceUSD": 1.0001967171366302
+    },
+    "token1Price": "0.9995264600313066076183535573498465",
+    "totalValueLockedToken0": "14200.071129757915894424",
+    "totalValueLockedToken1": "12604.870548",
+    "totalValueLockedUSD": "25209.74109600000000000000000000001",
+    "protocol": "Pancakeswap_V3",
+    "reserve0": 43022611.460249595,
+    "reserve1": 43002238.534165,
+    "dangerous": false
+  },
+  {
+    "feeTier": "500",
+    "id": "0x4f64951a6583d56004ff6310834c70d182142a07",
+    "liquidity": "26396280433337465",
+    "sqrtPrice": "86757283721048014231263594395",
+    "tick": "1815",
+    "token0": {
+      "decimals": "18",
+      "id": "0x7f39c581f595b53c5cb19bd0b3f8da6c935e2ca0",
+      "symbol": "wstETH",
+      "priceUSD": 2160.8856099958944
+    },
+    "token0Price": "0.8339639448286620866616890893270706",
+    "token1": {
+      "decimals": "18",
+      "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+      "symbol": "WETH",
+      "priceUSD": 1802.100687635666
+    },
+    "token1Price": "1.199092606102353771455880471116282",
+    "totalValueLockedToken0": "2.130706495708151203",
+    "totalValueLockedToken1": "6.83259685551915059",
+    "totalValueLockedUSD": "24924.23394124914126600842869605707",
+    "protocol": "Pancakeswap_V3",
+    "reserve0": 0.024105512600749893,
+    "reserve1": 0.02890474192586632,
+    "dangerous": false
+  },
+  {
+    "feeTier": "10000",
+    "id": "0xbc1a2e1b745497d214b99f359369d304d0acf935",
+    "liquidity": "1",
+    "sqrtPrice": "837360619914244959102156",
+    "tick": "-229164",
+    "token0": {
+      "decimals": "18",
+      "id": "0xa21af1050f7b26e0cff45ee51548254c41ed6b5c",
+      "symbol": "OSAK",
+      "priceUSD": 2.0130054479348654e-07
+    },
+    "token0Price": "8952289172.810903258658405684861995",
+    "token1": {
+      "decimals": "18",
+      "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+      "symbol": "WETH",
+      "priceUSD": 1802.100687635666
+    },
+    "token1Price": "0.0000000001117032728385395650010420919995911",
+    "totalValueLockedToken0": "48496513803.786054416001147461",
+    "totalValueLockedToken1": "3.863281703668029457",
+    "totalValueLockedUSD": "22521.0739402746514367546869651747",
+    "protocol": "Pancakeswap_V3",
+    "reserve0": 9.4616e-14,
+    "reserve1": 0.0,
+    "dangerous": true
+  },
+  {
+    "feeTier": "500",
+    "id": "0xccd1d21fce02959f4f51ddc4505ea154aebe7f1b",
+    "liquidity": "26328339605015878",
+    "sqrtPrice": "83031649605811157555240747970",
+    "tick": "937",
+    "token0": {
+      "decimals": "18",
+      "id": "0xbe9895146f7af43049ca1c1ae358b0541ea49704",
+      "symbol": "cbETH",
+      "priceUSD": 1979.2799137097747
+    },
+    "token0Price": "0.9104829868444323660000254478528975",
+    "token1": {
+      "decimals": "18",
+      "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+      "symbol": "WETH",
+      "priceUSD": 1802.100687635666
+    },
+    "token1Price": "1.098318161293509988157124981593938",
+    "totalValueLockedToken0": "2.682253582545870032",
+    "totalValueLockedToken1": "5.820797472403952878",
+    "totalValueLockedUSD": "21400.40980620706227351958512176259",
+    "protocol": "Pancakeswap_V3",
+    "reserve0": 0.025122299494950064,
+    "reserve1": 0.02759227778875843,
+    "dangerous": false
+  },
+  {
+    "feeTier": "10000",
+    "id": "0x46027b00196275fb8215a622a44d1269b81ce71a",
+    "liquidity": "1427457962474612319",
+    "sqrtPrice": "1784165545443435770495500913",
+    "tick": "-75872",
+    "token0": {
+      "decimals": "18",
+      "id": "0x163f8c2467924be0ae7b5347228cabf260318753",
+      "symbol": "WLD",
+      "priceUSD": 0.9138821222247531
+    },
+    "token0Price": "1971.91808856992967466597803430337",
+    "token1": {
+      "decimals": "18",
+      "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+      "symbol": "WETH",
+      "priceUSD": 1802.100687635666
+    },
+    "token1Price": "0.0005071204558629602689528960702398508",
+    "totalValueLockedToken0": "6059.201108330808505704",
+    "totalValueLockedToken1": "5.81553208018677262",
+    "totalValueLockedUSD": "20942.86445241293583913827842856369",
+    "protocol": "Pancakeswap_V3",
+    "reserve0": 63.38810415998178,
+    "reserve1": 0.03214540427789877,
+    "dangerous": false
+  },
+  {
+    "feeTier": "100",
+    "id": "0x027039bd4ea6ac7f80fef4be2d0c6b74bfa932f9",
+    "liquidity": "2486820271478880596",
+    "sqrtPrice": "79204461204375265508876",
+    "tick": "-276331",
+    "token0": {
+      "decimals": "18",
+      "id": "0x4c9edd5852cd905f086c759e8383e09bff1e68b3",
+      "symbol": "USDe",
+      "priceUSD": 0.0
+    },
+    "token0Price": "1.000598573760709433551071375849852",
+    "token1": {
+      "decimals": "6",
+      "id": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+      "symbol": "USDT",
+      "priceUSD": 0.9999999999999999
+    },
+    "token1Price": "0.999401784315502551454692155215883",
+    "totalValueLockedToken0": "7315.301763129367253037",
+    "totalValueLockedToken1": "8381.322194",
+    "totalValueLockedUSD": "16762.644388",
+    "protocol": "Pancakeswap_V3",
+    "reserve0": 2487564.4328177306,
+    "reserve1": 2486076.332757,
+    "dangerous": false
+  },
+  {
+    "feeTier": "2500",
+    "id": "0x760ac383edf603cf194d063aafbe5516776a1ce9",
+    "liquidity": "49599955033237878",
+    "sqrtPrice": "12507943491536824828955031209695",
+    "tick": "101240",
+    "token0": {
+      "decimals": "8",
+      "id": "0x419d0d8bdd9af5e606ae2232ed285aff190e711b",
+      "symbol": "FUN",
+      "priceUSD": 0.0
+    },
+    "token0Price": "401224.4094046258069362096542070299",
+    "token1": {
+      "decimals": "18",
+      "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+      "symbol": "WETH",
+      "priceUSD": 1802.100687635666
+    },
+    "token1Price": "0.000002492370794398808513497343627981184",
+    "totalValueLockedToken0": "1660489.75856332",
+    "totalValueLockedToken1": "4.545049425892864036",
+    "totalValueLockedUSD": "16509.50958227865015704256475626731",
+    "protocol": "Pancakeswap_V3",
+    "reserve0": 3141774.10597714,
+    "reserve1": 7.830466024335861,
+    "dangerous": false
+  },
+  {
+    "feeTier": "100",
+    "id": "0x3a1b97fc25fa45832f588ed3bfb2a0f74ddbd4f8",
+    "liquidity": "75957415322684453207",
+    "sqrtPrice": "86771025236453926028284561937",
+    "tick": "1818",
+    "token0": {
+      "decimals": "18",
+      "id": "0x7f39c581f595b53c5cb19bd0b3f8da6c935e2ca0",
+      "symbol": "wstETH",
+      "priceUSD": 2160.8856099958944
+    },
+    "token0Price": "0.833699823921080801008883675382863",
+    "token1": {
+      "decimals": "18",
+      "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+      "symbol": "WETH",
+      "priceUSD": 1802.100687635666
+    },
+    "token1Price": "1.199472485548541279014800690621226",
+    "totalValueLockedToken0": "2.323810082459681077",
+    "totalValueLockedToken1": "4.558689954910947427",
+    "totalValueLockedUSD": "16369.2736656837445582487868045509",
+    "protocol": "Pancakeswap_V3",
+    "reserve0": 69.3545619514113,
+    "reserve1": 83.18888880798958,
+    "dangerous": false
+  },
+  {
+    "feeTier": "10000",
+    "id": "0x01153ec6ebe0c256895ca26bb569d41df48d1b27",
+    "liquidity": "2462638571519033832",
+    "sqrtPrice": "6920095154434069838183827807728879694",
+    "tick": "365725",
+    "token0": {
+      "decimals": "6",
+      "id": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+      "symbol": "USDC",
+      "priceUSD": 1.0001967171366302
+    },
+    "token0Price": "0.0001310795781392058568654020820102806",
+    "token1": {
+      "decimals": "18",
+      "id": "0xd4419c2d3daa986dc30444fa333a846be44fd1eb",
+      "symbol": "ZIK",
+      "priceUSD": 0.0
+    },
+    "token1Price": "7628.953450994517222721314975961905",
+    "totalValueLockedToken0": "7316.366065",
+    "totalValueLockedToken1": "218988582.104489384266106683",
+    "totalValueLockedUSD": "14632.73213",
+    "protocol": "Pancakeswap_V3",
+    "reserve0": 28194.746546,
+    "reserve1": 215096408.96724188,
+    "dangerous": false
+  },
+  {
+    "feeTier": "10000",
+    "id": "0xc6e66959a2fccf8768a9c6fa1b99f24bcda63295",
+    "liquidity": "271067983931262662971",
+    "sqrtPrice": "5578245156856842669976655257618",
+    "tick": "85090",
+    "token0": {
+      "decimals": "18",
+      "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+      "symbol": "WETH",
+      "priceUSD": 1802.100687635666
+    },
+    "token0Price": "0.0002017269737416126314410420124052809",
+    "token1": {
+      "decimals": "18",
+      "id": "0xd48067f122afc3a58f0f79611f5f1afae0d7f25b",
+      "symbol": "mRED",
+      "priceUSD": 0.0
+    },
+    "token1Price": "4957.195269686029401140410778129506",
+    "totalValueLockedToken0": "3.852812733346654833",
+    "totalValueLockedToken1": "19138.460561581681655847",
+    "totalValueLockedUSD": "14077.40971368988903921817499130565",
+    "protocol": "Pancakeswap_V3",
+    "reserve0": 3.8499954160173937,
+    "reserve1": 19085.179064594322,
+    "dangerous": false
+  },
+  {
+    "feeTier": "2500",
+    "id": "0x0d917a3a01389689a14c65dc1e990d68c437358a",
+    "liquidity": "66563426040",
+    "sqrtPrice": "54035106890160791303793843810746009",
+    "tick": "268669",
+    "token0": {
+      "decimals": "8",
+      "id": "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
+      "symbol": "WBTC",
+      "priceUSD": 93893.96318323538
+    },
+    "token0Price": "0.02149844942978894841295897893459566",
+    "token1": {
+      "decimals": "18",
+      "id": "0xae78736cd615f374d3085123a210448e74fc6393",
+      "symbol": "rETH",
+      "priceUSD": 2043.6478752594305
+    },
+    "token1Price": "46.51498254633971808670995825788948",
+    "totalValueLockedToken0": "0.10190004",
+    "totalValueLockedToken1": "1.872552900530944474",
+    "totalValueLockedUSD": "13795.57271052384373932279202633669",
+    "protocol": "Pancakeswap_V3",
+    "reserve0": 0.00097597,
+    "reserve1": 0.04539751682868004,
+    "dangerous": false
+  },
+  {
+    "feeTier": "10000",
+    "id": "0xc7f25e2fcc474816effd9be316f2e51ccef90ceb",
+    "liquidity": "7563346278417200784",
+    "sqrtPrice": "570453402476897681420828494",
+    "tick": "-98679",
+    "token0": {
+      "decimals": "18",
+      "id": "0x5283d291dbcf85356a21ba090e6db59121208b44",
+      "symbol": "BLUR",
+      "priceUSD": 0.0
+    },
+    "token0Price": "19289.40438701654872636036939887259",
+    "token1": {
+      "decimals": "18",
+      "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+      "symbol": "WETH",
+      "priceUSD": 1802.100687635666
+    },
+    "token1Price": "0.00005184193248979150462585165442853958",
+    "totalValueLockedToken0": "24121.234959749303987036",
+    "totalValueLockedToken1": "3.221334131350907288",
+    "totalValueLockedUSD": "11771.71832244544773609841173783456",
+    "protocol": "Pancakeswap_V3",
+    "reserve0": 1050.4451818435111,
+    "reserve1": 0.054457108201358066,
+    "dangerous": false
+  },
+  {
+    "feeTier": "500",
+    "id": "0xf84aad7ab687b1bb1fbb190344240b60b39e5b79",
+    "liquidity": "32827965542278",
+    "sqrtPrice": "109666892643690741606806",
+    "tick": "-269822",
+    "token0": {
+      "decimals": "18",
+      "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+      "symbol": "WETH",
+      "priceUSD": 1802.100687635666
+    },
+    "token0Price": "52.19249895940339983368057275252393",
+    "token1": {
+      "decimals": "8",
+      "id": "0xcbb7c0000ab88b473b1f5afd9ef808440eed33bf",
+      "symbol": "cbBTC",
+      "priceUSD": 93913.7721879135
+    },
+    "token1Price": "0.01915984135532242705512407602011511",
+    "totalValueLockedToken0": "3.093588443286982884",
+    "totalValueLockedToken1": "0.02881303",
+    "totalValueLockedUSD": "11193.11133692028343556516715349523",
+    "protocol": "Pancakeswap_V3",
+    "reserve0": 23.71635893292454,
+    "reserve1": 0.45440167,
+    "dangerous": false
+  },
+  {
+    "feeTier": "10000",
+    "id": "0xeaaf20c9e138fc912e25b9b09349a9bc3dcf02a6",
+    "liquidity": "36542235322326308538678",
+    "sqrtPrice": "294330336713901268626105128833205",
+    "tick": "164410",
+    "token0": {
+      "decimals": "18",
+      "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+      "symbol": "WETH",
+      "priceUSD": 1802.100687635666
+    },
+    "token0Price": "0.0000000724584622454261211680210148086345",
+    "token1": {
+      "decimals": "18",
+      "id": "0xd4419c2d3daa986dc30444fa333a846be44fd1eb",
+      "symbol": "ZIK",
+      "priceUSD": 0.0
+    },
+    "token1Price": "13801010.52397263854292626330727235",
+    "totalValueLockedToken0": "2.810117468488979679",
+    "totalValueLockedToken1": "136856767.757369205718161306",
+    "totalValueLockedUSD": "10260.79710544336667491679452263217",
+    "protocol": "Pancakeswap_V3",
+    "reserve0": 9.836478940891382,
+    "reserve1": 135753349.38207722,
+    "dangerous": false
+  },
+  {
+    "feeTier": "10000",
+    "id": "0x5e3fe73361e9ef3706dd4cbdfc6067278c22c769",
+    "liquidity": "470918289054899",
+    "sqrtPrice": "3983382617728941885678",
+    "tick": "-336132",
+    "token0": {
+      "decimals": "18",
+      "id": "0xc0b314a8c08637685fc3dafc477b92028c540cfb",
+      "symbol": "WOM",
+      "priceUSD": 0.0
+    },
+    "token0Price": "395.5989403921605915348602360619564",
+    "token1": {
+      "decimals": "6",
+      "id": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+      "symbol": "USDT",
+      "priceUSD": 0.9999999999999999
+    },
+    "token1Price": "0.00252781263521255011877876232937434",
+    "totalValueLockedToken0": "4673655.737412681829163329",
+    "totalValueLockedToken1": "4822.935896",
+    "totalValueLockedUSD": "9645.871792000000000000000000000002",
+    "protocol": "Pancakeswap_V3",
+    "reserve0": 9366.408983692483,
+    "reserve1": 23.676526,
+    "dangerous": false
+  },
+  {
+    "feeTier": "2500",
+    "id": "0xcaa55dd296813ed2d8080b3104ecf0cc9119415a",
+    "liquidity": "182443505032031484557",
+    "sqrtPrice": "5547495731893926925018815135223",
+    "tick": "84979",
+    "token0": {
+      "decimals": "18",
+      "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+      "symbol": "WETH",
+      "priceUSD": 1802.100687635666
+    },
+    "token0Price": "0.0002039694918553314912678922524593082",
+    "token1": {
+      "decimals": "18",
+      "id": "0xc43c6bfeda065fe2c4c11765bf838789bd0bb5de",
+      "symbol": "RED",
+      "priceUSD": 0.0
+    },
+    "token1Price": "4902.69398086879300058348468294668",
+    "totalValueLockedToken0": "2.614161882011426391",
+    "totalValueLockedToken1": "12813.987545307772897394",
+    "totalValueLockedUSD": "9458.467257201523908344062783137226",
+    "protocol": "Pancakeswap_V3",
+    "reserve0": 2.605619610168666,
+    "reserve1": 12774.555579207612,
+    "dangerous": false
+  },
+  {
+    "feeTier": "100",
+    "id": "0xacdb27b266142223e1e676841c1e809255fc6d07",
+    "liquidity": "1941285756615",
+    "sqrtPrice": "3352953079118324267025942",
+    "tick": "-201415",
+    "token0": {
+      "decimals": "18",
+      "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+      "symbol": "WETH",
+      "priceUSD": 1802.100687635666
+    },
+    "token0Price": "0.0005583470366044350438126234175786323",
+    "token1": {
+      "decimals": "6",
+      "id": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+      "symbol": "USDT",
+      "priceUSD": 0.9999999999999999
+    },
+    "token1Price": "1791.000819278023965960917447283707",
+    "totalValueLockedToken0": "2.858378397913287813",
+    "totalValueLockedToken1": "4273.111472",
+    "totalValueLockedUSD": "9428.593853722512237135132003803513",
+    "protocol": "Pancakeswap_V3",
+    "reserve0": 0.04587135572209185,
+    "reserve1": 82.155635,
+    "dangerous": false
+  },
+  {
+    "feeTier": "10000",
+    "id": "0x1ba0aa5d3fb11f1f7f08916c0ee8d0d7072088f4",
+    "liquidity": "785955143323137423369888",
+    "sqrtPrice": "9700028860886557993789524196087",
+    "tick": "96155",
+    "token0": {
+      "decimals": "18",
+      "id": "0x152649ea73beab28c5b49b26eb48f7ead6d4c898",
+      "symbol": "Cake",
+      "priceUSD": 1.964082108879691
+    },
+    "token0Price": "0.00006671340612620913553557195654174802",
+    "token1": {
+      "decimals": "18",
+      "id": "0xd4419c2d3daa986dc30444fa333a846be44fd1eb",
+      "symbol": "ZIK",
+      "priceUSD": 0.0
+    },
+    "token1Price": "14989.49098938509150786668577746464",
+    "totalValueLockedToken0": "2374.143776725589669258",
+    "totalValueLockedToken1": "98502497.45587017271485435",
+    "totalValueLockedUSD": "9398.381616855202072718214064936516",
+    "protocol": "Pancakeswap_V3",
+    "reserve0": 6419.546036117273,
+    "reserve1": 96225727.46432266,
+    "dangerous": false
+  },
+  {
+    "feeTier": "10000",
+    "id": "0x1e631d6e251a72582797f092a8e0732e9a2733c3",
+    "liquidity": "114693378401815941",
+    "sqrtPrice": "2948685088196473854771",
+    "tick": "-342147",
+    "token0": {
+      "decimals": "18",
+      "id": "0x904f36d74bed2ef2729eaa1c7a5b70dea2966a02",
+      "symbol": "BLB",
+      "priceUSD": 0.0013625634307010443
+    },
+    "token0Price": "721.9421200140971747076301197829297",
+    "token1": {
+      "decimals": "6",
+      "id": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+      "symbol": "USDC",
+      "priceUSD": 1.0001967171366302
+    },
+    "token1Price": "0.00138515259364625139462792641033696",
+    "totalValueLockedToken0": "9115581.939578406942972343",
+    "totalValueLockedToken1": "4622.441953",
+    "totalValueLockedUSD": "9248.194158336290151371899355917209",
+    "protocol": "Pancakeswap_V3",
+    "reserve0": 3081694.162494309,
+    "reserve1": 4268.616662,
+    "dangerous": false
+  },
+  {
+    "feeTier": "500",
+    "id": "0x5fbbc3380dd9f7253aa10838dd641dac8242f817",
+    "liquidity": "1346572757",
+    "sqrtPrice": "2579255117991240445485966304",
+    "tick": "-68501",
+    "token0": {
+      "decimals": "6",
+      "id": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+      "symbol": "USDC",
+      "priceUSD": 1.0001967171366302
+    },
+    "token0Price": "94356.22678096679334593908020297211",
+    "token1": {
+      "decimals": "8",
+      "id": "0xcbb7c0000ab88b473b1f5afd9ef808440eed33bf",
+      "symbol": "cbBTC",
+      "priceUSD": 93913.7721879135
+    },
+    "token1Price": "0.00001059813468719285930209444295481226",
+    "totalValueLockedToken0": "4561.957575",
+    "totalValueLockedToken1": "0.01364912",
+    "totalValueLockedUSD": "9123.915149999999999999999999999999",
+    "protocol": "Pancakeswap_V3",
+    "reserve0": 41363.293023,
+    "reserve1": 0.43837375,
+    "dangerous": false
+  },
+  {
+    "feeTier": "2500",
+    "id": "0xfe423ccfb7915de8eb58f8ad7ce08e1d66a47855",
+    "liquidity": "66691401101343721105",
+    "sqrtPrice": "5335543787375126001563472813",
+    "tick": "-53962",
+    "token0": {
+      "decimals": "18",
+      "id": "0x77777feddddffc19ff86db637967013e6c6a116c",
+      "symbol": "TORN",
+      "priceUSD": 0.0
+    },
+    "token0Price": "220.496545952957214364110940937409",
+    "token1": {
+      "decimals": "18",
+      "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+      "symbol": "WETH",
+      "priceUSD": 1802.100687635666
+    },
+    "token1Price": "0.004535218434729355391521214041943723",
+    "totalValueLockedToken0": "657.468998593404679405",
+    "totalValueLockedToken1": "2.405713146907719556",
+    "totalValueLockedUSD": "8715.296707157075183286806696053447",
+    "protocol": "Pancakeswap_V3",
+    "reserve0": 990.3090247827738,
+    "reserve1": 4.491267745273685,
+    "dangerous": false
+  },
+  {
+    "feeTier": "10000",
+    "id": "0xde464e04150cfed136886745ee50a6d39cc4c419",
+    "liquidity": "1564212256283292215844",
+    "sqrtPrice": "503166703116439877617966",
+    "tick": "-239351",
+    "token0": {
+      "decimals": "18",
+      "id": "0x423f4e6138e475d85cf7ea071ac92097ed631eea",
+      "symbol": "PNDC",
+      "priceUSD": 0.0
+    },
+    "token0Price": "24793359593.08928875324333529762251",
+    "token1": {
+      "decimals": "18",
+      "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+      "symbol": "WETH",
+      "priceUSD": 1802.100687635666
+    },
+    "token1Price": "0.00000000004033338024423008588450892820075906",
+    "totalValueLockedToken0": "2927649962.591627363127861485",
+    "totalValueLockedToken1": "2.136263199264482822",
+    "totalValueLockedUSD": "7805.416700300818854929967315663257",
+    "protocol": "Pancakeswap_V3",
+    "reserve0": 246299411.46749076,
+    "reserve1": 0.009934087816648387,
+    "dangerous": false
+  },
+  {
+    "feeTier": "100",
+    "id": "0x73ac49a9f5654951b5500cfa1c376520e6d50eb5",
+    "liquidity": "62106609597361858784",
+    "sqrtPrice": "13986224650754981114290693386",
+    "tick": "-34687",
+    "token0": {
+      "decimals": "18",
+      "id": "0xb7f964684afd11baeed81ff433f6701b701ea16e",
+      "symbol": "wRDG",
+      "priceUSD": 0.0
+    },
+    "token0Price": "32.08914665204732778197720770670548",
+    "token1": {
+      "decimals": "18",
+      "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+      "symbol": "WETH",
+      "priceUSD": 1802.100687635666
+    },
+    "token1Price": "0.03116318457587275062183469161209385",
+    "totalValueLockedToken0": "289.710459072712686503",
+    "totalValueLockedToken1": "1.144492257687036469",
+    "totalValueLockedUSD": "7492.7710391484723389315455885244",
+    "protocol": "Pancakeswap_V3",
+    "reserve0": 351.81706867007455,
+    "reserve1": 10.96374024790803,
+    "dangerous": false
+  },
+  {
+    "feeTier": "10000",
+    "id": "0x0f04fea1bd6191915b131d7abd8cad4d4e60e7ef",
+    "liquidity": "46747540629472985",
+    "sqrtPrice": "3065815773895631108023341954104",
+    "tick": "73118",
+    "token0": {
+      "decimals": "8",
+      "id": "0x630d98424efe0ea27fb1b3ab7741907dffeaad78",
+      "symbol": "PEAK",
+      "priceUSD": 0.0
+    },
+    "token0Price": "6678317.443716140787305030435201785",
+    "token1": {
+      "decimals": "18",
+      "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+      "symbol": "WETH",
+      "priceUSD": 1802.100687635666
+    },
+    "token1Price": "0.0000001497383148417023047042262000702645",
+    "totalValueLockedToken0": "12200711.6567365",
+    "totalValueLockedToken1": "1.827041870830243345",
+    "totalValueLockedUSD": "6713.597731761790220395910274653867",
+    "protocol": "Pancakeswap_V3",
+    "reserve0": 12080705.49336323,
+    "reserve1": 1.8089444826751067,
+    "dangerous": false
+  },
+  {
+    "feeTier": "10000",
+    "id": "0x73b9adc00794260616c51c41997ce0245b3fa012",
+    "liquidity": "4262215355824787805",
+    "sqrtPrice": "79425828766067617973129926",
+    "tick": "-138113",
+    "token0": {
+      "decimals": "18",
+      "id": "0xb131f4a55907b10d1f0a50d8ab8fa09ec342cd74",
+      "symbol": "MEME",
+      "priceUSD": 0.0
+    },
+    "token0Price": "995028.8139292812162256033767919439",
+    "token1": {
+      "decimals": "18",
+      "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+      "symbol": "WETH",
+      "priceUSD": 1802.100687635666
+    },
+    "token1Price": "0.000001004996022226821761555527487352846",
+    "totalValueLockedToken0": "135622.744190504292152193",
+    "totalValueLockedToken1": "1.812846154349553055",
+    "totalValueLockedUSD": "6587.795479477778126233489704929541",
+    "protocol": "Pancakeswap_V3",
+    "reserve0": 4251.608023841565,
+    "reserve1": 0.004272849152028411,
+    "dangerous": false
+  },
+  {
+    "feeTier": "500",
+    "id": "0x4d4c8f2f30e0224889ab578283a844e10b57e0f8",
+    "liquidity": "263500460426591475",
+    "sqrtPrice": "81487783049238032109602936276",
+    "tick": "562",
+    "token0": {
+      "decimals": "18",
+      "id": "0xa35b1b31ce002fbf2058d22f30f95d405200a15b",
+      "symbol": "ETHx",
+      "priceUSD": 0.0
+    },
+    "token0Price": "0.9453098045450621811860002839604056",
+    "token1": {
+      "decimals": "18",
+      "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+      "symbol": "WETH",
+      "priceUSD": 1802.100687635666
+    },
+    "token1Price": "1.057854256024836120110957023561559",
+    "totalValueLockedToken0": "0.231965746037560199",
+    "totalValueLockedToken1": "1.571069523990811808",
+    "totalValueLockedUSD": "5681.763532296897472836730546741034",
+    "protocol": "Pancakeswap_V3",
+    "reserve0": 0.2561937080635387,
+    "reserve1": 0.27101560444179884,
+    "dangerous": false
+  },
+  {
+    "feeTier": "500",
+    "id": "0x5c9c6f39ce25cc6d0f39410f890933a1476fb1b0",
+    "liquidity": "106173125150797071763",
+    "sqrtPrice": "79148003704091635946207096418",
+    "tick": "-21",
+    "token0": {
+      "decimals": "18",
+      "id": "0x5e8422345238f34275888049021821e8e08caa1f",
+      "symbol": "frxETH",
+      "priceUSD": 1798.4559944655487
+    },
+    "token0Price": "1.002026567890086385358185696455173",
+    "token1": {
+      "decimals": "18",
+      "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+      "symbol": "WETH",
+      "priceUSD": 1802.100687635666
+    },
+    "token1Price": "0.9979775307810913430186236800928242",
+    "totalValueLockedToken0": "1.388282578314216644",
+    "totalValueLockedToken1": "1.717176814819971941",
+    "totalValueLockedUSD": "5670.406876981552418801166061140987",
+    "protocol": "Pancakeswap_V3",
+    "reserve0": 106.2806542227396,
+    "reserve1": 106.06570487100863,
+    "dangerous": false
+  },
+  {
+    "feeTier": "100",
+    "id": "0x1445f32d1a74872ba41f3d8cf4022e9996120b31",
+    "liquidity": "12724477793629",
+    "sqrtPrice": "1858682611962164753244636609364956",
+    "tick": "201270",
+    "token0": {
+      "decimals": "6",
+      "id": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+      "symbol": "USDC",
+      "priceUSD": 1.0001967171366302
+    },
+    "token0Price": "1816.973926509115397828169546889918",
+    "token1": {
+      "decimals": "18",
+      "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+      "symbol": "WETH",
+      "priceUSD": 1802.100687635666
+    },
+    "token1Price": "0.0005503656301338692866104694561640359",
+    "totalValueLockedToken0": "2738.193565",
+    "totalValueLockedToken1": "1.45284744761961904",
+    "totalValueLockedUSD": "5368.382858182493247577979229898856",
+    "protocol": "Pancakeswap_V3",
+    "reserve0": 542.393299,
+    "reserve1": 0.29851463003523276,
+    "dangerous": false
+  },
+  {
+    "feeTier": "2500",
+    "id": "0x3364f7925b3e499ec45f6a0c6f744912fb7394cf",
+    "liquidity": "1796270200",
+    "sqrtPrice": "47606871893817036087430190971",
+    "tick": "-10188",
+    "token0": {
+      "decimals": "6",
+      "id": "0x467719ad09025fcc6cf6f8311755809d45a5e5f3",
+      "symbol": "AXL",
+      "priceUSD": 0.0
+    },
+    "token0Price": "2.769618012767361716413203860407856",
+    "token1": {
+      "decimals": "6",
+      "id": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+      "symbol": "USDC",
+      "priceUSD": 1.0001967171366302
+    },
+    "token1Price": "0.3610606211362752727633727904673819",
+    "totalValueLockedToken0": "6608.986768",
+    "totalValueLockedToken1": "2200.214592",
+    "totalValueLockedUSD": "4400.429184000000000000000000000002",
+    "protocol": "Pancakeswap_V3",
+    "reserve0": 2989.383289,
+    "reserve1": 1079.348587,
+    "dangerous": false
+  },
+  {
+    "feeTier": "2500",
+    "id": "0x8975e0e90fb8514fba7882be85f6278c032246b3",
+    "liquidity": "292270163975",
+    "sqrtPrice": "3455184213113300351657618",
+    "tick": "-200815",
+    "token0": {
+      "decimals": "18",
+      "id": "0x0ae38f7e10a43b5b2fb064b42a2f4514cba909ef",
+      "symbol": "unshETH",
+      "priceUSD": 0.0
+    },
+    "token0Price": "0.0005257953657625084163747386314458271",
+    "token1": {
+      "decimals": "6",
+      "id": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+      "symbol": "USDC",
+      "priceUSD": 1.0001967171366302
+    },
+    "token1Price": "1901.880589133378997827514585438859",
+    "totalValueLockedToken0": "1.215573867143049247",
+    "totalValueLockedToken1": "1759.917299",
+    "totalValueLockedUSD": "3519.834598000000000000000000000001",
+    "protocol": "Pancakeswap_V3",
+    "reserve0": 0.006701821558919779,
+    "reserve1": 12.746064,
+    "dangerous": false
+  },
+  {
+    "feeTier": "10000",
+    "id": "0x0d5904169c549c9fd9fe796450c5450460c15f2c",
+    "liquidity": "3575089185100081984606",
+    "sqrtPrice": "251890580467047127490227788",
+    "tick": "-115028",
+    "token0": {
+      "decimals": "18",
+      "id": "0x8290333cef9e6d528dd5618fb97a76f268f3edd4",
+      "symbol": "ANKR",
+      "priceUSD": 0.0
+    },
+    "token0Price": "98931.66382219539550280139918161117",
+    "token1": {
+      "decimals": "18",
+      "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+      "symbol": "WETH",
+      "priceUSD": 1802.100687635666
+    },
+    "token1Price": "0.00001010798728501369067717865880263689",
+    "totalValueLockedToken0": "337788.921433028823395275",
+    "totalValueLockedToken1": "0.969806124638237158",
+    "totalValueLockedUSD": "3495.572552201613005437043513218431",
+    "protocol": "Pancakeswap_V3",
+    "reserve0": 1124487.2532943059,
+    "reserve1": 11.366302858458813,
+    "dangerous": false
+  },
+  {
+    "feeTier": "2500",
+    "id": "0x6a042326f2eb2191613a5e721074c44db8a38d69",
+    "liquidity": "1312941437430",
+    "sqrtPrice": "945967138493838185490458936183",
+    "tick": "49599",
+    "token0": {
+      "decimals": "6",
+      "id": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+      "symbol": "USDC",
+      "priceUSD": 1.0001967171366302
+    },
+    "token0Price": "0.7014667139165647600629491409435786",
+    "token1": {
+      "decimals": "8",
+      "id": "0xe0f63a424a4439cbe457d80e4f4b51ad25b2c56c",
+      "symbol": "SPX",
+      "priceUSD": 0.0
+    },
+    "token1Price": "1.42558439361521005247841340260416",
+    "totalValueLockedToken0": "1636.862706",
+    "totalValueLockedToken1": "33535.93774451",
+    "totalValueLockedUSD": "3273.725411999999999999999999999999",
+    "protocol": "Pancakeswap_V3",
+    "reserve0": 109963.58472,
+    "reserve1": 156762.37024328,
+    "dangerous": false
+  },
+  {
+    "feeTier": "2500",
+    "id": "0xec2074245b0b5e6a97d1de64837ce6e9306d1646",
+    "liquidity": "422104696084797386",
+    "sqrtPrice": "6639983669416647667318",
+    "tick": "-325911",
+    "token0": {
+      "decimals": "18",
+      "id": "0x2d20f855d13f99a40196866101f3e49c05e88f6a",
+      "symbol": "BARTS",
+      "priceUSD": 0.0
+    },
+    "token0Price": "142.3721832728129900146405926989452",
+    "token1": {
+      "decimals": "6",
+      "id": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+      "symbol": "USDT",
+      "priceUSD": 0.9999999999999999
+    },
+    "token1Price": "0.007023843963141340096043396181866626",
+    "totalValueLockedToken0": "853780.224574015078360265",
+    "totalValueLockedToken1": "1623.171537",
+    "totalValueLockedUSD": "3246.343074",
+    "protocol": "Pancakeswap_V3",
+    "reserve0": 5036545.4381273445,
+    "reserve1": 35375.90927,
+    "dangerous": false
+  },
+  {
+    "feeTier": "10000",
+    "id": "0xba4e1ed8cd961b0a8926ed02079a1469c68f07fa",
+    "liquidity": "95565281277273328",
+    "sqrtPrice": "212407268343336175385057894227226666480",
+    "tick": "434210",
+    "token0": {
+      "decimals": "8",
+      "id": "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
+      "symbol": "WBTC",
+      "priceUSD": 93893.96318323538
+    },
+    "token0Price": "0.000000001391298830265566038872272029437531",
+    "token1": {
+      "decimals": "18",
+      "id": "0xd4419c2d3daa986dc30444fa333a846be44fd1eb",
+      "symbol": "ZIK",
+      "priceUSD": 0.0
+    },
+    "token1Price": "718752850.391690225595405748447393",
+    "totalValueLockedToken0": "0.01321788",
+    "totalValueLockedToken1": "257923875.590844773671413905",
+    "totalValueLockedUSD": "2527.126919934559178138110943077858",
+    "protocol": "Pancakeswap_V3",
+    "reserve0": 0.35645963,
+    "reserve1": 256206375.3644871,
+    "dangerous": false
+  },
+  {
+    "feeTier": "10000",
+    "id": "0x00a836acb588ba0c492ace034efe0c8d9491f8a6",
+    "liquidity": "213100521774494007151",
+    "sqrtPrice": "223909845333509192302949807",
+    "tick": "-117383",
+    "token0": {
+      "decimals": "18",
+      "id": "0x772358ef6ed3e18bde1263f7d229601c5fa81875",
+      "symbol": "SNPAD",
+      "priceUSD": 0.0
+    },
+    "token0Price": "125202.4385249960028880183530417691",
+    "token1": {
+      "decimals": "18",
+      "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+      "symbol": "WETH",
+      "priceUSD": 1802.100687635666
+    },
+    "token1Price": "0.000007987064882928420784069083648468406",
+    "totalValueLockedToken0": "80445.297985188819131749",
+    "totalValueLockedToken1": "0.66061603432879515",
+    "totalValueLockedUSD": "2399.098049162511099278448102254445",
+    "protocol": "Pancakeswap_V3",
+    "reserve0": 75403.39615650401,
+    "reserve1": 0.6022518174951531,
+    "dangerous": false
+  },
+  {
+    "feeTier": "100",
+    "id": "0x4508b1e047a170e53e2d9d3e389fcdb958d715ac",
+    "liquidity": "3597022681429682569246",
+    "sqrtPrice": "150317611193946143048756283",
+    "tick": "-125353",
+    "token0": {
+      "decimals": "18",
+      "id": "0x49a917b8991fb46273fd54bd4edc06698e810c3d",
+      "symbol": "LEO",
+      "priceUSD": 0.0
+    },
+    "token0Price": "0",
+    "token1": {
+      "decimals": "18",
+      "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+      "symbol": "WETH",
+      "priceUSD": 1802.100687635666
+    },
+    "token1Price": "0",
+    "totalValueLockedToken0": "96422.073412071969200662",
+    "totalValueLockedToken1": "0.35",
+    "totalValueLockedUSD": "1935.18718615772046138383162295751",
+    "protocol": "Pancakeswap_V3",
+    "reserve0": 1895888.9467988245,
+    "reserve1": 6.824541169758987,
+    "dangerous": false
+  },
+  {
+    "feeTier": "2500",
+    "id": "0x7ca3edb2c8fb3e657e282e67f4008d658aa161d2",
+    "liquidity": "1964176302402767398",
+    "sqrtPrice": "6874522434879621830742464628",
+    "tick": "-48893",
+    "token0": {
+      "decimals": "18",
+      "id": "0x514910771af9ca656af840dff83e8264ecf986ca",
+      "symbol": "LINK",
+      "priceUSD": 13.567660010029755
+    },
+    "token0Price": "132.8232492783192903958939096765115",
+    "token1": {
+      "decimals": "18",
+      "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+      "symbol": "WETH",
+      "priceUSD": 1802.100687635666
+    },
+    "token1Price": "0.007528802415491199542857119227168638",
+    "totalValueLockedToken0": "80.890653990690110349",
+    "totalValueLockedToken1": "0.405478415921674864",
+    "totalValueLockedUSD": "1841.629910771764028495796822656507",
+    "protocol": "Pancakeswap_V3",
+    "reserve0": 22.636929440198745,
+    "reserve1": 0.17042896904867216,
+    "dangerous": false
+  },
+  {
+    "feeTier": "2500",
+    "id": "0x4689e3c91036437a46a6c8b62157f58210ba67a7",
+    "liquidity": "10160479556070942340",
+    "sqrtPrice": "998347030519461588272623246",
+    "tick": "-87485",
+    "token0": {
+      "decimals": "18",
+      "id": "0x73968b9a57c6e53d41345fd57a6e6ae27d6cdb2f",
+      "symbol": "SDT",
+      "priceUSD": 0.0
+    },
+    "token0Price": "6297.905017139088333464594516846891",
+    "token1": {
+      "decimals": "18",
+      "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+      "symbol": "WETH",
+      "priceUSD": 1802.100687635666
+    },
+    "token1Price": "0.0001587829599332801660003670674500622",
+    "totalValueLockedToken0": "4217.744950431608740281",
+    "totalValueLockedToken1": "0.473389467293870433",
+    "totalValueLockedUSD": "1516.020476094500867458591012156219",
+    "protocol": "Pancakeswap_V3",
+    "reserve0": 806.3289626577965,
+    "reserve1": 0.1280312993707363,
+    "dangerous": false
+  },
+  {
+    "feeTier": "10000",
+    "id": "0x3518ac92c4e92137e6286915d98a12bd0d238540",
+    "liquidity": "101655535447448331273747",
+    "sqrtPrice": "79385350034318221206071779",
+    "tick": "-138123",
+    "token0": {
+      "decimals": "18",
+      "id": "0x1731ad9f2db8051e8b76aeda9ca40685127fa4bd",
+      "symbol": "LV",
+      "priceUSD": 0.0
+    },
+    "token0Price": "996043.8065749083711584905728902036",
+    "token1": {
+      "decimals": "18",
+      "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+      "symbol": "WETH",
+      "priceUSD": 1802.100687635666
+    },
+    "token1Price": "0.00000100397190705767829073231211692087",
+    "totalValueLockedToken0": "91251156.623292894175749684",
+    "totalValueLockedToken1": "0.405286229637105391",
+    "totalValueLockedUSD": "1470.740888528007242012993060122205",
+    "protocol": "Pancakeswap_V3",
+    "reserve0": 101454251.69030893,
+    "reserve1": 101.85721854862915,
+    "dangerous": false
+  },
+  {
+    "feeTier": "500",
+    "id": "0xa6f73c2b591d88843ffdaa526bac2463b7f23411",
+    "liquidity": "28043723230036648",
+    "sqrtPrice": "76208598652638887449172662880",
+    "tick": "-778",
+    "token0": {
+      "decimals": "18",
+      "id": "0x0100546f2cd4c9d97f798ffc9755e47865ff7ee6",
+      "symbol": "alETH",
+      "priceUSD": 0.0
+    },
+    "token0Price": "1.080814633151469373741555465917243",
+    "token1": {
+      "decimals": "18",
+      "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+      "symbol": "WETH",
+      "priceUSD": 1802.100687635666
+    },
+    "token1Price": "0.9252280357124442160124848709377853",
+    "totalValueLockedToken0": "0.408594631632272816",
+    "totalValueLockedToken1": "0.397069331839091407",
+    "totalValueLockedUSD": "1449.878320528871633192980137844274",
+    "protocol": "Pancakeswap_V3",
+    "reserve0": 0.029154881481309815,
+    "reserve1": 0.026974913724381395,
+    "dangerous": false
+  },
+  {
+    "feeTier": "2500",
+    "id": "0x32600e01dfaebad27dac6b68902abc082219b526",
+    "liquidity": "57040427756671126098",
+    "sqrtPrice": "359731109357393979004575462",
+    "tick": "-107900",
+    "token0": {
+      "decimals": "18",
+      "id": "0x970b9bb2c0444f5e81e9d0efb84c8ccdcdcaf84d",
+      "symbol": "FUSE",
+      "priceUSD": 0.0
+    },
+    "token0Price": "48506.86124862020765775650097714966",
+    "token1": {
+      "decimals": "18",
+      "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+      "symbol": "WETH",
+      "priceUSD": 1802.100687635666
+    },
+    "token1Price": "0.00002061564022612255297212105092029464",
+    "totalValueLockedToken0": "17653.464143903065146005",
+    "totalValueLockedToken1": "0.196243273064888744",
+    "totalValueLockedUSD": "1438.850958013997281362441757689614",
+    "protocol": "Pancakeswap_V3",
+    "reserve0": 12562.739675925126,
+    "reserve1": 0.25898892141330787,
+    "dangerous": false
+  },
+  {
+    "feeTier": "500",
+    "id": "0x66356491821a83431be84f62eb9fb5ad67015274",
+    "liquidity": "25545751670314379",
+    "sqrtPrice": "71852034424048550653226566902",
+    "tick": "-1955",
+    "token0": {
+      "decimals": "18",
+      "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+      "symbol": "WETH",
+      "priceUSD": 1802.100687635666
+    },
+    "token0Price": "1.215852882969747132991365854451052",
+    "token1": {
+      "decimals": "18",
+      "id": "0xe95a203b1a91a908f9b9ce46459d101078c2c3cb",
+      "symbol": "ankrETH",
+      "priceUSD": 0.0
+    },
+    "token1Price": "0.8224679268411801864433242143270001",
+    "totalValueLockedToken0": "0.363450334565833385",
+    "totalValueLockedToken1": "0.239305999698444413",
+    "totalValueLockedUSD": "1332.750692903262153914818059091892",
+    "protocol": "Pancakeswap_V3",
+    "reserve0": 0.028168206803164685,
+    "reserve1": 0.023167446652232485,
+    "dangerous": false
+  },
+  {
+    "feeTier": "2500",
+    "id": "0x7acd6c24ebfaaf50564cdfcd0ebac2cdc284c320",
+    "liquidity": "319810494733037058035",
+    "sqrtPrice": "74320415201258793409085276",
+    "tick": "-139441",
+    "token0": {
+      "decimals": "18",
+      "id": "0x52d32784713ca6b7fcf35592686f7e7c54fa67b1",
+      "symbol": "MRCS",
+      "priceUSD": 0.0
+    },
+    "token0Price": "0",
+    "token1": {
+      "decimals": "18",
+      "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+      "symbol": "WETH",
+      "priceUSD": 1802.100687635666
+    },
+    "token1Price": "0",
+    "totalValueLockedToken0": "340929.175137966393071489",
+    "totalValueLockedToken1": "0.3",
+    "totalValueLockedUSD": "1120.175509502534016346250928750773",
+    "protocol": "Pancakeswap_V3",
+    "reserve0": 340929.1751379664,
+    "reserve1": 0.30000000000000004,
+    "dangerous": false
+  },
+  {
+    "feeTier": "100",
+    "id": "0xdb9673ec4b2b31d818a29dcf793bafc6ba44517c",
+    "liquidity": "5359925742557405365119948",
+    "sqrtPrice": "2506463768202410414625272",
+    "tick": "-207235",
+    "token0": {
+      "decimals": "18",
+      "id": "0x3d1c618b57a3706f8b97f3c7242d2445ac5e6560",
+      "symbol": "Money",
+      "priceUSD": 0.0
+    },
+    "token0Price": "999162912.4398070949602013696012701",
+    "token1": {
+      "decimals": "18",
+      "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+      "symbol": "WETH",
+      "priceUSD": 1802.100687635666
+    },
+    "token1Price": "0.000000001000837788862828046557685096108705",
+    "totalValueLockedToken0": "5463840.655799389791273857",
+    "totalValueLockedToken1": "0.164018296938177498",
+    "totalValueLockedUSD": "1036.989866410006074584637999916421",
+    "protocol": "Pancakeswap_V3",
+    "reserve0": 169424778120.88354,
+    "reserve1": 169.56672031308034,
+    "dangerous": false
+  }
+]

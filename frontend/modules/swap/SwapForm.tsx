@@ -123,7 +123,8 @@ export function SwapForm({ redirectToPoolPage }: Props) {
   const handleRefreshPools = async () => {
     setIsRefreshing(true);
     try {
-      const response = await fetch(`${process.env.NEXT_PRIVATE_ALLOWED_ORIGINS}/refresh_pools`);
+      // const response = await fetch(`${process.env.NEXT_PRIVATE_ALLOWED_ORIGINS}/refresh_pools`);
+      const response = await fetch(`http://8.134.121.38:5080/refresh_pools`);
       
       if (response.ok) {
         toast({
@@ -213,7 +214,9 @@ export function SwapForm({ redirectToPoolPage }: Props) {
                 loadingText="Refreshing"
                 spinner={<RefreshCw size={16} className={isRefreshing ? "animate-spin" : ""} />}
               >
+                Refresh Pools&nbsp;&nbsp;
                 <RefreshCw size={16} className={isRefreshing ? "animate-spin" : ""} />
+                
               </Button>
             </Tooltip>
           </HStack>
