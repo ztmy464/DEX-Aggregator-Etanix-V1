@@ -37,7 +37,7 @@ export function useSimulateSwapQuery({
   }
 
   // const url = `${process.env.NEXT_PRIVATE_ALLOWED_ORIGINS}/order_router?${params.toString()}`
-  const url = `http://8.134.121.38:5080/order_router?${params.toString()}`
+  const url = `http://localhost:5000/order_router?${params.toString()}`
   console.log('🔍 url:----------------------------', url)
 
   const chainId = getChainId(chain)

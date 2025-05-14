@@ -124,7 +124,7 @@ export function SwapForm({ redirectToPoolPage }: Props) {
     setIsRefreshing(true);
     try {
       // const response = await fetch(`${process.env.NEXT_PRIVATE_ALLOWED_ORIGINS}/refresh_pools`);
-      const response = await fetch(`http://8.134.121.38:5080/refresh_pools`);
+      const response = await fetch(`http://localhost:5000/refresh_pools`);
       
       if (response.ok) {
         toast({

@@ -51,5 +51,5 @@ BLACKLISTED_TOKENS = [
 ]
 
 
-ALCHEMY_KEY = "8JkLj_N-N3KGXwQVnoSqq-RkXiNmyut6"
-API_KEY = "a450daf8a972e7b988e9b3a4f5f13b9f"
+ALCHEMY_KEY = "xxx"
+API_KEY = "xxx"
