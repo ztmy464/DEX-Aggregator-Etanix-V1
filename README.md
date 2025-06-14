@@ -1,4 +1,7 @@
 # DEX Aggregator Etanix
+![](images/show.png)
+
+![](images/Pool_Graph.png)
 
 ## 1. Introduction
 
