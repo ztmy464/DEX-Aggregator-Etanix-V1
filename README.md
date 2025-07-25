@@ -7,8 +7,17 @@
 
 DEX Aggregator Etanix designed to find the most optimal trading routes across various decentralized exchanges to provide users with the best possible swap rates. It consists of a backend for core logic, a frontend for user interaction, and smart contracts for on-chain operations or testing.
 
-The DEXs available are as follows:
+The **DEXs available** are as follows:
 uniswap V2, uniswap v3, Sushiswap V2, Pancakeswap V3, Curve V1, Curve V2, Balancer V3
+
+⚙️ Key Features
+
+✅ Data acquisition and caching of pool information (via requests to the GraphQL RPC of each DEX) 
+
+✅ Simulations of the swap process for different DEXs are conducted to calculate the impact on prices (fully off-chain implementation, without accessing RPC) 
+
+✅ path discovery (Smart Order Routing)
+
 
 ## 2. Project Structure
 
